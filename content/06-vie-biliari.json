@@ -1,0 +1,279 @@
+[
+  {
+    "id": "vb-0001", "distretto": "vie-biliari", "argomento": "Triangolo epatocistico (di Calot)",
+    "interventi": ["colecistectomia VLS", "colecistectomia open"], "tipo": "mcq", "livello": 1,
+    "domanda": "Quali sono i limiti del triangolo epatocistico, nella definizione usata oggi in chirurgia?",
+    "opzioni": ["Dotto cistico, dotto epatico comune, margine inferiore del fegato", "Dotto cistico, dotto epatico comune, arteria cistica", "Coledoco, prima porzione duodenale, margine inferiore del fegato", "Dotto cistico, coledoco, arteria epatica destra"],
+    "corrette": [0],
+    "spiegazione": "Il triangolo epatocistico è delimitato dal dotto cistico (in basso/lateralmente), dal dotto epatico comune (medialmente) e dal margine inferiore del fegato (in alto). La descrizione originale di Calot (1891) usava come limite superiore l'arteria cistica: per questo i due termini vengono spesso usati come sinonimi.",
+    "perla": "È nel triangolo epatocistico che si cerca la critical view of safety: va liberato da grasso e tessuto fibroso, non sezionato alla cieca.",
+    "fonte": { "testo": "Skandalakis' Surgical Anatomy", "riferimento": "cap. Extrahepatic Biliary Tract and Gallbladder" },
+    "tag": ["calot", "a-rischio"], "verificata": false
+  },
+  {
+    "id": "vb-0002", "distretto": "vie-biliari", "argomento": "Critical view of safety (CVS)",
+    "interventi": ["colecistectomia VLS"], "tipo": "multi", "livello": 1,
+    "domanda": "Quali sono i criteri della critical view of safety? Seleziona tutti i criteri corretti.",
+    "opzioni": ["Il triangolo epatocistico è liberato da grasso e tessuto fibroso", "Il terzo inferiore della colecisti è separato dal letto epatico, esponendo il piatto cistico", "Due e solo due strutture entrano nella colecisti", "Il coledoco è visualizzato per tutta la sua lunghezza", "È stata eseguita una colangiografia intraoperatoria"],
+    "corrette": [0, 1, 2],
+    "spiegazione": "La CVS (Strasberg 1995) richiede tre criteri: triangolo epatocistico ripulito, terzo inferiore della colecisti staccato dal piatto cistico, due sole strutture (dotto e arteria cistica) che entrano nella colecisti. Non richiede di esporre il coledoco né la colangiografia.",
+    "perla": "Esporre il coledoco non fa parte della CVS: la dissezione attorno alla via biliare principale aumenta il rischio di lesione termica o devascolarizzazione.",
+    "fonte": { "testo": "Strasberg SM, Hertl M, Soper NJ. J Am Coll Surg 1995", "riferimento": "An analysis of the problem of biliary injury during laparoscopic cholecystectomy" },
+    "tag": ["cvs", "a-rischio"], "verificata": false
+  },
+  {
+    "id": "vb-0003", "distretto": "vie-biliari", "argomento": "Solco di Rouvière",
+    "interventi": ["colecistectomia VLS"], "tipo": "mcq", "livello": 2,
+    "domanda": "Durante la colecistectomia VLS, perché il solco di Rouvière è un repere di sicurezza?",
+    "opzioni": ["Segna il piano del peduncolo posteriore destro: la dissezione deve restare al di sopra (anteriormente) di esso", "Indica la posizione del coledoco: la dissezione va condotta al di sotto di esso", "Contiene l'arteria cistica, che va clippata a quel livello", "Corrisponde alla giunzione cistico-coledocica"],
+    "corrette": [0],
+    "spiegazione": "Il solco di Rouvière è una fessura sulla faccia inferiore del lobo destro, che spesso contiene il peduncolo glissoniano posteriore destro. Il suo piano corrisponde all'incirca a quello della via biliare principale: dissezionare sopra (ventralmente a) questo livello mantiene lontani dal coledoco.",
+    "perla": "Prima di dissezionare identifica il solco e immagina una linea dal solco alla base del segmento IV: resta sopra quella linea.",
+    "fonte": { "testo": "Brunt LM et al. Surg Endosc 2020", "riferimento": "Safe Cholecystectomy Multi-society Practice Guideline (SAGES/AHPBA/IHPBA/SSAT/EAES…)" },
+    "tag": ["rouviere", "a-rischio"], "verificata": false
+  },
+  {
+    "id": "vb-0004", "distretto": "vie-biliari", "argomento": "Lesione 'classica' della via biliare",
+    "interventi": ["colecistectomia VLS"], "tipo": "mcq", "livello": 2,
+    "domanda": "Durante la colecistectomia VLS, cosa può succedere se l'infundibolo viene trazionato in senso craniale (invece che laterale e caudale)?",
+    "opzioni": ["Coledoco e dotto cistico si allineano: il coledoco può essere scambiato per il cistico, clippato e sezionato", "Il dotto cistico si accorcia fino a scomparire, ma non c'è rischio per la via principale", "L'arteria cistica viene trascinata dietro il coledoco", "Il duodeno viene stirato e può essere perforato dal trocar"],
+    "corrette": [0],
+    "spiegazione": "Con la trazione craniale dell'infundibolo il triangolo epatocistico si chiude e coledoco e cistico si dispongono in linea. Il coledoco può così essere scambiato per il dotto cistico. È il meccanismo della lesione 'classica', di solito per errore di identificazione percettiva.",
+    "perla": "Fondo verso la spalla destra, infundibolo lateralmente e in basso: il triangolo si apre e cistico e coledoco formano un angolo.",
+    "fonte": { "testo": "Strasberg SM, Hertl M, Soper NJ. J Am Coll Surg 1995", "riferimento": "An analysis of the problem of biliary injury during laparoscopic cholecystectomy" },
+    "tag": ["correlazione", "a-rischio", "lesione-biliare"], "verificata": false
+  },
+  {
+    "id": "vb-0005", "distretto": "vie-biliari", "argomento": "Classificazione di Strasberg",
+    "interventi": ["colecistectomia VLS"], "tipo": "mcq", "livello": 3,
+    "domanda": "Durante la colecistectomia VLS un dotto settoriale destro aberrante viene sezionato senza essere legato, con fistola biliare. Che tipo di lesione è secondo Strasberg?",
+    "opzioni": ["Tipo C", "Tipo A", "Tipo B", "Tipo D"],
+    "corrette": [0],
+    "spiegazione": "Classificazione di Strasberg: A = fistola dal moncone cistico o da dotti del letto epatico; B = occlusione di un dotto epatico destro aberrante; C = sezione di un dotto destro aberrante NON legato (fistola); D = lesione laterale della via biliare principale; E = lesione circonferenziale della via principale, sottoclassificata secondo Bismuth.",
+    "perla": "B e C coinvolgono lo stesso dotto aberrante: se è clippato si ha l'occlusione (B), se resta aperto la fistola (C).",
+    "fonte": { "testo": "Strasberg SM, Hertl M, Soper NJ. J Am Coll Surg 1995", "riferimento": "Classificazione delle lesioni biliari" },
+    "tag": ["correlazione", "lesione-biliare", "variante"], "verificata": false
+  },
+  {
+    "id": "vb-0006", "distretto": "vie-biliari", "argomento": "Classificazione di Strasberg – tipo E",
+    "interventi": ["colecistectomia VLS"], "tipo": "flash", "livello": 2,
+    "domanda": "Cosa indica una lesione di tipo E nella classificazione di Strasberg, e come viene sottoclassificata?",
+    "corrette": "Lesione circonferenziale (sezione o stenosi) della via biliare principale. Si sottoclassifica da E1 a E5 secondo Bismuth, in base al livello rispetto alla confluenza biliare.",
+    "spiegazione": "E1: moncone del dotto epatico comune > 2 cm; E2: < 2 cm; E3: confluenza conservata ma nessun moncone del dotto epatico comune; E4: confluenza interrotta (dotti destro e sinistro separati); E5: coinvolgimento di un dotto settoriale destro aberrante insieme al dotto epatico comune.",
+    "perla": "Il livello (E1–E5) orienta la ricostruzione: più è prossimale, più è complessa l'epaticodigiunostomia.",
+    "fonte": { "testo": "Strasberg SM, Hertl M, Soper NJ. J Am Coll Surg 1995", "riferimento": "Classificazione delle lesioni biliari (integra Bismuth)" },
+    "tag": ["lesione-biliare"], "verificata": false
+  },
+  {
+    "id": "vb-0007", "distretto": "vie-biliari", "argomento": "Classificazione di Bismuth delle stenosi",
+    "interventi": ["colecistectomia VLS"], "tipo": "ordina", "livello": 3,
+    "domanda": "Ordina i tipi di Bismuth delle stenosi biliari postoperatorie dal più distale al più prossimale.",
+    "opzioni": ["E1 – moncone del dotto epatico comune > 2 cm", "E2 – moncone del dotto epatico comune < 2 cm", "E3 – nessun moncone, confluenza conservata", "E4 – confluenza interrotta, dotti destro e sinistro separati"],
+    "corrette": [0, 1, 2, 3],
+    "spiegazione": "La classificazione di Bismuth (ripresa nel tipo E di Strasberg) descrive quanto è alta la lesione rispetto alla confluenza dei dotti epatici. Il tipo E5 indica il coinvolgimento associato di un dotto settoriale destro aberrante.",
+    "fonte": { "testo": "Strasberg SM, Hertl M, Soper NJ. J Am Coll Surg 1995", "riferimento": "Classificazione delle lesioni biliari" },
+    "tag": ["lesione-biliare"], "verificata": false
+  },
+  {
+    "id": "vb-0008", "distretto": "vie-biliari", "argomento": "Sequenza della colecistectomia sicura",
+    "interventi": ["colecistectomia VLS"], "tipo": "ordina", "livello": 1,
+    "domanda": "Ordina i passaggi della colecistectomia VLS secondo l'approccio della critical view of safety.",
+    "opzioni": ["Trazione del fondo verso la spalla destra e dell'infundibolo lateralmente", "Apertura del peritoneo sui versanti anteriore e posteriore del triangolo epatocistico", "Pulizia del triangolo epatocistico da grasso e tessuto fibroso", "Distacco del terzo inferiore della colecisti dal piatto cistico", "Time-out: verifica (e documentazione) della CVS", "Clip e sezione di dotto e arteria cistica"],
+    "corrette": [0, 1, 2, 3, 4, 5],
+    "spiegazione": "Si espone il triangolo con la trazione corretta, si apre il peritoneo su entrambi i versanti, si libera il triangolo e si stacca il terzo inferiore della colecisti dal piatto cistico. Solo dopo aver verificato la CVS si clippano e sezionano le due strutture.",
+    "perla": "Il 'time-out' sulla CVS si fa prima di clippare qualsiasi struttura, non dopo.",
+    "fonte": { "testo": "Brunt LM et al. Surg Endosc 2020", "riferimento": "Safe Cholecystectomy Multi-society Practice Guideline" },
+    "tag": ["cvs", "sequenza"], "verificata": false
+  },
+  {
+    "id": "vb-0009", "distretto": "vie-biliari", "argomento": "Dotti subvesicali (di Luschka)",
+    "interventi": ["colecistectomia VLS", "colecistectomia open"], "tipo": "flash", "livello": 2,
+    "domanda": "Cosa sono i dotti subvesicali (di Luschka) e quando diventano un problema?",
+    "corrette": "Piccoli dotti biliari che decorrono nel letto della colecisti, vicino o dentro il piatto cistico, e drenano nel sistema biliare destro. Se la dissezione è troppo profonda nel letto epatico possono essere sezionati e dare una fistola biliare (Strasberg A).",
+    "spiegazione": "Non comunicano con il lume della colecisti. Restare nel piano subsieroso dal lato della colecisti, senza superare il piatto cistico, riduce il rischio di lederli.",
+    "perla": "Bile nel letto dopo la colecistectomia, con moncone cistico integro: pensa a un dotto subvesicale.",
+    "fonte": { "testo": "Skandalakis' Surgical Anatomy", "riferimento": "cap. Extrahepatic Biliary Tract and Gallbladder" },
+    "tag": ["luschka", "a-rischio", "variante"], "verificata": false
+  },
+  {
+    "id": "vb-0010", "distretto": "vie-biliari", "argomento": "Origine dell'arteria cistica",
+    "interventi": ["colecistectomia VLS"], "tipo": "mcq", "livello": 1,
+    "domanda": "Da quale arteria origina più frequentemente l'arteria cistica?",
+    "opzioni": ["Arteria epatica destra", "Arteria gastroduodenale", "Arteria epatica sinistra", "Arteria mesenterica superiore"],
+    "corrette": [0],
+    "spiegazione": "Nella maggior parte dei casi l'arteria cistica nasce dall'arteria epatica destra all'interno del triangolo epatocistico. Origini diverse (dall'epatica propria, dalla sinistra, dalla gastroduodenale, arteria cistica doppia) sono possibili e la fanno decorrere fuori dal triangolo.",
+    "perla": "Un'arteria 'cistica' troppo grossa e tortuosa che entra nel triangolo può essere l'epatica destra (gobba di Moynihan): seguila fino alla colecisti prima di clipparla.",
+    "fonte": { "testo": "Skandalakis' Surgical Anatomy", "riferimento": "cap. Extrahepatic Biliary Tract and Gallbladder" },
+    "tag": ["arteria-cistica"], "verificata": false
+  },
+  {
+    "id": "vb-0011", "distretto": "vie-biliari", "argomento": "Gobba di Moynihan (caterpillar hump)",
+    "interventi": ["colecistectomia VLS"], "tipo": "mcq", "livello": 3,
+    "domanda": "Durante la colecistectomia VLS, nel triangolo epatocistico si vede un'arteria tortuosa e ampia che si avvicina al collo della colecisti e dà un ramo cistico molto corto. Qual è il rischio principale?",
+    "opzioni": ["Scambiare l'arteria epatica destra per la cistica e legarla", "Lesionare l'arteria gastroduodenale", "Lesionare la vena porta", "Nessun rischio particolare: è la normale arteria cistica"],
+    "corrette": [0],
+    "spiegazione": "L'arteria epatica destra può formare un'ansa ('gobba di Moynihan' o 'caterpillar hump') nel triangolo epatocistico, vicino al collo della colecisti. In questo caso l'arteria cistica è corta: l'ansa può essere scambiata per la cistica e clippata.",
+    "perla": "Clippa l'arteria cistica solo dove la vedi entrare nella parete della colecisti, dopo aver ottenuto la CVS.",
+    "fonte": { "testo": "Skandalakis' Surgical Anatomy", "riferimento": "cap. Extrahepatic Biliary Tract and Gallbladder" },
+    "tag": ["variante", "a-rischio", "correlazione"], "verificata": false
+  },
+  {
+    "id": "vb-0012", "distretto": "vie-biliari", "argomento": "Strategie di bailout",
+    "interventi": ["colecistectomia VLS"], "tipo": "multi", "livello": 2,
+    "domanda": "Colecistite acuta severa: la CVS non è ottenibile in sicurezza. Quali strategie di 'bailout' sono raccomandate? Seleziona tutte le corrette.",
+    "opzioni": ["Colecistectomia subtotale", "Colecistostomia", "Conversione in open, se aiuta a ottenere una dissezione sicura", "Clip sul primo dotto tubulare identificato nel triangolo", "Proseguire la dissezione profonda nel triangolo con energia ad alta potenza"],
+    "corrette": [0, 1, 2],
+    "spiegazione": "Le linee guida multisocietarie raccomandano di passare a una strategia di bailout quando la CVS non si raggiunge: colecistectomia subtotale, colecistostomia o conversione (se l'esperienza del chirurgo lo rende più sicuro). Clippare alla cieca e usare energia vicino alla via principale sono meccanismi tipici di lesione.",
+    "perla": "Decidere il bailout è una scelta di sicurezza, non un fallimento: stabilisci prima un limite di tempo o di difficoltà.",
+    "fonte": { "testo": "Brunt LM et al. Surg Endosc 2020", "riferimento": "Safe Cholecystectomy Multi-society Practice Guideline" },
+    "tag": ["bailout", "a-rischio"], "verificata": false
+  },
+  {
+    "id": "vb-0013", "distretto": "vie-biliari", "argomento": "Colecistectomia subtotale",
+    "interventi": ["colecistectomia VLS", "colecistectomia open"], "tipo": "flash", "livello": 3,
+    "domanda": "Che differenza c'è tra colecistectomia subtotale 'fenestrante' e 'ricostituente'?",
+    "corrette": "Fenestrante: il moncone della colecisti resta aperto (eventualmente chiudendo l'orifizio cistico dall'interno). Ricostituente: il moncone viene chiuso e si ricrea una piccola tasca.",
+    "spiegazione": "Secondo Strasberg la variante ricostituente lascia un moncone di colecisti che può dare nuovi calcoli e colecistite. La fenestrante ha più fistole biliari postoperatorie, di solito autolimitanti.",
+    "perla": "Nel referto operatorio scrivi quale variante hai eseguito: cambia il follow-up e la gestione di eventuali recidive.",
+    "fonte": { "testo": "Strasberg SM, Pucci MJ, Brunt LM, Deziel DJ. J Am Coll Surg 2016", "riferimento": "Subtotal cholecystectomy – 'fenestrating' vs 'reconstituting' subtypes" },
+    "tag": ["bailout"], "verificata": false
+  },
+  {
+    "id": "vb-0014", "distretto": "vie-biliari", "argomento": "Piatto cistico",
+    "interventi": ["colecistectomia VLS", "colecistectomia open"], "tipo": "flash", "livello": 1,
+    "domanda": "Cos'è il piatto cistico (cystic plate) e qual è il suo ruolo nella colecistectomia?",
+    "corrette": "Una lamina fibrosa che separa il letto della colecisti dal parenchima epatico e fa parte del sistema delle placche glissoniane. La dissezione deve restare dal lato della colecisti, senza superarlo.",
+    "spiegazione": "Esporre il terzo inferiore del piatto cistico è il secondo criterio della CVS. Superare il piatto porta nel parenchima: sanguinamento dalle vene epatiche medie e rischio di lesionare dotti subvesicali.",
+    "fonte": { "testo": "Strasberg SM, Brunt LM. J Am Coll Surg 2010", "riferimento": "Rationale and use of the critical view of safety in laparoscopic cholecystectomy" },
+    "tag": ["cvs"], "verificata": false
+  },
+  {
+    "id": "vb-0015", "distretto": "vie-biliari", "argomento": "Linfonodo cistico",
+    "interventi": ["colecistectomia VLS"], "tipo": "mcq", "livello": 1,
+    "domanda": "Perché il linfonodo cistico (di Mascagni o di Lund) è un repere utile?",
+    "opzioni": ["Si trova vicino all'arteria cistica, sul collo della colecisti", "Segna la giunzione tra cistico e coledoco", "Si trova sempre sul coledoco sopraduodenale", "Indica il solco di Rouvière"],
+    "corrette": [0],
+    "spiegazione": "Il linfonodo cistico si trova di solito nel triangolo epatocistico, vicino al collo della colecisti e accanto all'arteria cistica, che decorre spesso vicino o dietro di esso.",
+    "perla": "Restare sul lato colecistico del linfonodo e procedere dalla colecisti verso le strutture, non dal coledoco verso la colecisti.",
+    "fonte": { "testo": "Skandalakis' Surgical Anatomy", "riferimento": "cap. Extrahepatic Biliary Tract and Gallbladder" },
+    "tag": ["calot"], "verificata": false
+  },
+  {
+    "id": "vb-0016", "distretto": "vie-biliari", "argomento": "Vascolarizzazione del coledoco",
+    "interventi": ["colecistectomia VLS", "duodenocefalopancreasectomia"], "tipo": "mcq", "livello": 3,
+    "domanda": "Come è vascolarizzato il coledoco sopraduodenale e cosa comporta per la chirurgia?",
+    "opzioni": ["Arterie assiali a ore 3 e 9, con apporto prevalente dal basso: dissecare lungo il dotto può causare stenosi ischemiche", "Un'unica arteria dorsale proveniente dall'arteria cistica", "Vasi a ore 12 e 6 provenienti dalla vena porta", "Il dotto è vascolarizzato per diffusione dalla bile e non ha arterie proprie"],
+    "corrette": [0],
+    "spiegazione": "Northover e Terblanche hanno descritto due arterie assiali a ore 3 e 9. Il flusso proviene soprattutto dal basso (arteria retroduodenale/gastroduodenale) e in parte dall'alto (arteria epatica destra). Scheletrizzare il coledoco interrompe queste arterie.",
+    "perla": "Nelle anastomosi biliari prepara il dotto il minimo indispensabile: le stenosi ischemiche tardive nascono spesso da una dissezione eccessiva.",
+    "fonte": { "testo": "Northover JM, Terblanche J. Br J Surg 1979", "riferimento": "A new look at the arterial supply of the bile duct in man and its surgical implications" },
+    "tag": ["correlazione", "a-rischio"], "verificata": false
+  },
+  {
+    "id": "vb-0017", "distretto": "vie-biliari", "argomento": "Legamento epatoduodenale",
+    "interventi": ["colecistectomia VLS", "duodenocefalopancreasectomia", "epatectomia destra"], "tipo": "multi", "livello": 1,
+    "domanda": "Quali strutture decorrono nel legamento epatoduodenale? Seleziona tutte le corrette.",
+    "opzioni": ["Coledoco", "Arteria epatica propria", "Vena porta", "Linfatici e plessi nervosi", "Vena cava inferiore", "Arteria gastroduodenale"],
+    "corrette": [0, 1, 2, 3],
+    "spiegazione": "Il legamento epatoduodenale (margine libero del piccolo omento) contiene il coledoco (anteriore e a destra), l'arteria epatica propria (anteriore e a sinistra), la vena porta (posteriore), oltre a linfatici e nervi. La vena cava inferiore sta dietro il forame epiploico. La gastroduodenale nasce dall'epatica comune e scende dietro il primo duodeno.",
+    "perla": "La manovra di Pringle clampa proprio questo legamento: arresta l'afflusso portale e arterioso, non il deflusso venoso.",
+    "fonte": { "testo": "Gray's Anatomy", "riferimento": "sezione Addome – peritoneo e piccolo omento" },
+    "tag": ["peduncolo"], "verificata": false
+  },
+  {
+    "id": "vb-0018", "distretto": "vie-biliari", "argomento": "Forame epiploico (di Winslow)",
+    "interventi": ["colecistectomia VLS", "epatectomia destra"], "tipo": "mcq", "livello": 1,
+    "domanda": "Quale struttura forma il limite posteriore del forame epiploico?",
+    "opzioni": ["Vena cava inferiore", "Vena porta", "Lobo caudato", "Prima porzione del duodeno"],
+    "corrette": [0],
+    "spiegazione": "Limiti del forame epiploico: anteriore, il legamento epatoduodenale; posteriore, la vena cava inferiore (rivestita di peritoneo parietale); superiore, il lobo caudato; inferiore, la prima porzione del duodeno.",
+    "perla": "Per la manovra di Pringle si passa un dito (o una fettuccia) nel forame, dietro il legamento e davanti alla cava.",
+    "fonte": { "testo": "Gray's Anatomy", "riferimento": "sezione Addome – borsa omentale" },
+    "tag": ["peduncolo"], "verificata": false
+  },
+  {
+    "id": "vb-0019", "distretto": "vie-biliari", "argomento": "Tecnica infundibolare",
+    "interventi": ["colecistectomia VLS"], "tipo": "flash", "livello": 3,
+    "domanda": "Perché l'identificazione del dotto cistico con la sola 'tecnica infundibolare' è considerata meno sicura della CVS?",
+    "corrette": "Perché l'aspetto 'a imbuto' (dotto che si allarga nell'infundibolo) può essere ingannevole: con infiammazione o un cistico corto o nascosto, il dotto epatico comune o il coledoco possono sembrare in continuità con l'infundibolo ed essere scambiati per il cistico.",
+    "spiegazione": "Strasberg descrive la 'hidden cystic duct syndrome': fibrosi e aderenze accostano il dotto epatico comune all'infundibolo. La CVS non si basa su una sola impressione visiva, ma su criteri che escludono altre strutture.",
+    "perla": "Se l'unica prova è 'vedo il dotto che va nella colecisti', non basta: cerca i tre criteri.",
+    "fonte": { "testo": "Strasberg SM, Brunt LM. J Am Coll Surg 2010", "riferimento": "Rationale and use of the critical view of safety in laparoscopic cholecystectomy" },
+    "tag": ["cvs", "a-rischio"], "verificata": false
+  },
+  {
+    "id": "vb-0020", "distretto": "vie-biliari", "argomento": "Documentazione della CVS",
+    "interventi": ["colecistectomia VLS"], "tipo": "mcq", "livello": 2,
+    "domanda": "Come si raccomanda di documentare la critical view of safety?",
+    "opzioni": ["Con foto (anteriore e posteriore, 'doublet') o video, prima di clippare", "Con una sola foto dopo la sezione del cistico", "Basta la descrizione nel referto operatorio", "Con la colangiografia intraoperatoria di routine"],
+    "corrette": [0],
+    "spiegazione": "Si raccomanda di documentare la CVS con immagini o video prima di clippare e sezionare, idealmente con due viste (anteriore e posteriore del triangolo). La documentazione aiuta la qualità, la didattica e la verifica a posteriori.",
+    "fonte": { "testo": "Strasberg SM, Brunt LM. J Am Coll Surg 2010", "riferimento": "Rationale and use of the critical view of safety in laparoscopic cholecystectomy" },
+    "tag": ["cvs"], "verificata": false
+  },
+  {
+    "id": "vb-0021", "distretto": "vie-biliari", "argomento": "Anatomia incerta: imaging intraoperatorio",
+    "interventi": ["colecistectomia VLS"], "tipo": "mcq", "livello": 2,
+    "domanda": "Secondo le linee guida multisocietarie, cosa fare se l'anatomia biliare è incerta o si sospetta una lesione?",
+    "opzioni": ["Eseguire un imaging intraoperatorio (colangiografia o ecografia laparoscopica)", "Clippare tutte le strutture tubulari del triangolo", "Completare l'intervento e richiedere una colangio-RM postoperatoria", "Aumentare la trazione craniale del fondo per allineare i dotti"],
+    "corrette": [0],
+    "spiegazione": "La linea guida suggerisce la colangiografia intraoperatoria (o in alternativa l'ecografia laparoscopica) quando l'anatomia è incerta o si sospetta una lesione, invece di procedere comunque.",
+    "perla": "Se sospetti una lesione maggiore e non hai esperienza di riparazione biliare, chiama aiuto o drena e invia a un centro HPB: la riparazione immediata non esperta peggiora l'esito.",
+    "fonte": { "testo": "Brunt LM et al. Surg Endosc 2020", "riferimento": "Safe Cholecystectomy Multi-society Practice Guideline" },
+    "tag": ["a-rischio", "lesione-biliare"], "verificata": false
+  },
+  {
+    "id": "vb-0022", "distretto": "vie-biliari", "argomento": "Sindrome di Mirizzi",
+    "interventi": ["colecistectomia VLS", "colecistectomia open"], "tipo": "flash", "livello": 2,
+    "domanda": "Cos'è la sindrome di Mirizzi e perché è rilevante in sala?",
+    "corrette": "Compressione o erosione della via biliare principale da un calcolo incuneato nell'infundibolo (tasca di Hartmann) o nel dotto cistico. Nelle forme avanzate c'è una fistola colecisto-biliare.",
+    "spiegazione": "Infiammazione e fibrosi fondono infundibolo e dotto epatico comune: il piano del triangolo epatocistico scompare e il rischio di lesione biliare è alto. Spesso richiede una colecistectomia subtotale o una riparazione biliare.",
+    "perla": "Ittero o colestasi con calcolo grande nell'infundibolo all'imaging preoperatorio: pensa a Mirizzi prima di entrare.",
+    "fonte": { "testo": "Sabiston Textbook of Surgery", "riferimento": "cap. Biliary System" },
+    "tag": ["a-rischio"], "verificata": false
+  },
+  {
+    "id": "vb-0023", "distretto": "vie-biliari", "argomento": "Riconoscere le strutture del triangolo",
+    "interventi": ["colecistectomia VLS"], "tipo": "immagine", "livello": 1,
+    "domanda": "Nello schema del triangolo epatocistico, quale struttura indica il punto evidenziato?",
+    "opzioni": ["Dotto cistico", "Dotto epatico comune", "Coledoco", "Arteria cistica"],
+    "corrette": [0],
+    "immagine": { "src": "img/calot.svg", "hotspot": [{ "x": 47.5, "y": 63 }, { "x": 57.5, "y": 45 }, { "x": 57.5, "y": 86 }, { "x": 46, "y": 44 }, { "x": 69, "y": 36.5 }, { "x": 38, "y": 51 }, { "x": 33, "y": 66 }, { "x": 76, "y": 76 }], "target": 0 },
+    "spiegazione": "Il punto 1 è sul dotto cistico, che va dal collo della colecisti alla confluenza con il dotto epatico comune, dove inizia il coledoco.",
+    "fonte": { "testo": "Schema originale AnatoQuiz", "riferimento": "basato su Skandalakis' Surgical Anatomy, cap. Extrahepatic Biliary Tract and Gallbladder" },
+    "tag": ["calot", "immagine"], "verificata": false
+  },
+  {
+    "id": "vb-0024", "distretto": "vie-biliari", "argomento": "Riconoscere le strutture del triangolo",
+    "interventi": ["colecistectomia VLS"], "tipo": "immagine", "livello": 2,
+    "domanda": "Nello schema, quale struttura indica il punto evidenziato (4)?",
+    "opzioni": ["Arteria cistica", "Arteria epatica destra", "Dotto epatico destro", "Vena porta"],
+    "corrette": [0],
+    "immagine": { "src": "img/calot.svg", "hotspot": [{ "x": 47.5, "y": 63 }, { "x": 57.5, "y": 45 }, { "x": 57.5, "y": 86 }, { "x": 46, "y": 44 }, { "x": 69, "y": 36.5 }, { "x": 38, "y": 51 }, { "x": 33, "y": 66 }, { "x": 76, "y": 76 }], "target": 3 },
+    "spiegazione": "L'arteria cistica (punto 4) nasce dall'arteria epatica destra (punto 5) e attraversa il triangolo epatocistico verso il collo della colecisti, passando vicino al linfonodo cistico (punto 6).",
+    "fonte": { "testo": "Schema originale AnatoQuiz", "riferimento": "basato su Skandalakis' Surgical Anatomy, cap. Extrahepatic Biliary Tract and Gallbladder" },
+    "tag": ["calot", "immagine", "a-rischio"], "verificata": false
+  },
+  {
+    "id": "vb-0025", "distretto": "vie-biliari", "argomento": "Riconoscere le strutture del triangolo",
+    "interventi": ["colecistectomia VLS"], "tipo": "immagine", "livello": 2,
+    "domanda": "Nello schema, cosa indica il punto evidenziato (7)?",
+    "opzioni": ["Infundibolo (tasca di Hartmann)", "Fondo della colecisti", "Linfonodo cistico", "Bulbo duodenale"],
+    "corrette": [0],
+    "immagine": { "src": "img/calot.svg", "hotspot": [{ "x": 47.5, "y": 63 }, { "x": 57.5, "y": 45 }, { "x": 57.5, "y": 86 }, { "x": 46, "y": 44 }, { "x": 69, "y": 36.5 }, { "x": 38, "y": 51 }, { "x": 33, "y": 66 }, { "x": 76, "y": 76 }], "target": 6 },
+    "spiegazione": "L'infundibolo (tasca di Hartmann) è la porzione della colecisti tra corpo e collo. È il punto dove si incuneano i calcoli e la parte da trazionare lateralmente per aprire il triangolo.",
+    "fonte": { "testo": "Schema originale AnatoQuiz", "riferimento": "basato su Skandalakis' Surgical Anatomy, cap. Extrahepatic Biliary Tract and Gallbladder" },
+    "tag": ["immagine"], "verificata": false
+  },
+  {
+    "id": "vb-0026", "distretto": "vie-biliari", "argomento": "Arteria epatica destra sostitutiva",
+    "interventi": ["colecistectomia VLS", "duodenocefalopancreasectomia"], "tipo": "mcq", "livello": 3,
+    "domanda": "Variante: con quale frequenza l'arteria epatica destra nasce (sostitutiva o accessoria) dall'arteria mesenterica superiore, e dove decorre?",
+    "opzioni": ["Circa 10–20%; sale nel legamento epatoduodenale, dietro e a destra della via biliare, e può entrare nel triangolo epatocistico", "Meno dello 0,5%; decorre davanti al duodeno", "Circa 50%; decorre nel legamento falciforme", "Circa 10–20%; decorre a sinistra, nel piccolo omento (pars flaccida)"],
+    "corrette": [0],
+    "spiegazione": "Michels (1966, 200 dissezioni) riporta un'epatica destra sostitutiva dall'AMS nell'11% e accessoria nel 7%; Hiatt (1994, 1000 donatori) riporta la sostitutiva nel 10,6% circa. L'arteria sale dietro la vena porta e lateralmente al coledoco. L'arteria che corre nella pars flaccida del piccolo omento è invece l'epatica sinistra dalla gastrica sinistra.",
+    "perla": "Nella colecistectomia può essere la struttura 'in più' nel triangolo; nella DCP va riconosciuta (alla TC) e preservata quando si seziona il coledoco e si disseca dietro la porta.",
+    "fonte": { "testo": "Michels NA. Am J Surg 1966; Hiatt JR et al. Ann Surg 1994", "riferimento": "Varianti dell'arteria epatica (classificazione di Michels)" },
+    "tag": ["variante", "a-rischio"], "verificata": false
+  }
+]

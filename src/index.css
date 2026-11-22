@@ -1,0 +1,75 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme inline {
+  --color-bg: var(--bg);
+  --color-surface: var(--surface);
+  --color-surface2: var(--surface2);
+  --color-line: var(--line);
+  --color-fg: var(--fg);
+  --color-muted: var(--muted);
+  --color-accent: var(--accent);
+  --color-accent-fg: var(--accent-fg);
+  --color-good: var(--good);
+  --color-bad: var(--bad);
+  --color-warn: var(--warn);
+  --color-easy: var(--easy);
+  --color-pearl: var(--pearl);
+  --font-sans: -apple-system, BlinkMacSystemFont, "SF Pro Text", "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+
+:root {
+  --bg: #f4f6f8;
+  --surface: #ffffff;
+  --surface2: #e9edf1;
+  --line: #d3dae2;
+  --fg: #0f1720;
+  --muted: #5a6776;
+  --accent: #0e7c86;
+  --accent-fg: #ffffff;
+  --good: #1a8a4a;
+  --bad: #c2372f;
+  --warn: #b26a00;
+  --easy: #2a63c9;
+  --pearl: #8a5a00;
+  color-scheme: light;
+}
+
+.dark {
+  --bg: #0b1016;
+  --surface: #131b24;
+  --surface2: #1b2531;
+  --line: #273342;
+  --fg: #e6edf3;
+  --muted: #93a1b1;
+  --accent: #3cc6c2;
+  --accent-fg: #04201f;
+  --good: #46c37b;
+  --bad: #ff6b61;
+  --warn: #f0a83a;
+  --easy: #6ea2ff;
+  --pearl: #f2c46d;
+  color-scheme: dark;
+}
+
+html, body, #root { min-height: 100%; }
+body {
+  background: var(--bg);
+  color: var(--fg);
+  font-family: var(--font-sans);
+  font-size: 17px;
+  line-height: 1.45;
+  -webkit-tap-highlight-color: transparent;
+  -webkit-text-size-adjust: 100%;
+  overscroll-behavior-y: none;
+}
+button { touch-action: manipulation; }
+.pt-safe { padding-top: max(env(safe-area-inset-top), 12px); }
+.pb-safe { padding-bottom: max(env(safe-area-inset-bottom), 12px); }
+.pb-nav { padding-bottom: calc(76px + env(safe-area-inset-bottom)); }
+@keyframes pulse-ring { 0% { transform: scale(1); opacity: .9 } 100% { transform: scale(2.2); opacity: 0 } }
+.hotspot-pulse::after {
+  content: ""; position: absolute; inset: 0; border-radius: 9999px;
+  border: 2px solid var(--accent); animation: pulse-ring 1.4s ease-out infinite;
+}
