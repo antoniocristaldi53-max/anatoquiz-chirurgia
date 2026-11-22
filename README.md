@@ -57,20 +57,29 @@ Test end-to-end (Playwright, profilo iPhone 13): sessione completa con card sbag
 
 Il file `public/_headers` evita che il service worker resti in cache: gli aggiornamenti arrivano alla prima riapertura.
 
-### GitHub Pages con GitHub Actions (consigliato su GitHub)
-1. Carica il progetto su un repository GitHub (branch `main`).
-2. *Settings → Pages → Build and deployment → Source: GitHub Actions*.
-3. A ogni push su `main` il workflow `.github/workflows/deploy.yml` esegue i test, compila e pubblica.
-   L'app sarà su `https://<utente>.github.io/<nome-repository>/`.
+### GitHub Pages (metodo usato per AnatoQuiz)
 
-### GitHub Pages manuale (senza Actions)
+L'app è pubblicata su **https://antoniocristaldi53-max.github.io/anatoquiz-chirurgia/**.
+Per pubblicare una nuova versione dopo aver modificato codice o card:
 
 ```bash
 npm run deploy:gh
 ```
 
-Compila con il percorso giusto e pubblica `dist` sul branch `gh-pages` del remote `origin`.
-Poi *Settings → Pages → Source: Deploy from a branch → gh-pages / (root)*.
+Lo script compila l'app con il percorso giusto e pubblica la cartella `dist` sul branch `gh-pages` del remote `origin`
+(*Settings → Pages → Source: Deploy from a branch → gh-pages / (root)*). Dopo 1–2 minuti la nuova versione è online;
+sull'iPhone arriva alla successiva apertura dell'app con la rete attiva.
+
+Per salvare su GitHub anche il codice:
+
+```bash
+git push
+```
+
+### Pubblicazione automatica con GitHub Actions (facoltativa)
+In `scripts/github-pages-workflow.yml` c'è un workflow che esegue i test e pubblica a ogni push su `main`.
+Per usarlo: concedi a GitHub CLI il permesso per i workflow (`gh auth refresh -h github.com -s workflow`),
+sposta il file in `.github/workflows/deploy.yml` e imposta *Settings → Pages → Source: GitHub Actions*.
 
 > Il percorso base si imposta con la variabile `VITE_BASE` (es. `/anatoquiz/`); lo script e il workflow lo calcolano da soli dal nome del repository.
 
