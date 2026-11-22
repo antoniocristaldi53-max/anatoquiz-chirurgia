@@ -1,0 +1,256 @@
+[
+  {
+    "id": "cr-0001", "distretto": "colon-retto", "argomento": "Punto di Griffiths",
+    "interventi": ["emicolectomia sinistra / sigmoidectomia", "resezione anteriore del retto (TME)"], "tipo": "mcq", "livello": 1,
+    "domanda": "Dove si trova il punto di Griffiths, zona spartiacque tra i territori dell'AMS e dell'AMI?",
+    "opzioni": ["Flessura splenica", "Giunzione retto-sigmoidea", "Flessura epatica", "Cieco"],
+    "corrette": [0],
+    "spiegazione": "Alla flessura splenica l'arteria marginale tra il ramo sinistro della colica media e la colica sinistra può essere sottile o interrotta: è la sede tipica della colite ischemica da bassa portata.",
+    "fonte": { "testo": "Skandalakis' Surgical Anatomy", "riferimento": "cap. Large Intestine – blood supply" },
+    "tag": ["vasi"], "verificata": false
+  },
+  {
+    "id": "cr-0002", "distretto": "colon-retto", "argomento": "Punto di Sudeck",
+    "interventi": ["resezione anteriore del retto (TME)", "emicolectomia sinistra / sigmoidectomia"], "tipo": "mcq", "livello": 2,
+    "domanda": "Il punto critico di Sudeck si trova:",
+    "opzioni": ["Alla giunzione retto-sigmoidea, tra l'ultima arteria sigmoidea e la rettale superiore", "Alla flessura splenica", "All'origine dell'AMI", "Alla linea dentata"],
+    "corrette": [0],
+    "spiegazione": "Sudeck descrisse una possibile scarsa anastomosi tra l'ultima sigmoidea e la rettale superiore. La sua rilevanza clinica è discussa, ma resta un concetto classico quando si sceglie il livello di sezione del sigma.",
+    "fonte": { "testo": "Skandalakis' Surgical Anatomy", "riferimento": "cap. Large Intestine – blood supply" },
+    "tag": ["vasi"], "verificata": false
+  },
+  {
+    "id": "cr-0003", "distretto": "colon-retto", "argomento": "Arteria colica destra",
+    "interventi": ["emicolectomia destra"], "tipo": "mcq", "livello": 3,
+    "domanda": "Variante: quanto spesso l'arteria colica destra nasce come ramo indipendente dell'AMS?",
+    "opzioni": ["Solo in una parte dei pazienti: le frequenze riportate variano molto tra le serie (circa 10–60%)", "Sempre (100%)", "Mai: nasce sempre dall'AMI", "In circa il 95%, sempre davanti alla VMS"],
+    "corrette": [0],
+    "spiegazione": "Ileocolica e colica media sono quasi costanti. La colica destra come ramo indipendente dell'AMS è incostante: spesso nasce dall'ileocolica o dalla colica media, o manca. Le frequenze cambiano molto con il metodo di studio (dissezione, TC, angiografia).",
+    "perla": "Nella CME destra non cercare per forza una 'colica destra': segui la VMS e lega ciò che si stacca dall'AMS verso il colon destro.",
+    "fonte": { "testo": "Skandalakis' Surgical Anatomy", "riferimento": "cap. Large Intestine – variations of the colic arteries" },
+    "tag": ["variante", "vasi"], "verificata": false
+  },
+  {
+    "id": "cr-0004", "distretto": "colon-retto", "argomento": "High tie e low tie",
+    "interventi": ["resezione anteriore del retto (TME)", "emicolectomia sinistra / sigmoidectomia"], "tipo": "mcq", "livello": 1,
+    "domanda": "Cosa distingue la legatura alta ('high tie') dalla bassa ('low tie') dell'AMI?",
+    "opzioni": ["High tie: legatura all'origine dall'aorta; low tie: sotto l'origine della colica sinistra, preservandola", "High tie: legatura della VMI al pancreas; low tie: legatura della rettale superiore", "High tie: legatura dell'AMS; low tie: legatura dell'AMI", "Non c'è differenza nel livello, solo nel tipo di filo"],
+    "corrette": [0],
+    "spiegazione": "La high tie seziona l'AMI alla sua origine (linfoadenectomia della stazione apicale). La low tie la seziona dopo l'origine della colica sinistra. Entrambe sono accettate; la scelta dipende dalla perfusione del moncone e dall'estensione linfonodale voluta.",
+    "fonte": { "testo": "Sabiston Textbook of Surgery", "riferimento": "cap. Colon and Rectum" },
+    "tag": ["vasi", "oncologia"], "verificata": false
+  },
+  {
+    "id": "cr-0005", "distretto": "colon-retto", "argomento": "Plesso ipogastrico superiore",
+    "interventi": ["resezione anteriore del retto (TME)", "emicolectomia sinistra / sigmoidectomia"], "tipo": "mcq", "livello": 2,
+    "domanda": "Durante la legatura alta dell'AMI, quale struttura nervosa è a rischio e quale deficit causa la sua lesione?",
+    "opzioni": ["Plesso ipogastrico superiore / nervi ipogastrici (simpatico): disturbi dell'eiaculazione (eiaculazione retrograda)", "Nervi splancnici pelvici: incontinenza fecale isolata", "Nervo otturatorio: deficit di adduzione della coscia", "Nervo genitofemorale: anestesia scrotale"],
+    "corrette": [0],
+    "spiegazione": "I nervi simpatici del plesso preaortico avvolgono l'origine dell'AMI e scendono come plesso ipogastrico superiore davanti al promontorio. Legare l'arteria troppo vicino all'aorta, o dissecare dietro la fascia, può lederli.",
+    "perla": "Lega l'AMI a 1–2 cm dall'aorta, dopo aver spostato il tessuto nervoso dorsalmente, e resta davanti alla fascia presacrale al promontorio.",
+    "fonte": { "testo": "Heald RJ et al. Br J Surg 1982", "riferimento": "The mesorectum in rectal cancer surgery – the clue to pelvic recurrence?" },
+    "tag": ["correlazione", "a-rischio", "nervi-pelvici"], "verificata": false
+  },
+  {
+    "id": "cr-0006", "distretto": "colon-retto", "argomento": "Piano della TME",
+    "interventi": ["resezione anteriore del retto (TME)", "amputazione addomino-perineale"], "tipo": "mcq", "livello": 2,
+    "domanda": "Qual è il piano corretto della dissezione posteriore nella TME ('holy plane')?",
+    "opzioni": ["Tra la fascia mesorettale (fascia propria) e la fascia presacrale (parietale)", "Sotto la fascia presacrale, sul periostio sacrale", "Dentro il mesoretto, a contatto della parete rettale", "Tra muscolare e mucosa del retto"],
+    "corrette": [0],
+    "spiegazione": "Heald descrive un piano areolare avascolare tra la fascia propria del retto, che avvolge il mesoretto, e la fascia parietale presacrale. Dissecare in questo piano asporta il mesoretto intatto e preserva nervi e vene presacrali.",
+    "fonte": { "testo": "Heald RJ et al. Br J Surg 1982", "riferimento": "The mesorectum in rectal cancer surgery – the clue to pelvic recurrence?" },
+    "tag": ["tme"], "verificata": false
+  },
+  {
+    "id": "cr-0007", "distretto": "colon-retto", "argomento": "Fascia di Denonvilliers",
+    "interventi": ["resezione anteriore del retto (TME)", "amputazione addomino-perineale"], "tipo": "mcq", "livello": 2,
+    "domanda": "Dove si trova la fascia di Denonvilliers nell'uomo?",
+    "opzioni": ["Tra la parete anteriore del retto e prostata/vescicole seminali", "Dietro il retto, davanti al sacro", "Lateralmente al retto, nei legamenti laterali", "Sotto il muscolo elevatore, nella fossa ischioanale"],
+    "corrette": [0],
+    "spiegazione": "La fascia di Denonvilliers (rettoprostatica) separa il retto da vescicole seminali e prostata. Nei tumori anteriori si asporta con il pezzo, ma vicino alle vescicole i fasci neurovascolari laterali sono a rischio.",
+    "fonte": { "testo": "Skandalakis' Surgical Anatomy", "riferimento": "cap. Rectum – fasciae" },
+    "tag": ["tme", "a-rischio"], "verificata": false
+  },
+  {
+    "id": "cr-0008", "distretto": "colon-retto", "argomento": "Nervi splancnici pelvici",
+    "interventi": ["resezione anteriore del retto (TME)", "amputazione addomino-perineale"], "tipo": "mcq", "livello": 3,
+    "domanda": "Durante la dissezione laterale e anterolaterale della TME, la lesione di quali nervi causa disfunzione erettile e vescicale?",
+    "opzioni": ["Nervi splancnici pelvici (erigenti, S2–S4) e plesso ipogastrico inferiore", "Nervo pudendo nel canale di Alcock", "Nervi ileoinguinali", "Nervo femorale"],
+    "corrette": [0],
+    "spiegazione": "Il plesso ipogastrico inferiore (pelvico), sulla parete laterale della pelvi, riceve i simpatici (nervi ipogastrici) e i parasimpatici (splancnici pelvici S2–S4). Lesioni parasimpatiche causano disfunzione erettile e ritenzione urinaria; i fasci neurovascolari anterolaterali sono vulnerabili vicino alle vescicole seminali.",
+    "fonte": { "testo": "Skandalakis' Surgical Anatomy", "riferimento": "cap. Rectum – pelvic autonomic nerves" },
+    "tag": ["correlazione", "a-rischio", "nervi-pelvici"], "verificata": false
+  },
+  {
+    "id": "cr-0009", "distretto": "colon-retto", "argomento": "Vene presacrali",
+    "interventi": ["resezione anteriore del retto (TME)", "amputazione addomino-perineale"], "tipo": "mcq", "livello": 3,
+    "domanda": "Cosa causa un'emorragia presacrale grave durante la TME, e perché è difficile da controllare?",
+    "opzioni": ["Dissezione sotto la fascia presacrale: le vene presacrali comunicano con le vene basivertebrali del sacro e si retraggono nell'osso", "Lesione dell'arteria rettale superiore, che si retrae nel mesoretto", "Lesione dell'arteria iliaca esterna", "Lesione della vena mesenterica inferiore"],
+    "corrette": [0],
+    "spiegazione": "Le vene presacrali sono dietro la fascia presacrale e comunicano con il sistema basivertebrale, con pressioni elevate in posizione di Trendelenburg. Le lesioni si retraggono nei forami ossei: la coagulazione e le suture spesso non bastano (si usano tamponamento, chiodi emostatici, lembi muscolari).",
+    "perla": "Resta davanti alla fascia presacrale: il piano corretto non sanguina.",
+    "fonte": { "testo": "Sabiston Textbook of Surgery", "riferimento": "cap. Colon and Rectum – presacral bleeding" },
+    "tag": ["correlazione", "a-rischio"], "verificata": false
+  },
+  {
+    "id": "cr-0010", "distretto": "colon-retto", "argomento": "Fascia di Waldeyer",
+    "interventi": ["resezione anteriore del retto (TME)", "amputazione addomino-perineale"], "tipo": "flash", "livello": 2,
+    "domanda": "Cos'è la fascia di Waldeyer (rettosacrale) e come si gestisce nella TME?",
+    "corrette": "Una lamina fibrosa che va dalla fascia presacrale (circa a livello di S4) alla fascia propria del retto, verso il basso e in avanti. Va sezionata con strumenti taglienti per proseguire la dissezione posteriore fino al pavimento pelvico.",
+    "spiegazione": "Se la si stacca in modo smusso si rischia di strappare la fascia presacrale e lesionare le vene presacrali, oppure di entrare nel mesoretto.",
+    "fonte": { "testo": "Skandalakis' Surgical Anatomy", "riferimento": "cap. Rectum – fasciae" },
+    "tag": ["tme"], "verificata": false
+  },
+  {
+    "id": "cr-0011", "distretto": "colon-retto", "argomento": "Fascia di Toldt",
+    "interventi": ["emicolectomia destra", "emicolectomia sinistra / sigmoidectomia"], "tipo": "mcq", "livello": 1,
+    "domanda": "Cos'è la fascia di Toldt?",
+    "opzioni": ["La fascia di fusione tra il mesocolon e il peritoneo parietale posteriore: il piano di mobilizzazione del colon", "Il legamento che fissa la milza al colon", "La fascia che riveste il muscolo psoas", "La fascia anteriore del retto"],
+    "corrette": [0],
+    "spiegazione": "Durante lo sviluppo il mesocolon ascendente e discendente si fonde con il peritoneo posteriore formando la fascia di Toldt. La 'linea bianca' di Toldt è la riflessione peritoneale laterale. Mobilizzare il colon tra mesocolon e fascia di Toldt lascia il retroperitoneo intatto.",
+    "fonte": { "testo": "Coffey JC, O'Leary DP. Lancet Gastroenterol Hepatol 2016", "riferimento": "The mesentery: structure, function, and role in disease" },
+    "tag": ["piani"], "verificata": false
+  },
+  {
+    "id": "cr-0012", "distretto": "colon-retto", "argomento": "Strutture retroperitoneali nella colectomia sinistra",
+    "interventi": ["emicolectomia sinistra / sigmoidectomia", "resezione anteriore del retto (TME)"], "tipo": "mcq", "livello": 2,
+    "domanda": "Nella dissezione medio-laterale del mesocolon sinistro, quali strutture devono restare sotto il piano, nel retroperitoneo?",
+    "opzioni": ["Uretere sinistro e vasi gonadici sinistri", "Vena mesenterica inferiore e arteria colica sinistra", "Arteria rettale superiore", "Arteria marginale"],
+    "corrette": [0],
+    "spiegazione": "Se il piano è corretto, uretere e vasi gonadici restano coperti dalla fascia prerenale/di Toldt sul retroperitoneo. Se compaiono 'sopra' il piano di dissezione, si è entrati troppo in profondità.",
+    "perla": "Identifica l'uretere sinistro dove incrocia i vasi iliaci prima di legare l'AMI.",
+    "fonte": { "testo": "Chassin's Operative Strategy in General Surgery", "riferimento": "cap. Left Colectomy" },
+    "tag": ["a-rischio", "piani"], "verificata": false
+  },
+  {
+    "id": "cr-0013", "distretto": "colon-retto", "argomento": "Escissione completa del mesocolon (CME)",
+    "interventi": ["emicolectomia destra"], "tipo": "mcq", "livello": 2,
+    "domanda": "Quali sono i due principi della CME secondo Hohenberger?",
+    "opzioni": ["Dissezione nel piano embriologico con mesocolon intatto e legatura vascolare centrale (CVL) all'origine dei vasi", "Resezione di 30 cm di ileo e anastomosi manuale", "Legatura dei vasi a ridosso della parete colica", "Asportazione del peritoneo parietale posteriore e della fascia di Gerota"],
+    "corrette": [0],
+    "spiegazione": "La CME separa il mesocolon dal retroperitoneo lungo il piano di fusione, mantenendo intatta la sua fascia (come la TME per il retto), e lega i vasi alla loro origine dall'AMS/VMS per una linfoadenectomia centrale.",
+    "fonte": { "testo": "Hohenberger W et al. Colorectal Dis 2009", "riferimento": "Standardized surgery for colonic cancer: complete mesocolic excision and central ligation" },
+    "tag": ["oncologia", "piani"], "verificata": false
+  },
+  {
+    "id": "cr-0014", "distretto": "colon-retto", "argomento": "Principi della TME",
+    "interventi": ["resezione anteriore del retto (TME)"], "tipo": "multi", "livello": 2,
+    "domanda": "Quali sono principi corretti della TME? Seleziona tutti i corretti.",
+    "opzioni": ["Dissezione tagliente nel piano tra fascia mesorettale e fascia parietale", "Mesoretto asportato con la fascia intatta", "Per i tumori del retto alto: margine distale sul mesoretto di circa 5 cm (escissione parziale)", "Dissezione smussa manuale del piano posteriore", "Linfoadenectomia laterale di routine"],
+    "corrette": [0, 1, 2],
+    "spiegazione": "La TME richiede una dissezione tagliente sotto visione, nel piano avascolare, con il mesoretto intatto. Nei tumori del retto alto è sufficiente una sezione del mesoretto circa 5 cm sotto il tumore. La dissezione smussa lacera la fascia. La linfoadenectomia laterale non è di routine nella pratica occidentale.",
+    "fonte": { "testo": "Heald RJ et al. Br J Surg 1982", "riferimento": "The mesorectum in rectal cancer surgery – the clue to pelvic recurrence?" },
+    "tag": ["tme", "oncologia"], "verificata": false
+  },
+  {
+    "id": "cr-0015", "distretto": "colon-retto", "argomento": "Riconoscere il colon",
+    "interventi": ["emicolectomia destra", "laparotomia esplorativa"], "tipo": "mcq", "livello": 1,
+    "domanda": "Quali caratteristiche permettono di distinguere il colon dal tenue in sala?",
+    "opzioni": ["Tenie coliche, austrature e appendici epiploiche", "Vasi retti lunghi e poche arcate", "Pliche circolari visibili dall'esterno", "Mesentere lungo e libero per tutto il decorso"],
+    "corrette": [0],
+    "spiegazione": "Il colon ha tre tenie (bande di muscolatura longitudinale), austrature e appendici epiploiche. Le tenie convergono sulla base dell'appendice e si allargano nel retto, che non ha né tenie né appendici epiploiche.",
+    "fonte": { "testo": "Gray's Anatomy", "riferimento": "sezione Addome – intestino crasso" },
+    "tag": ["colon"], "verificata": false
+  },
+  {
+    "id": "cr-0016", "distretto": "colon-retto", "argomento": "Segmenti del colon",
+    "interventi": ["emicolectomia destra", "emicolectomia sinistra / sigmoidectomia"], "tipo": "ordina", "livello": 1,
+    "domanda": "Ordina i segmenti del grosso intestino dal cieco al retto.",
+    "opzioni": ["Cieco", "Colon ascendente", "Flessura epatica", "Colon trasverso", "Flessura splenica", "Colon discendente", "Sigma", "Retto"],
+    "corrette": [0, 1, 2, 3, 4, 5, 6, 7],
+    "spiegazione": "Il trasverso e il sigma sono intraperitoneali con un proprio meso. Ascendente e discendente sono secondariamente retroperitoneali (fusione con la fascia di Toldt).",
+    "fonte": { "testo": "Gray's Anatomy", "riferimento": "sezione Addome – intestino crasso" },
+    "tag": ["colon"], "verificata": false
+  },
+  {
+    "id": "cr-0017", "distretto": "colon-retto", "argomento": "Arterie del retto",
+    "interventi": ["resezione anteriore del retto (TME)", "amputazione addomino-perineale"], "tipo": "ordina", "livello": 2,
+    "domanda": "Ordina le arterie rettali dalla più craniale alla più caudale.",
+    "opzioni": ["Rettale superiore (dall'AMI)", "Rettale media (dall'iliaca interna, incostante)", "Rettale inferiore (dalla pudenda interna)"],
+    "corrette": [0, 1, 2],
+    "spiegazione": "La rettale superiore è la continuazione dell'AMI ed è la principale arteria del retto. Le rettali medie sono incostanti e decorrono vicino ai 'legamenti laterali'. Le inferiori, dalla pudenda interna, irrorano il canale anale e gli sfinteri.",
+    "fonte": { "testo": "Gray's Anatomy", "riferimento": "sezione Pelvi – retto (vascolarizzazione)" },
+    "tag": ["vasi"], "verificata": false
+  },
+  {
+    "id": "cr-0018", "distretto": "colon-retto", "argomento": "Arteria marginale di Drummond",
+    "interventi": ["emicolectomia sinistra / sigmoidectomia", "resezione anteriore del retto (TME)"], "tipo": "flash", "livello": 1,
+    "domanda": "Cos'è l'arteria marginale di Drummond e perché conta dopo una legatura alta dell'AMI?",
+    "corrette": "L'arcata arteriosa continua che corre lungo il bordo mesenterico del colon e collega i rami dell'AMS e dell'AMI. Dopo la legatura alta dell'AMI il moncone colico sinistro è irrorato dalla colica media attraverso la marginale.",
+    "spiegazione": "Per questo il moncone deve essere ben perfuso (sanguinamento pulsatile dalla marginale, eventualmente verde indocianina) e non va scheletrizzato vicino al bordo mesenterico.",
+    "fonte": { "testo": "Skandalakis' Surgical Anatomy", "riferimento": "cap. Large Intestine – marginal artery" },
+    "tag": ["vasi", "a-rischio"], "verificata": false
+  },
+  {
+    "id": "cr-0019", "distretto": "colon-retto", "argomento": "Arcata di Riolan",
+    "interventi": ["emicolectomia sinistra / sigmoidectomia", "chirurgia aortica"], "tipo": "flash", "livello": 3,
+    "domanda": "Cos'è l'arcata di Riolan (arteria mesenterica 'meandering') e quando non va legata?",
+    "corrette": "Un collaterale centrale, vicino alla radice del mesocolon, tra la colica media (o l'AMS) e la colica sinistra (o l'AMI). Quando è dilatato indica una stenosi di AMS o AMI e può essere l'unica via di irrorazione: legarlo può causare un'ischemia estesa.",
+    "spiegazione": "A differenza della marginale, decorre vicino alla base del mesentere. Un vaso grosso e tortuoso nel mesocolon sinistro in un paziente vasculopatico va riconosciuto prima di sezionarlo, sia in chirurgia colica sia in chirurgia aortica.",
+    "fonte": { "testo": "Skandalakis' Surgical Anatomy", "riferimento": "cap. Large Intestine – collateral circulation" },
+    "tag": ["vasi", "a-rischio", "variante"], "verificata": false
+  },
+  {
+    "id": "cr-0020", "distretto": "colon-retto", "argomento": "Mobilizzazione della flessura splenica",
+    "interventi": ["resezione anteriore del retto (TME)", "emicolectomia sinistra / sigmoidectomia"], "tipo": "mcq", "livello": 2,
+    "domanda": "Nella resezione anteriore bassa con legatura alta, dove si lega di solito la VMI per guadagnare lunghezza del colon?",
+    "opzioni": ["Al margine inferiore del pancreas, a sinistra del legamento di Treitz", "All'incrocio con i vasi iliaci", "Al livello del promontorio", "Nella pars flaccida"],
+    "corrette": [0],
+    "spiegazione": "Legare la VMI alla sua parte più alta, sotto il pancreas, libera il mesocolon sinistro. Con la mobilizzazione della flessura splenica permette al colon di scendere in pelvi senza tensione.",
+    "fonte": { "testo": "Chassin's Operative Strategy in General Surgery", "riferimento": "cap. Low Anterior Resection" },
+    "tag": ["vasi"], "verificata": false
+  },
+  {
+    "id": "cr-0021", "distretto": "colon-retto", "argomento": "Legamenti laterali del retto",
+    "interventi": ["resezione anteriore del retto (TME)"], "tipo": "mcq", "livello": 3,
+    "domanda": "Cosa può contenere il tessuto chiamato 'legamenti laterali' del retto?",
+    "opzioni": ["Rami del plesso pelvico verso il retto e, talvolta, l'arteria rettale media", "L'uretere", "L'arteria iliaca esterna", "Il nervo otturatorio"],
+    "corrette": [0],
+    "spiegazione": "I 'legamenti laterali' sono condensazioni di tessuto tra mesoretto e parete pelvica, attraversate da rami nervosi del plesso pelvico e da un'arteria rettale media incostante. Si sezionano vicino al mesoretto per non ledere il plesso pelvico.",
+    "fonte": { "testo": "Skandalakis' Surgical Anatomy", "riferimento": "cap. Rectum – lateral ligaments" },
+    "tag": ["tme", "nervi-pelvici"], "verificata": false
+  },
+  {
+    "id": "cr-0022", "distretto": "colon-retto", "argomento": "Duodeno nell'emicolectomia destra",
+    "interventi": ["emicolectomia destra"], "tipo": "mcq", "livello": 2,
+    "domanda": "Nella mobilizzazione della flessura epatica e del mesocolon destro, quale struttura retroperitoneale è più a rischio?",
+    "opzioni": ["Seconda e terza porzione del duodeno", "Surrene sinistro", "Arteria iliaca comune sinistra", "Milza"],
+    "corrette": [0],
+    "spiegazione": "Il mesocolon destro e la flessura epatica sono adesi al duodeno e alla testa del pancreas. Dissecando troppo in profondità, o con energia vicino alla parete, si può lesionare il duodeno; anche il tronco di Henle è vicino.",
+    "fonte": { "testo": "Chassin's Operative Strategy in General Surgery", "riferimento": "cap. Right Colectomy" },
+    "tag": ["correlazione", "a-rischio"], "verificata": false
+  },
+  {
+    "id": "cr-0023", "distretto": "colon-retto", "argomento": "Riconoscere i vasi del colon sinistro",
+    "interventi": ["resezione anteriore del retto (TME)", "emicolectomia sinistra / sigmoidectomia"], "tipo": "immagine", "livello": 1,
+    "domanda": "Vascolarizzazione mesenterica (vista anteriore). Quale arteria indica il punto evidenziato (5)?",
+    "opzioni": ["Arteria mesenterica inferiore", "Arteria mesenterica superiore", "Arteria iliaca comune sinistra", "Arteria colica media"],
+    "corrette": [0],
+    "immagine": { "src": "img/mesenterica.svg", "hotspot": [{ "x": 48.8, "y": 27.8 }, { "x": 35, "y": 45.8 }, { "x": 31.3, "y": 68.8 }, { "x": 62.5, "y": 39.8 }, { "x": 60, "y": 60.8 }, { "x": 72.5, "y": 56.3 }, { "x": 72.5, "y": 75 }, { "x": 61.3, "y": 85 }, { "x": 80, "y": 35 }], "target": 4 },
+    "spiegazione": "L'AMI (5) dà la colica sinistra (6), le sigmoidee (7) e prosegue come rettale superiore (8).",
+    "fonte": { "testo": "Schema originale AnatoQuiz", "riferimento": "basato su Gray's Anatomy, sezione Addome – arteria mesenterica inferiore" },
+    "tag": ["immagine", "vasi"], "verificata": false
+  },
+  {
+    "id": "cr-0024", "distretto": "colon-retto", "argomento": "Riconoscere i vasi del colon sinistro",
+    "interventi": ["resezione anteriore del retto (TME)"], "tipo": "immagine", "livello": 2,
+    "domanda": "Nello schema, quale arteria indica il punto evidenziato (8), diretta al retto?",
+    "opzioni": ["Arteria rettale superiore", "Arteria rettale media", "Ultima arteria sigmoidea", "Arteria sacrale mediana"],
+    "corrette": [0],
+    "immagine": { "src": "img/mesenterica.svg", "hotspot": [{ "x": 48.8, "y": 27.8 }, { "x": 35, "y": 45.8 }, { "x": 31.3, "y": 68.8 }, { "x": 62.5, "y": 39.8 }, { "x": 60, "y": 60.8 }, { "x": 72.5, "y": 56.3 }, { "x": 72.5, "y": 75 }, { "x": 61.3, "y": 85 }, { "x": 80, "y": 35 }], "target": 7 },
+    "spiegazione": "La rettale superiore (8) è la continuazione dell'AMI dopo l'ultima sigmoidea. Scende nel mesoretto e si divide in rami destro e sinistro.",
+    "fonte": { "testo": "Schema originale AnatoQuiz", "riferimento": "basato su Gray's Anatomy, sezione Pelvi – retto" },
+    "tag": ["immagine", "vasi"], "verificata": false
+  },
+  {
+    "id": "cr-0025", "distretto": "colon-retto", "argomento": "Riconoscere i vasi del colon sinistro",
+    "interventi": ["emicolectomia sinistra / sigmoidectomia", "resezione anteriore del retto (TME)"], "tipo": "immagine", "livello": 3,
+    "domanda": "Nello schema, cosa indica il punto evidenziato (9), che corre lungo il bordo mesenterico del colon?",
+    "opzioni": ["Arteria marginale (di Drummond)", "Arcata di Riolan", "Vena mesenterica inferiore", "Arteria colica sinistra"],
+    "corrette": [0],
+    "immagine": { "src": "img/mesenterica.svg", "hotspot": [{ "x": 48.8, "y": 27.8 }, { "x": 35, "y": 45.8 }, { "x": 31.3, "y": 68.8 }, { "x": 62.5, "y": 39.8 }, { "x": 60, "y": 60.8 }, { "x": 72.5, "y": 56.3 }, { "x": 72.5, "y": 75 }, { "x": 61.3, "y": 85 }, { "x": 80, "y": 35 }], "target": 8 },
+    "spiegazione": "La marginale (9) decorre vicino alla parete lungo tutto il colon e collega i territori di AMS e AMI. L'arcata di Riolan, quando c'è, è invece più centrale, vicino alla radice del mesocolon.",
+    "fonte": { "testo": "Schema originale AnatoQuiz", "riferimento": "basato su Skandalakis' Surgical Anatomy, cap. Large Intestine" },
+    "tag": ["immagine", "vasi"], "verificata": false
+  }
+]

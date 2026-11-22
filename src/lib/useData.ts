@@ -1,9 +1,9 @@
 import { liveQuery } from 'dexie';
 import { useEffect, useState } from 'react';
-import { db } from './db';
+import { db, type ImageRow } from './db';
 import { loadAll } from './repo';
 
-export type AppData = Awaited<ReturnType<typeof loadAll>> & { images: Awaited<ReturnType<typeof db.images.toArray>> };
+export type AppData = Awaited<ReturnType<typeof loadAll>> & { images: ImageRow[] };
 
 /** Dati dell'app aggiornati in automatico a ogni modifica di IndexedDB. */
 export function useData(): AppData | null {

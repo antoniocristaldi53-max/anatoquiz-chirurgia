@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+  <!-- Schema originale semplificato della giunzione safeno-femorale destra (vista anteriore; laterale = sinistra dell'immagine). Non in scala. -->
+  <rect width="400" height="400" fill="#f3e3d6"/>
+  <path d="M20,60 L380,140" stroke="#cdbfa9" stroke-width="10" stroke-linecap="round"/>
+  <path d="M110,90 V400" stroke="#e6c229" stroke-width="9"/>
+  <path d="M160,100 V400" stroke="#c0392b" stroke-width="16"/>
+  <path d="M205,110 V400" stroke="#5b7fbf" stroke-width="22"/>
+  <g stroke="#7d97cc" fill="none" stroke-linecap="round">
+    <path d="M280,400 C280,320 250,250 215,200" stroke-width="11"/>
+    <path d="M240,195 L250,90" stroke-width="4"/>
+    <path d="M232,210 L120,120" stroke-width="4"/>
+    <path d="M240,215 L360,210" stroke-width="4"/>
+    <path d="M255,250 L335,392" stroke-width="5"/>
+    <path d="M245,240 C230,300 200,340 185,395" stroke-width="5"/>
+  </g>
+  <text x="392" y="392" font-family="sans-serif" font-size="11" fill="#8a7f75" text-anchor="end">Schema originale · non in scala</text>
+</svg>

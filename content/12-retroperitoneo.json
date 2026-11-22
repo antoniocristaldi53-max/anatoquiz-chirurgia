@@ -1,0 +1,257 @@
+[
+  {
+    "id": "rp-0001", "distretto": "retroperitoneo", "argomento": "Vena renale sinistra",
+    "interventi": ["chirurgia aortica", "nefrectomia"], "tipo": "mcq", "livello": 1,
+    "domanda": "Come raggiunge la cava inferiore la vena renale sinistra, nella configurazione tipica?",
+    "opzioni": ["Passa davanti all'aorta, subito sotto l'origine dell'AMS", "Passa dietro l'aorta", "Passa davanti all'AMS", "Sbocca nella vena azygos"],
+    "corrette": [0],
+    "spiegazione": "La renale sinistra è lunga e attraversa la linea mediana davanti all'aorta, nella 'pinza' tra aorta e AMS. È un repere importante per il colletto degli aneurismi aortici sottorenali.",
+    "fonte": { "testo": "Gray's Anatomy", "riferimento": "sezione Addome – vene renali" },
+    "tag": ["vasi"], "verificata": false
+  },
+  {
+    "id": "rp-0002", "distretto": "retroperitoneo", "argomento": "Vena surrenalica destra",
+    "interventi": ["surrenalectomia"], "tipo": "mcq", "livello": 1,
+    "domanda": "Dove sbocca la vena surrenalica destra?",
+    "opzioni": ["Direttamente nella cava inferiore, sulla sua faccia posterolaterale, con un decorso molto breve", "Nella vena renale destra", "Nella vena frenica inferiore destra", "Nella vena porta"],
+    "corrette": [0],
+    "spiegazione": "La vena surrenalica destra è corta e larga e sbocca direttamente nella faccia posteriore della cava. La sinistra è più lunga e sbocca nella vena renale sinistra, spesso unita alla frenica inferiore.",
+    "fonte": { "testo": "Skandalakis' Surgical Anatomy", "riferimento": "cap. Adrenal Glands – venous drainage" },
+    "tag": ["surreni", "vasi"], "verificata": false
+  },
+  {
+    "id": "rp-0003", "distretto": "retroperitoneo", "argomento": "Vena surrenalica sinistra",
+    "interventi": ["surrenalectomia"], "tipo": "mcq", "livello": 1,
+    "domanda": "Dove sbocca di solito la vena surrenalica sinistra?",
+    "opzioni": ["Nella vena renale sinistra (spesso con la frenica inferiore sinistra)", "Direttamente nella cava inferiore", "Nella vena splenica", "Nella vena gonadica sinistra"],
+    "corrette": [0],
+    "spiegazione": "La surrenalica sinistra scende lungo il margine mediale della ghiandola e sbocca nel margine superiore della renale sinistra. Seguire la renale sinistra verso l'alto aiuta a trovarla nella surrenalectomia sinistra.",
+    "fonte": { "testo": "Skandalakis' Surgical Anatomy", "riferimento": "cap. Adrenal Glands – venous drainage" },
+    "tag": ["surreni", "vasi"], "verificata": false
+  },
+  {
+    "id": "rp-0004", "distretto": "retroperitoneo", "argomento": "Vene gonadiche",
+    "interventi": ["chirurgia aortica", "emicolectomia sinistra / sigmoidectomia"], "tipo": "mcq", "livello": 1,
+    "domanda": "Dove sboccano le vene gonadiche?",
+    "opzioni": ["La destra nella cava inferiore, la sinistra nella vena renale sinistra", "Entrambe nella cava inferiore", "Entrambe nelle vene renali", "La destra nella vena renale destra, la sinistra nella cava"],
+    "corrette": [0],
+    "spiegazione": "La gonadica destra sbocca obliquamente nella cava, la sinistra ad angolo retto nella renale sinistra. Questo è uno dei motivi per cui il varicocele è più frequente a sinistra.",
+    "fonte": { "testo": "Gray's Anatomy", "riferimento": "sezione Addome – vene gonadiche" },
+    "tag": ["vasi"], "verificata": false
+  },
+  {
+    "id": "rp-0005", "distretto": "retroperitoneo", "argomento": "Arterie surrenaliche",
+    "interventi": ["surrenalectomia"], "tipo": "multi", "livello": 2,
+    "domanda": "Da quali arterie provengono le arterie surrenaliche? Seleziona tutte le corrette.",
+    "opzioni": ["Arteria frenica inferiore (surrenaliche superiori)", "Aorta (surrenalica media)", "Arteria renale (surrenalica inferiore)", "Arteria mesenterica superiore", "Tronco celiaco"],
+    "corrette": [0, 1, 2],
+    "spiegazione": "Il surrene riceve molte piccole arterie da tre fonti, che si possono coagulare. Il drenaggio venoso è invece affidato a un'unica vena principale: per questo nella surrenalectomia è la vena il passaggio chiave.",
+    "fonte": { "testo": "Skandalakis' Surgical Anatomy", "riferimento": "cap. Adrenal Glands – arterial supply" },
+    "tag": ["surreni", "vasi"], "verificata": false
+  },
+  {
+    "id": "rp-0006", "distretto": "retroperitoneo", "argomento": "Surrenalectomia destra",
+    "interventi": ["surrenalectomia"], "tipo": "mcq", "livello": 2,
+    "domanda": "Qual è il rischio vascolare più temibile nella surrenalectomia destra e la sua causa anatomica?",
+    "opzioni": ["Avulsione della vena surrenalica destra dalla cava: è corta e sbocca direttamente nella cava", "Lesione dell'arteria splenica", "Lesione della vena renale sinistra", "Lesione della VMI"],
+    "corrette": [0],
+    "spiegazione": "La vena surrenalica destra è corta: una trazione eccessiva sul surrene può strapparla dalla cava, con emorragia importante. Va esposta mobilizzando il fegato e il margine laterale della cava e controllata per prima o comunque presto.",
+    "perla": "Nel feocromocitoma il controllo precoce della vena riduce anche il rilascio di catecolamine durante la manipolazione.",
+    "fonte": { "testo": "Sabiston Textbook of Surgery", "riferimento": "cap. The Adrenal Glands" },
+    "tag": ["surreni", "a-rischio", "correlazione"], "verificata": false
+  },
+  {
+    "id": "rp-0007", "distretto": "retroperitoneo", "argomento": "Vena renale sinistra retroaortica",
+    "interventi": ["chirurgia aortica"], "tipo": "mcq", "livello": 3,
+    "domanda": "Variante: con quale frequenza la vena renale sinistra è retroaortica o circumaortica, e perché conta nella chirurgia aortica?",
+    "opzioni": ["Retroaortica circa 1–3%, circumaortica circa 2–9%: un ramo dietro l'aorta può essere lesionato nel clampaggio o nella dissezione posteriore", "Circa 50%; non ha conseguenze", "Meno dello 0,01%; si vede solo in angiografia", "Circa 25%; obbliga a una nefrectomia"],
+    "corrette": [0],
+    "spiegazione": "Le varianti retroaortiche e circumaortiche della renale sinistra sono le anomalie venose retroperitoneali più rilevanti per la chirurgia aortica. Una componente retroaortica non vista può essere lacerata dalla pinza o nella dissezione dietro il colletto.",
+    "perla": "Se nella dissezione del colletto non trovi la renale sinistra davanti all'aorta, cercala alla TC prima di clampare.",
+    "fonte": { "testo": "Skandalakis' Surgical Anatomy", "riferimento": "cap. Kidney and Ureter – renal vein anomalies" },
+    "tag": ["variante", "a-rischio"], "verificata": false
+  },
+  {
+    "id": "rp-0008", "distretto": "retroperitoneo", "argomento": "Anomalie della cava inferiore",
+    "interventi": ["chirurgia aortica", "linfoadenectomia retroperitoneale"], "tipo": "mcq", "livello": 3,
+    "domanda": "Variante: quale frequenza approssimativa si riporta per la duplicazione della cava inferiore sottorenale?",
+    "opzioni": ["Circa 0,2–3%", "Circa 20–30%", "Circa 50%", "Mai descritta nell'adulto"],
+    "corrette": [0],
+    "spiegazione": "La cava doppia deriva dalla persistenza della vena sopracardinale sinistra: una cava sinistra sale accanto all'aorta e confluisce nella renale sinistra. Va riconosciuta alla TC per evitare lesioni nella chirurgia aortica o retroperitoneale e prima di posizionare un filtro cavale.",
+    "fonte": { "testo": "Skandalakis' Surgical Anatomy", "riferimento": "cap. Retroperitoneum – inferior vena cava anomalies" },
+    "tag": ["variante", "vasi"], "verificata": false
+  },
+  {
+    "id": "rp-0009", "distretto": "retroperitoneo", "argomento": "Uretere e vasi iliaci",
+    "interventi": ["emicolectomia sinistra / sigmoidectomia", "resezione anteriore del retto (TME)"], "tipo": "mcq", "livello": 1,
+    "domanda": "Dove entra l'uretere nella pelvi?",
+    "opzioni": ["Incrociando i vasi iliaci, di solito vicino alla biforcazione dell'iliaca comune, al margine pelvico", "Passando sotto il legamento inguinale", "Attraverso il forame otturatorio", "Passando davanti alla vescica"],
+    "corrette": [0],
+    "spiegazione": "L'uretere scende sul muscolo psoas, passa dietro i vasi gonadici e entra nella pelvi incrociando l'iliaca comune (vicino alla biforcazione) o l'esterna. È il punto più comodo per trovarlo.",
+    "fonte": { "testo": "Gray's Anatomy", "riferimento": "sezione Addome – uretere" },
+    "tag": ["uretere", "a-rischio"], "verificata": false
+  },
+  {
+    "id": "rp-0010", "distretto": "retroperitoneo", "argomento": "Uretere e arteria uterina",
+    "interventi": ["isterectomia", "resezione anteriore del retto (TME)"], "tipo": "mcq", "livello": 2,
+    "domanda": "Nella donna, che rapporto ha l'uretere con l'arteria uterina ('acqua sotto il ponte')?",
+    "opzioni": ["L'uretere passa sotto l'arteria uterina, circa 1,5–2 cm lateralmente alla cervice", "L'uretere passa sopra l'arteria uterina", "L'uretere decorre dentro il legamento rotondo", "Non hanno rapporti"],
+    "corrette": [0],
+    "spiegazione": "Nel parametrio l'arteria uterina incrocia l'uretere passandogli davanti e sopra. Legare l'arteria troppo lateralmente o in blocco con il parametrio è una causa classica di lesione ureterale.",
+    "fonte": { "testo": "Gray's Anatomy", "riferimento": "sezione Pelvi – uretere e arteria uterina" },
+    "tag": ["uretere", "a-rischio", "correlazione"], "verificata": false
+  },
+  {
+    "id": "rp-0011", "distretto": "retroperitoneo", "argomento": "Punti di rischio per l'uretere",
+    "interventi": ["emicolectomia sinistra / sigmoidectomia", "resezione anteriore del retto (TME)", "isterectomia"], "tipo": "multi", "livello": 2,
+    "domanda": "In quali punti l'uretere è più a rischio nella chirurgia addomino-pelvica? Seleziona tutti i corretti.",
+    "opzioni": ["Al margine pelvico, dove incrocia i vasi iliaci", "Durante la legatura dell'AMI e la mobilizzazione del sigma (a sinistra)", "Sotto l'arteria uterina, nel parametrio", "Vicino alla giunzione ureterovescicale nella dissezione pelvica bassa", "All'ilo splenico durante la splenectomia"],
+    "corrette": [0, 1, 2, 3],
+    "spiegazione": "L'uretere è vulnerabile dove incrocia i vasi iliaci, nella dissezione del mesosigma e dell'AMI, nel parametrio e vicino alla vescica. L'ilo splenico è lontano dal suo decorso.",
+    "perla": "Nei casi difficili (reinterventi, diverticolite complicata, pelvi irradiata) gli stent ureterali preoperatori non prevengono la lesione, ma aiutano a riconoscerla subito.",
+    "fonte": { "testo": "Sabiston Textbook of Surgery", "riferimento": "cap. Urologic Surgery – ureteral injury" },
+    "tag": ["uretere", "a-rischio"], "verificata": false
+  },
+  {
+    "id": "rp-0012", "distretto": "retroperitoneo", "argomento": "Vascolarizzazione dell'uretere",
+    "interventi": ["resezione anteriore del retto (TME)", "chirurgia aortica"], "tipo": "mcq", "livello": 2,
+    "domanda": "Nel tratto pelvico, da quale lato arrivano all'uretere i vasi nutritivi?",
+    "opzioni": ["Dal lato laterale (rami delle arterie iliache)", "Dal lato mediale (aorta)", "Solo dall'alto (arteria renale)", "Solo dal basso (arteria vescicale) attraverso il lume"],
+    "corrette": [0],
+    "spiegazione": "L'uretere riceve rami segmentari: nel tratto addominale arrivano dal lato mediale (renale, aorta, gonadica), nel tratto pelvico dal lato laterale (iliache, vescicali). I rami corrono in una rete longitudinale nell'avventizia.",
+    "perla": "Non 'scheletrizzare' l'uretere: mobilizzalo con l'avventizia e il suo tessuto, dal lato opposto all'apporto vascolare.",
+    "fonte": { "testo": "Skandalakis' Surgical Anatomy", "riferimento": "cap. Kidney and Ureter – ureteral blood supply" },
+    "tag": ["uretere", "correlazione"], "verificata": false
+  },
+  {
+    "id": "rp-0013", "distretto": "retroperitoneo", "argomento": "Restringimenti dell'uretere",
+    "interventi": ["ureteroscopia"], "tipo": "ordina", "livello": 1,
+    "domanda": "Ordina i tre restringimenti fisiologici dell'uretere dal rene alla vescica.",
+    "opzioni": ["Giunzione pieloureterale", "Incrocio con i vasi iliaci", "Giunzione ureterovescicale"],
+    "corrette": [0, 1, 2],
+    "spiegazione": "Sono i punti dove i calcoli si fermano più spesso; il più stretto è di solito la giunzione ureterovescicale.",
+    "fonte": { "testo": "Gray's Anatomy", "riferimento": "sezione Addome – uretere" },
+    "tag": ["uretere"], "verificata": false
+  },
+  {
+    "id": "rp-0014", "distretto": "retroperitoneo", "argomento": "Manovra di Mattox",
+    "interventi": ["chirurgia aortica", "laparotomia per trauma"], "tipo": "mcq", "livello": 2,
+    "domanda": "Cosa espone la manovra di Mattox (rotazione viscerale mediale sinistra)?",
+    "opzioni": ["L'aorta addominale dallo iato alla biforcazione, con tronco celiaco, AMS e renale sinistra", "La cava inferiore retroepatica", "La vena porta", "L'iliaca interna destra"],
+    "corrette": [0],
+    "spiegazione": "Si incide la linea di Toldt sinistra e si ribaltano medialmente colon sinistro, milza, coda del pancreas e stomaco (con o senza il rene sinistro). È l'accesso rapido all'aorta sovra- e iuxtarenale nel trauma.",
+    "fonte": { "testo": "Sabiston Textbook of Surgery", "riferimento": "cap. Abdominal Trauma – vascular exposure" },
+    "tag": ["manovre"], "verificata": false
+  },
+  {
+    "id": "rp-0015", "distretto": "retroperitoneo", "argomento": "Manovra di Cattell-Braasch",
+    "interventi": ["laparotomia per trauma", "linfoadenectomia retroperitoneale"], "tipo": "flash", "livello": 2,
+    "domanda": "Cos'è la manovra di Cattell-Braasch e cosa espone?",
+    "corrette": "La rotazione viscerale mediale destra: si mobilizzano colon destro e radice del mesentere (fino al Treitz), insieme a una Kocher estesa. Espone cava inferiore sottoepatica, aorta sottorenale, vasi iliaci e terza-quarta porzione duodenale.",
+    "spiegazione": "È l'accesso standard per le lesioni della cava sottoepatica e per il retroperitoneo destro e centrale.",
+    "fonte": { "testo": "Sabiston Textbook of Surgery", "riferimento": "cap. Abdominal Trauma – vascular exposure" },
+    "tag": ["manovre"], "verificata": false
+  },
+  {
+    "id": "rp-0016", "distretto": "retroperitoneo", "argomento": "Fascia di Gerota",
+    "interventi": ["nefrectomia", "surrenalectomia"], "tipo": "mcq", "livello": 1,
+    "domanda": "Cosa racchiude la fascia renale (di Gerota)?",
+    "opzioni": ["Rene, surrene e grasso perirenale", "Solo il rene, senza il surrene", "Rene e uretere pelvico", "Rene, milza e coda del pancreas"],
+    "corrette": [0],
+    "spiegazione": "La fascia di Gerota delimita lo spazio perirenale, che contiene rene, surrene e grasso perirenale. All'esterno ci sono gli spazi pararenali anteriore e posteriore.",
+    "fonte": { "testo": "Gray's Anatomy", "riferimento": "sezione Addome – rene e fasce" },
+    "tag": ["spazi"], "verificata": false
+  },
+  {
+    "id": "rp-0017", "distretto": "retroperitoneo", "argomento": "Nervo genitofemorale e catena simpatica",
+    "interventi": ["simpaticectomia lombare", "TAPP"], "tipo": "mcq", "livello": 2,
+    "domanda": "Sul muscolo psoas, dove si trovano il nervo genitofemorale e la catena simpatica lombare?",
+    "opzioni": ["Il genitofemorale sulla faccia anteriore dello psoas; la catena simpatica lungo il margine mediale, sui corpi vertebrali", "Entrambi dietro lo psoas", "Il genitofemorale nel canale inguinale soltanto; la catena davanti all'aorta", "La catena sulla faccia laterale dello psoas"],
+    "corrette": [0],
+    "spiegazione": "Il genitofemorale perfora lo psoas e scende sulla sua faccia anteriore. La catena simpatica lombare decorre lungo il margine mediale dello psoas, sui corpi vertebrali: a destra sotto la cava, a sinistra accanto all'aorta.",
+    "fonte": { "testo": "Gray's Anatomy", "riferimento": "sezione Addome – plesso lombare e simpatico" },
+    "tag": ["nervi"], "verificata": false
+  },
+  {
+    "id": "rp-0018", "distretto": "retroperitoneo", "argomento": "Spazi retroperitoneali",
+    "interventi": ["laparotomia per trauma"], "tipo": "flash", "livello": 1,
+    "domanda": "Quali sono i tre spazi retroperitoneali laterali e cosa contengono?",
+    "corrette": "Pararenale anteriore: pancreas, duodeno, colon ascendente e discendente. Perirenale: rene, surrene, grasso perirenale (dentro la Gerota). Pararenale posteriore: solo grasso.",
+    "spiegazione": "Questa suddivisione spiega la diffusione di raccolte ed ematomi, ad esempio la pancreatite nello spazio pararenale anteriore.",
+    "fonte": { "testo": "Gray's Anatomy", "riferimento": "sezione Addome – retroperitoneo" },
+    "tag": ["spazi"], "verificata": false
+  },
+  {
+    "id": "rp-0019", "distretto": "retroperitoneo", "argomento": "Sezione della vena renale sinistra",
+    "interventi": ["chirurgia aortica"], "tipo": "mcq", "livello": 3,
+    "domanda": "Nella chirurgia dell'aorta iuxtarenale, perché la vena renale sinistra può essere sezionata vicino alla cava con un rischio contenuto per il rene?",
+    "opzioni": ["Perché il rene sinistro conserva il deflusso attraverso le collaterali (surrenalica, gonadica, lombari), se la sezione è vicino alla cava", "Perché il rene sinistro non ha bisogno di drenaggio venoso", "Perché la vena renale sinistra non porta sangue dal rene", "Perché si ricostruisce sempre con un bypass"],
+    "corrette": [0],
+    "spiegazione": "Sezionando la vena vicino alla cava (medialmente alle sue tributarie) si preservano le collaterali che drenano il rene. Molti chirurghi preferiscono comunque reimpiantarla se il rene sembra congesto o le collaterali sono scarse.",
+    "fonte": { "testo": "Sabiston Textbook of Surgery", "riferimento": "cap. Aorta – juxtarenal aneurysm" },
+    "tag": ["correlazione", "vasi"], "verificata": false
+  },
+  {
+    "id": "rp-0020", "distretto": "retroperitoneo", "argomento": "Formazione della cava inferiore",
+    "interventi": ["chirurgia aortica"], "tipo": "mcq", "livello": 1,
+    "domanda": "Dove si forma la vena cava inferiore?",
+    "opzioni": ["A livello di L5, dalla confluenza delle iliache comuni, a destra dell'aorta", "A livello di T12, dalle renali", "Nella pelvi, dalle iliache interne", "A L1, a sinistra dell'aorta"],
+    "corrette": [0],
+    "spiegazione": "Le iliache comuni si uniscono a L5, dietro e a destra della biforcazione aortica. La cava sale a destra dell'aorta fino al forame cavale del diaframma (T8).",
+    "fonte": { "testo": "Gray's Anatomy", "riferimento": "sezione Addome – vena cava inferiore" },
+    "tag": ["vasi"], "verificata": false
+  },
+  {
+    "id": "rp-0021", "distretto": "retroperitoneo", "argomento": "Sindrome di May-Thurner",
+    "interventi": ["chirurgia venosa"], "tipo": "mcq", "livello": 2,
+    "domanda": "Nella sindrome di May-Thurner, quale vena viene compressa e da cosa?",
+    "opzioni": ["Vena iliaca comune sinistra, compressa tra l'arteria iliaca comune destra e la colonna", "Vena iliaca esterna destra, dal legamento inguinale", "Vena renale sinistra, tra AMS e aorta", "Vena cava inferiore, dal fegato"],
+    "corrette": [0],
+    "spiegazione": "L'iliaca comune destra incrocia davanti alla vena iliaca comune sinistra e la comprime contro il corpo vertebrale (L5). Ne deriva una predisposizione alla trombosi venosa profonda dell'arto inferiore sinistro.",
+    "fonte": { "testo": "Sabiston Textbook of Surgery", "riferimento": "cap. Venous Disease" },
+    "tag": ["vasi", "correlazione"], "verificata": false
+  },
+  {
+    "id": "rp-0022", "distretto": "retroperitoneo", "argomento": "Rami viscerali dell'aorta",
+    "interventi": ["chirurgia aortica"], "tipo": "ordina", "livello": 2,
+    "domanda": "Ordina i rami viscerali principali dell'aorta addominale dal più craniale al più caudale.",
+    "opzioni": ["Tronco celiaco", "Arteria mesenterica superiore", "Arterie renali", "Arteria mesenterica inferiore", "Biforcazione aortica"],
+    "corrette": [0, 1, 2, 3, 4],
+    "spiegazione": "Tronco celiaco (circa T12–L1), AMS (circa L1), arterie renali (L1–L2), AMI (circa L3), biforcazione (circa L4).",
+    "fonte": { "testo": "Gray's Anatomy", "riferimento": "sezione Addome – aorta addominale" },
+    "tag": ["vasi"], "verificata": false
+  },
+  {
+    "id": "rp-0023", "distretto": "retroperitoneo", "argomento": "Riconoscere i vasi retroperitoneali",
+    "interventi": ["chirurgia aortica", "surrenalectomia"], "tipo": "immagine", "livello": 1,
+    "domanda": "Retroperitoneo (vista anteriore). Quale vaso indica il punto evidenziato (1), che passa davanti all'aorta?",
+    "opzioni": ["Vena renale sinistra", "Arteria renale sinistra", "Vena gonadica sinistra", "Arteria mesenterica superiore"],
+    "corrette": [0],
+    "immagine": { "src": "img/retroperitoneo.svg", "hotspot": [{ "x": 63.8, "y": 41.5 }, { "x": 35, "y": 25.5 }, { "x": 69.5, "y": 35 }, { "x": 38, "y": 70 }, { "x": 41, "y": 93.8 }, { "x": 71.3, "y": 25 }, { "x": 55.5, "y": 57.5 }, { "x": 43, "y": 53.8 }, { "x": 69, "y": 62.5 }], "target": 0 },
+    "spiegazione": "La vena renale sinistra (1) attraversa davanti all'aorta (7) e riceve la surrenalica sinistra (3) e la gonadica sinistra (9).",
+    "fonte": { "testo": "Schema originale AnatoQuiz", "riferimento": "basato su Gray's Anatomy, sezione Addome – retroperitoneo" },
+    "tag": ["immagine", "vasi"], "verificata": false
+  },
+  {
+    "id": "rp-0024", "distretto": "retroperitoneo", "argomento": "Riconoscere i vasi retroperitoneali",
+    "interventi": ["surrenalectomia"], "tipo": "immagine", "livello": 2,
+    "domanda": "Nello schema, quale vaso indica il punto evidenziato (2), breve e diretto nella cava?",
+    "opzioni": ["Vena surrenalica destra", "Vena renale destra", "Vena frenica inferiore", "Vena gonadica destra"],
+    "corrette": [0],
+    "immagine": { "src": "img/retroperitoneo.svg", "hotspot": [{ "x": 63.8, "y": 41.5 }, { "x": 35, "y": 25.5 }, { "x": 69.5, "y": 35 }, { "x": 38, "y": 70 }, { "x": 41, "y": 93.8 }, { "x": 71.3, "y": 25 }, { "x": 55.5, "y": 57.5 }, { "x": 43, "y": 53.8 }, { "x": 69, "y": 62.5 }], "target": 1 },
+    "spiegazione": "La surrenalica destra (2) è corta e va direttamente nella cava (8): è il punto critico della surrenalectomia destra.",
+    "fonte": { "testo": "Schema originale AnatoQuiz", "riferimento": "basato su Skandalakis' Surgical Anatomy, cap. Adrenal Glands" },
+    "tag": ["immagine", "surreni", "a-rischio"], "verificata": false
+  },
+  {
+    "id": "rp-0025", "distretto": "retroperitoneo", "argomento": "Riconoscere i vasi retroperitoneali",
+    "interventi": ["emicolectomia sinistra / sigmoidectomia", "resezione anteriore del retto (TME)"], "tipo": "immagine", "livello": 2,
+    "domanda": "Nello schema, quale struttura indica il punto evidenziato (5), che scende incrociando i vasi iliaci?",
+    "opzioni": ["Uretere", "Vena gonadica", "Nervo genitofemorale", "Arteria iliaca interna"],
+    "corrette": [0],
+    "immagine": { "src": "img/retroperitoneo.svg", "hotspot": [{ "x": 63.8, "y": 41.5 }, { "x": 35, "y": 25.5 }, { "x": 69.5, "y": 35 }, { "x": 38, "y": 70 }, { "x": 41, "y": 93.8 }, { "x": 71.3, "y": 25 }, { "x": 55.5, "y": 57.5 }, { "x": 43, "y": 53.8 }, { "x": 69, "y": 62.5 }], "target": 4 },
+    "spiegazione": "L'uretere (5) scende dal bacinetto, passa dietro i vasi gonadici (4) e incrocia i vasi iliaci entrando nella pelvi.",
+    "fonte": { "testo": "Schema originale AnatoQuiz", "riferimento": "basato su Gray's Anatomy, sezione Addome – uretere" },
+    "tag": ["immagine", "uretere"], "verificata": false
+  }
+]

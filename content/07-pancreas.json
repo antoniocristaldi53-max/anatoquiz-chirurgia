@@ -1,0 +1,258 @@
+[
+  {
+    "id": "pan-0001", "distretto": "pancreas", "argomento": "Rapporto tra VMS e AMS",
+    "interventi": ["duodenocefalopancreasectomia"], "tipo": "mcq", "livello": 1,
+    "domanda": "Sotto il collo del pancreas, qual è il rapporto tra vena e arteria mesenterica superiore?",
+    "opzioni": ["La vena è a destra dell'arteria", "La vena è a sinistra dell'arteria", "La vena è davanti all'arteria sulla linea mediana", "L'arteria passa davanti alla vena"],
+    "corrette": [0],
+    "spiegazione": "La VMS decorre a destra della AMS. Un'inversione del rapporto (vena a sinistra) può indicare una malrotazione intestinale.",
+    "perla": "All'ecografia o alla TC, una VMS a sinistra dell'AMS deve far pensare a una malrotazione.",
+    "fonte": { "testo": "Gray's Anatomy", "riferimento": "sezione Addome – vasi mesenterici superiori" },
+    "tag": ["vasi"], "verificata": false
+  },
+  {
+    "id": "pan-0002", "distretto": "pancreas", "argomento": "Formazione della vena porta",
+    "interventi": ["duodenocefalopancreasectomia", "pancreasectomia distale"], "tipo": "mcq", "livello": 1,
+    "domanda": "Dove e da quali vene si forma la vena porta?",
+    "opzioni": ["Dietro il collo del pancreas, dalla confluenza di vena mesenterica superiore e vena splenica", "All'ilo epatico, dalla confluenza delle vene gastriche", "Dietro la terza porzione duodenale, da mesenterica inferiore e superiore", "Nel legamento epatoduodenale, dalla vena gastrica sinistra e dalla splenica"],
+    "corrette": [0],
+    "spiegazione": "La confluenza spleno-mesenterico-portale si trova dietro il collo del pancreas. Da lì la porta sale nel legamento epatoduodenale, dietro coledoco e arteria epatica.",
+    "fonte": { "testo": "Gray's Anatomy", "riferimento": "sezione Addome – sistema portale" },
+    "tag": ["vasi"], "verificata": false
+  },
+  {
+    "id": "pan-0003", "distretto": "pancreas", "argomento": "Processo uncinato",
+    "interventi": ["duodenocefalopancreasectomia"], "tipo": "mcq", "livello": 2,
+    "domanda": "Che rapporto ha il processo uncinato con i vasi mesenterici superiori?",
+    "opzioni": ["Si insinua dietro la vena mesenterica superiore (e talvolta dietro l'arteria)", "Si trova davanti a entrambi i vasi", "Si trova a sinistra dell'arteria, nel mesocolon", "Non ha rapporti con i vasi mesenterici"],
+    "corrette": [0],
+    "spiegazione": "Il processo uncinato, che deriva dall'abbozzo ventrale, si estende a sinistra dietro la VMS. Nella DCP va staccato dalla vena (legando le piccole vene pancreaticoduodenali) e dal margine destro dell'AMS, che è il margine di resezione più importante.",
+    "perla": "Il margine sull'AMS (margine 'mesopancreatico') è il margine positivo più frequente: dissezione vicino all'arteria, con trazione delicata sulla VMS.",
+    "fonte": { "testo": "Skandalakis' Surgical Anatomy", "riferimento": "cap. Pancreas" },
+    "tag": ["a-rischio"], "verificata": false
+  },
+  {
+    "id": "pan-0004", "distretto": "pancreas", "argomento": "Arcate pancreaticoduodenali",
+    "interventi": ["duodenocefalopancreasectomia"], "tipo": "multi", "livello": 2,
+    "domanda": "Da quali arterie nascono le arcate pancreaticoduodenali che irrorano la testa del pancreas? Seleziona tutte le corrette.",
+    "opzioni": ["Gastroduodenale (pancreaticoduodenali superiori anteriore e posteriore)", "Mesenterica superiore (pancreaticoduodenale inferiore)", "Gastrica sinistra", "Splenica (gastroepiploica sinistra)"],
+    "corrette": [0, 1],
+    "spiegazione": "Le pancreaticoduodenali superiori (dalla gastroduodenale, quindi dal tronco celiaco) si anastomizzano con le inferiori (dalla AMS), formando arcate anteriore e posteriore. Sono un'importante via collaterale tra tronco celiaco e AMS.",
+    "fonte": { "testo": "Gray's Anatomy", "riferimento": "sezione Addome – pancreas (vascolarizzazione)" },
+    "tag": ["vasi"], "verificata": false
+  },
+  {
+    "id": "pan-0005", "distretto": "pancreas", "argomento": "Epatica destra sostitutiva nella DCP",
+    "interventi": ["duodenocefalopancreasectomia"], "tipo": "mcq", "livello": 3,
+    "domanda": "Variante: durante una DCP, dove si trova di solito un'arteria epatica destra sostitutiva che nasce dall'AMS, e quale rischio comporta?",
+    "opzioni": ["Dietro la vena porta e lateralmente al coledoco: si può ledere sezionando la via biliare o liberando il processo uncinato, con ischemia epatica e dell'anastomosi biliare", "Davanti al collo del pancreas: si lede nella sezione del collo, senza conseguenze", "Nel legamento gastrosplenico: rischio di ischemia splenica", "Nel mesocolon trasverso: rischio di ischemia colica"],
+    "corrette": [0],
+    "spiegazione": "L'epatica destra sostitutiva (circa 10–20% tra sostitutive e accessorie secondo Michels e Hiatt) nasce dall'AMS, passa dietro la testa del pancreas o la porta e sale nel legamento epatoduodenale, posterolaterale al coledoco. Va riconosciuta alla TC e preservata.",
+    "perla": "Palpa sempre il margine posterolaterale del legamento epatoduodenale: una pulsazione lì è quasi sempre un'epatica destra variante.",
+    "fonte": { "testo": "Michels NA. Am J Surg 1966; Hiatt JR et al. Ann Surg 1994", "riferimento": "Classificazione delle varianti dell'arteria epatica" },
+    "tag": ["variante", "a-rischio", "correlazione"], "verificata": false
+  },
+  {
+    "id": "pan-0006", "distretto": "pancreas", "argomento": "Stenosi del tronco celiaco e gastroduodenale",
+    "interventi": ["duodenocefalopancreasectomia"], "tipo": "mcq", "livello": 3,
+    "domanda": "Perché nella DCP si clampa per prova l'arteria gastroduodenale prima di sezionarla?",
+    "opzioni": ["Per escludere che il fegato dipenda dal flusso retrogrado dalla AMS attraverso le arcate pancreaticoduodenali, come nella stenosi del tronco celiaco", "Per verificare il flusso nella vena porta", "Per misurare la pressione nel coledoco", "Per ridurre il sanguinamento dalla trancia pancreatica"],
+    "corrette": [0],
+    "spiegazione": "Con una stenosi del tronco celiaco (spesso da legamento arcuato mediano) il fegato può essere irrorato dall'AMS, attraverso le arcate pancreaticoduodenali e la gastroduodenale in flusso retrogrado. Sezionarla causerebbe ischemia epatica. Se il polso dell'epatica scompare al clampaggio, non va sezionata senza una rivascolarizzazione o la sezione del legamento arcuato.",
+    "fonte": { "testo": "Sabiston Textbook of Surgery", "riferimento": "cap. Exocrine Pancreas – pancreaticoduodenectomy" },
+    "tag": ["a-rischio", "correlazione"], "verificata": false
+  },
+  {
+    "id": "pan-0007", "distretto": "pancreas", "argomento": "Mesopancreas",
+    "interventi": ["duodenocefalopancreasectomia"], "tipo": "flash", "livello": 2,
+    "domanda": "Cosa si intende per 'mesopancreas' nella chirurgia del carcinoma della testa?",
+    "corrette": "Il tessuto tra il versante posteriore della testa e il margine destro dell'AMS (e del tronco celiaco): contiene linfatici, nervi e piccoli vasi. Va asportato in blocco per ottenere un margine R0.",
+    "spiegazione": "Non è un vero meso rivestito da fascia come nel retto, ma il concetto ha portato a dissecare lungo l'avventizia dell'AMS ('approccio artery-first') per asportare tutto il tessuto retroportale.",
+    "fonte": { "testo": "Gockel I et al. World J Surg Oncol 2007", "riferimento": "Resection of the mesopancreas (RMP): a new surgical classification of a known anatomical space" },
+    "tag": ["oncologia"], "verificata": false
+  },
+  {
+    "id": "pan-0008", "distretto": "pancreas", "argomento": "Approccio 'artery-first'",
+    "interventi": ["duodenocefalopancreasectomia"], "tipo": "mcq", "livello": 2,
+    "domanda": "Qual è il razionale principale dell'approccio 'artery-first' nella DCP?",
+    "opzioni": ["Valutare presto il coinvolgimento dell'AMS, prima dei passaggi irreversibili (sezione di collo, stomaco o via biliare)", "Ridurre il tempo operatorio evitando la Kocher", "Evitare la ricostruzione biliare", "Permettere la legatura routinaria dell'AMS"],
+    "corrette": [0],
+    "spiegazione": "Esporre per prima l'AMS (con diversi accessi: posteriore, mesenterico, sinistro, uncinato) permette di decidere sulla resecabilità prima di punti di non ritorno e di dissecare il margine retroperitoneale vicino all'arteria.",
+    "fonte": { "testo": "Sabiston Textbook of Surgery", "riferimento": "cap. Exocrine Pancreas – pancreaticoduodenectomy" },
+    "tag": ["oncologia"], "verificata": false
+  },
+  {
+    "id": "pan-0009", "distretto": "pancreas", "argomento": "Ricostruzione secondo Child",
+    "interventi": ["duodenocefalopancreasectomia"], "tipo": "ordina", "livello": 2,
+    "domanda": "Nella ricostruzione classica dopo DCP su un'unica ansa (secondo Child), ordina le anastomosi da monte a valle lungo l'ansa digiunale.",
+    "opzioni": ["Pancreatico-digiunale", "Epatico-digiunale", "Gastro- o duodeno-digiunale"],
+    "corrette": [0, 1, 2],
+    "spiegazione": "Nella ricostruzione di Child l'anastomosi pancreatica è la più prossimale, poi quella biliare e infine quella gastrica o duodenale, così il contenuto gastrico passa a valle delle altre due.",
+    "fonte": { "testo": "Chassin's Operative Strategy in General Surgery", "riferimento": "cap. Pancreaticoduodenectomy" },
+    "tag": ["sequenza"], "verificata": false
+  },
+  {
+    "id": "pan-0010", "distretto": "pancreas", "argomento": "Dotti pancreatici",
+    "interventi": ["duodenocefalopancreasectomia"], "tipo": "mcq", "livello": 1,
+    "domanda": "Dove sboccano di solito il dotto pancreatico principale (di Wirsung) e quello accessorio (di Santorini)?",
+    "opzioni": ["Wirsung nella papilla maggiore insieme al coledoco; Santorini nella papilla minore", "Wirsung nella papilla minore; Santorini nella maggiore", "Entrambi nella terza porzione duodenale", "Wirsung nel digiuno prossimale"],
+    "corrette": [0],
+    "spiegazione": "Il Wirsung si unisce di solito al coledoco nell'ampolla di Vater (papilla maggiore). Il Santorini, residuo del dotto dorsale, sbocca nella papilla minore, più craniale e anteriore, o comunica con il Wirsung.",
+    "fonte": { "testo": "Gray's Anatomy", "riferimento": "sezione Addome – pancreas (dotti)" },
+    "tag": ["dotti"], "verificata": false
+  },
+  {
+    "id": "pan-0011", "distretto": "pancreas", "argomento": "Pancreas divisum",
+    "interventi": ["duodenocefalopancreasectomia"], "tipo": "mcq", "livello": 3,
+    "domanda": "Variante: con quale frequenza si trova un pancreas divisum e cosa lo caratterizza?",
+    "opzioni": ["Circa 4–10%; mancata fusione dei dotti dorsale e ventrale: gran parte del pancreas drena dalla papilla minore", "Circa 0,1%; pancreas ad anello attorno al duodeno", "Circa 30%; doppio Wirsung", "Circa 50%; assenza del Santorini"],
+    "corrette": [0],
+    "spiegazione": "Il pancreas divisum è la variante congenita più comune del pancreas (circa 4–10% nelle serie autoptiche e colangiografiche). Il dotto dorsale (Santorini) drena corpo, coda e parte della testa attraverso la papilla minore.",
+    "fonte": { "testo": "Skandalakis' Surgical Anatomy", "riferimento": "cap. Pancreas – congenital anomalies" },
+    "tag": ["variante", "dotti"], "verificata": false
+  },
+  {
+    "id": "pan-0012", "distretto": "pancreas", "argomento": "Pancreas anulare",
+    "interventi": ["duodenodigiunostomia"], "tipo": "mcq", "livello": 2,
+    "domanda": "Pancreas anulare con ostruzione duodenale: qual è il trattamento chirurgico corretto?",
+    "opzioni": ["Bypass (duodeno-duodenostomia o duodeno-digiunostomia), senza sezionare l'anello", "Sezione dell'anello pancreatico", "Resezione della testa pancreatica", "Gastrectomia distale"],
+    "corrette": [0],
+    "spiegazione": "L'anello deriva da un'anomala rotazione dell'abbozzo ventrale attorno alla seconda porzione e contiene un dotto. Sezionarlo causa fistole e pancreatite e spesso non risolve la stenosi duodenale associata: si esegue un bypass.",
+    "fonte": { "testo": "Skandalakis' Surgical Anatomy", "riferimento": "cap. Pancreas – congenital anomalies" },
+    "tag": ["correlazione"], "verificata": false
+  },
+  {
+    "id": "pan-0013", "distretto": "pancreas", "argomento": "Embriologia degli abbozzi pancreatici",
+    "interventi": ["duodenocefalopancreasectomia"], "tipo": "mcq", "livello": 1,
+    "domanda": "Quale parte del pancreas deriva dall'abbozzo ventrale?",
+    "opzioni": ["La parte inferiore e posteriore della testa e il processo uncinato", "Corpo e coda", "Solo il collo", "Tutta la testa e il collo"],
+    "corrette": [0],
+    "spiegazione": "L'abbozzo ventrale (vicino al coledoco) ruota dietro il duodeno e forma la parte inferiore della testa e il processo uncinato. Il dorsale forma la parte superiore della testa, collo, corpo e coda.",
+    "fonte": { "testo": "Skandalakis' Surgical Anatomy", "riferimento": "cap. Pancreas – embryogenesis" },
+    "tag": ["embriologia"], "verificata": false
+  },
+  {
+    "id": "pan-0014", "distretto": "pancreas", "argomento": "Vasi splenici e corpo pancreatico",
+    "interventi": ["pancreasectomia distale", "splenectomia VLS"], "tipo": "mcq", "livello": 2,
+    "domanda": "Nella pancreasectomia distale, dove decorrono arteria e vena splenica rispetto al corpo del pancreas?",
+    "opzioni": ["L'arteria lungo il margine superiore, tortuosa; la vena sulla faccia posteriore, quasi immersa nel parenchima", "Entrambe sulla faccia anteriore", "La vena lungo il margine inferiore e l'arteria dietro il rene", "Entrambe nel mesocolon trasverso"],
+    "corrette": [0],
+    "spiegazione": "L'arteria splenica decorre tortuosa lungo il margine superiore. La vena è posteriore, in un solco della faccia posteriore, e riceve numerose piccole vene pancreatiche: nella pancreasectomia con conservazione della milza vanno legate una a una.",
+    "fonte": { "testo": "Skandalakis' Surgical Anatomy", "riferimento": "cap. Pancreas – blood supply" },
+    "tag": ["vasi", "a-rischio"], "verificata": false
+  },
+  {
+    "id": "pan-0015", "distretto": "pancreas", "argomento": "Sbocco della vena mesenterica inferiore",
+    "interventi": ["pancreasectomia distale", "resezione anteriore del retto (TME)"], "tipo": "mcq", "livello": 2,
+    "domanda": "Dove termina la vena mesenterica inferiore?",
+    "opzioni": ["Nella vena splenica, nella mesenterica superiore o nella confluenza: il punto di sbocco è variabile", "Sempre direttamente nella vena porta all'ilo", "Nella vena renale sinistra", "Nella vena cava inferiore"],
+    "corrette": [0],
+    "spiegazione": "La VMI sale a sinistra del legamento di Treitz e passa dietro il corpo del pancreas. Sbocca in proporzioni variabili nella splenica, nella VMS o nella confluenza.",
+    "perla": "Nella mobilizzazione della flessura splenica, la VMI si lega al margine inferiore del pancreas, a sinistra del Treitz.",
+    "fonte": { "testo": "Skandalakis' Surgical Anatomy", "riferimento": "cap. Pancreas – venous drainage" },
+    "tag": ["vasi"], "verificata": false
+  },
+  {
+    "id": "pan-0016", "distretto": "pancreas", "argomento": "Tunnel retropancreatico",
+    "interventi": ["duodenocefalopancreasectomia"], "tipo": "flash", "livello": 2,
+    "domanda": "Perché si può creare un tunnel tra il collo del pancreas e l'asse VMS-porta, e dove bisogna fare attenzione?",
+    "corrette": "Perché la faccia anteriore della VMS e della porta sotto il collo non riceve di solito tributarie: il piano è relativamente avascolare. Le tributarie (pancreaticoduodenali, tronco di Henle, gastrica sinistra) sboccano lateralmente o sopra.",
+    "spiegazione": "Il tunnel si inizia dal basso (VMS al margine inferiore del pancreas) e dall'alto (porta, dopo aver sezionato la gastroduodenale e il coledoco). Va condotto con delicatezza, sempre a contatto della faccia anteriore della vena.",
+    "perla": "Se il tunnel non si crea facilmente, sospetta un'infiltrazione venosa: non forzare alla cieca.",
+    "fonte": { "testo": "Chassin's Operative Strategy in General Surgery", "riferimento": "cap. Pancreaticoduodenectomy" },
+    "tag": ["a-rischio"], "verificata": false
+  },
+  {
+    "id": "pan-0017", "distretto": "pancreas", "argomento": "Resecabilità del carcinoma pancreatico",
+    "interventi": ["duodenocefalopancreasectomia"], "tipo": "multi", "livello": 3,
+    "domanda": "Quali vasi si valutano per definire la resecabilità del carcinoma pancreatico? Seleziona tutti i corretti.",
+    "opzioni": ["Arteria mesenterica superiore", "Tronco celiaco", "Arteria epatica comune", "Vena mesenterica superiore e vena porta", "Vena mesenterica inferiore"],
+    "corrette": [0, 1, 2, 3],
+    "spiegazione": "Le definizioni di resecabile, borderline e localmente avanzato si basano sul contatto del tumore con AMS, tronco celiaco ed epatica comune (arterie) e con VMS e porta (vene). Si considerano i gradi di contatto e la ricostruibilità venosa.",
+    "fonte": { "testo": "NCCN Clinical Practice Guidelines in Oncology", "riferimento": "Pancreatic Adenocarcinoma – criteri di resecabilità" },
+    "tag": ["oncologia"], "verificata": false
+  },
+  {
+    "id": "pan-0018", "distretto": "pancreas", "argomento": "Posizione del pancreas",
+    "interventi": ["pancreasectomia distale", "splenectomia VLS"], "tipo": "mcq", "livello": 1,
+    "domanda": "Quale parte del pancreas non è retroperitoneale e si trova in un legamento peritoneale?",
+    "opzioni": ["La coda, nel legamento splenorenale", "La testa, nel legamento epatoduodenale", "Il collo, nel piccolo omento", "Il corpo, nel mesocolon"],
+    "corrette": [0],
+    "spiegazione": "Il pancreas è secondariamente retroperitoneale. La coda arriva all'ilo splenico nel legamento splenorenale, insieme ai vasi splenici.",
+    "perla": "Nella splenectomia, clampare l'ilo troppo in blocco può includere la coda e causare una fistola pancreatica.",
+    "fonte": { "testo": "Gray's Anatomy", "riferimento": "sezione Addome – pancreas" },
+    "tag": ["a-rischio"], "verificata": false
+  },
+  {
+    "id": "pan-0019", "distretto": "pancreas", "argomento": "Plesso nervoso mesenterico superiore",
+    "interventi": ["duodenocefalopancreasectomia"], "tipo": "mcq", "livello": 3,
+    "domanda": "Quale conseguenza tipica ha la dissezione circonferenziale (360°) del plesso nervoso attorno all'AMS?",
+    "opzioni": ["Diarrea grave e difficile da controllare", "Ipertensione portale", "Ittero ostruttivo", "Ileo paralitico permanente"],
+    "corrette": [0],
+    "spiegazione": "Il plesso mesenterico superiore avvolge l'arteria. La sua asportazione completa denerva l'intestino e causa diarrea spesso invalidante. Per questo la dissezione si limita di solito al versante destro dell'arteria.",
+    "fonte": { "testo": "Sabiston Textbook of Surgery", "riferimento": "cap. Exocrine Pancreas – extended resection" },
+    "tag": ["correlazione", "a-rischio"], "verificata": false
+  },
+  {
+    "id": "pan-0020", "distretto": "pancreas", "argomento": "Organi asportati nella DCP",
+    "interventi": ["duodenocefalopancreasectomia"], "tipo": "flash", "livello": 1,
+    "domanda": "Cosa si asporta in una duodenocefalopancreasectomia classica (Whipple)?",
+    "corrette": "Testa del pancreas con processo uncinato, duodeno, antro gastrico distale, colecisti, coledoco distale, primo tratto digiunale e linfonodi peripancreatici.",
+    "spiegazione": "Nella variante con conservazione del piloro (PPPD) si conserva l'antro e si seziona il duodeno 2–3 cm dopo il piloro.",
+    "fonte": { "testo": "Chassin's Operative Strategy in General Surgery", "riferimento": "cap. Pancreaticoduodenectomy" },
+    "tag": ["sequenza"], "verificata": false
+  },
+  {
+    "id": "pan-0021", "distretto": "pancreas", "argomento": "Parti del pancreas",
+    "interventi": ["pancreasectomia distale"], "tipo": "ordina", "livello": 1,
+    "domanda": "Ordina le parti del pancreas da destra a sinistra del paziente.",
+    "opzioni": ["Testa e processo uncinato", "Collo", "Corpo", "Coda"],
+    "corrette": [0, 1, 2, 3],
+    "spiegazione": "La testa è nell'ansa duodenale, il collo davanti alla confluenza spleno-mesenterico-portale, il corpo incrocia aorta e pilastro sinistro, la coda arriva all'ilo splenico.",
+    "fonte": { "testo": "Gray's Anatomy", "riferimento": "sezione Addome – pancreas" },
+    "tag": ["anatomia"], "verificata": false
+  },
+  {
+    "id": "pan-0022", "distretto": "pancreas", "argomento": "Vena gastrica sinistra",
+    "interventi": ["duodenocefalopancreasectomia", "gastrectomia distale"], "tipo": "mcq", "livello": 2,
+    "domanda": "Dove sbocca la vena gastrica sinistra (coronaria stomacica) e quando conta?",
+    "opzioni": ["Nella porta o nella splenica, vicino al margine superiore del pancreas: va riconosciuta nella dissezione sopra il pancreas (stazioni 8a–9)", "Nella vena cava inferiore", "Nella vena mesenterica inferiore al Treitz", "Direttamente nell'atrio destro tramite la azygos"],
+    "corrette": [0],
+    "spiegazione": "La vena gastrica sinistra scende dalla piccola curva e sbocca nella porta, nella splenica o nella confluenza, con frequenza variabile. Lesionarla nella dissezione del margine superiore del pancreas causa sanguinamenti fastidiosi.",
+    "fonte": { "testo": "Skandalakis' Surgical Anatomy", "riferimento": "cap. Stomach – venous drainage" },
+    "tag": ["vasi", "a-rischio"], "verificata": false
+  },
+  {
+    "id": "pan-0023", "distretto": "pancreas", "argomento": "Riconoscere i vasi peripancreatici",
+    "interventi": ["duodenocefalopancreasectomia"], "tipo": "immagine", "livello": 1,
+    "domanda": "Pancreas e vasi (vista anteriore; vene dietro il pancreas tratteggiate). Quale vaso indica il punto evidenziato (1)?",
+    "opzioni": ["Vena mesenterica superiore", "Arteria mesenterica superiore", "Vena mesenterica inferiore", "Vena cava inferiore"],
+    "corrette": [0],
+    "immagine": { "src": "img/pancreas.svg", "hotspot": [{ "x": 53.2, "y": 82.5 }, { "x": 61.3, "y": 75 }, { "x": 49.3, "y": 25 }, { "x": 80, "y": 37 }, { "x": 74.5, "y": 75 }, { "x": 32.5, "y": 62.5 }, { "x": 12.5, "y": 50 }, { "x": 40, "y": 25 }, { "x": 28.3, "y": 26.5 }, { "x": 92.5, "y": 31.3 }], "target": 0 },
+    "spiegazione": "La VMS (1) sale a destra dell'AMS (2) e, dietro il collo, si unisce alla splenica (4) per formare la porta (3).",
+    "fonte": { "testo": "Schema originale AnatoQuiz", "riferimento": "basato su Skandalakis' Surgical Anatomy, cap. Pancreas" },
+    "tag": ["immagine", "vasi"], "verificata": false
+  },
+  {
+    "id": "pan-0024", "distretto": "pancreas", "argomento": "Riconoscere i vasi peripancreatici",
+    "interventi": ["duodenocefalopancreasectomia"], "tipo": "immagine", "livello": 2,
+    "domanda": "Nello schema, quale vaso indica il punto evidenziato (8), che scende sulla testa del pancreas?",
+    "opzioni": ["Arteria gastroduodenale", "Arteria epatica propria", "Vena porta", "Arteria pancreaticoduodenale inferiore"],
+    "corrette": [0],
+    "immagine": { "src": "img/pancreas.svg", "hotspot": [{ "x": 53.2, "y": 82.5 }, { "x": 61.3, "y": 75 }, { "x": 49.3, "y": 25 }, { "x": 80, "y": 37 }, { "x": 74.5, "y": 75 }, { "x": 32.5, "y": 62.5 }, { "x": 12.5, "y": 50 }, { "x": 40, "y": 25 }, { "x": 28.3, "y": 26.5 }, { "x": 92.5, "y": 31.3 }], "target": 7 },
+    "spiegazione": "La gastroduodenale (8) nasce dall'epatica comune e scende davanti alla testa, tra coledoco (9) e asse portale (3). Nella DCP si clampa per prova e poi si seziona.",
+    "fonte": { "testo": "Schema originale AnatoQuiz", "riferimento": "basato su Skandalakis' Surgical Anatomy, cap. Pancreas" },
+    "tag": ["immagine", "vasi", "a-rischio"], "verificata": false
+  },
+  {
+    "id": "pan-0025", "distretto": "pancreas", "argomento": "Riconoscere i vasi peripancreatici",
+    "interventi": ["duodenocefalopancreasectomia", "pancreasectomia distale"], "tipo": "immagine", "livello": 2,
+    "domanda": "Nello schema, quale vaso indica il punto evidenziato (5)?",
+    "opzioni": ["Vena mesenterica inferiore", "Vena mesenterica superiore", "Vena gonadica sinistra", "Arteria colica media"],
+    "corrette": [0],
+    "immagine": { "src": "img/pancreas.svg", "hotspot": [{ "x": 53.2, "y": 82.5 }, { "x": 61.3, "y": 75 }, { "x": 49.3, "y": 25 }, { "x": 80, "y": 37 }, { "x": 74.5, "y": 75 }, { "x": 32.5, "y": 62.5 }, { "x": 12.5, "y": 50 }, { "x": 40, "y": 25 }, { "x": 28.3, "y": 26.5 }, { "x": 92.5, "y": 31.3 }], "target": 4 },
+    "spiegazione": "La VMI (5) sale a sinistra dell'AMS e del Treitz e sbocca dietro il pancreas, in questo schema nella vena splenica (4). Il punto di sbocco è variabile.",
+    "fonte": { "testo": "Schema originale AnatoQuiz", "riferimento": "basato su Skandalakis' Surgical Anatomy, cap. Pancreas" },
+    "tag": ["immagine", "vasi"], "verificata": false
+  }
+]

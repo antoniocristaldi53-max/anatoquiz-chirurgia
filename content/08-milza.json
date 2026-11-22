@@ -1,0 +1,256 @@
+[
+  {
+    "id": "milza-0001", "distretto": "milza", "argomento": "Posizione della milza",
+    "interventi": ["splenectomia VLS", "splenectomia open"], "tipo": "mcq", "livello": 1,
+    "domanda": "A quali coste corrisponde di solito la milza?",
+    "opzioni": ["IX–XI costa a sinistra, lungo l'asse della X", "V–VII costa a sinistra", "XI–XII costa, sotto il rene", "VII–IX costa a destra"],
+    "corrette": [0],
+    "spiegazione": "La milza si trova nell'ipocondrio sinistro, profonda rispetto alle coste IX–XI, con l'asse lungo parallelo alla X costa. In condizioni normali non è palpabile.",
+    "perla": "Fratture delle coste basse sinistre in un trauma: sospetta una lesione splenica fino a prova contraria.",
+    "fonte": { "testo": "Gray's Anatomy", "riferimento": "sezione Addome – milza" },
+    "tag": ["anatomia"], "verificata": false
+  },
+  {
+    "id": "milza-0002", "distretto": "milza", "argomento": "Legamenti splenici",
+    "interventi": ["splenectomia VLS", "splenectomia open"], "tipo": "multi", "livello": 1,
+    "domanda": "Quali legamenti fissano la milza? Seleziona tutti i corretti.",
+    "opzioni": ["Gastrosplenico", "Splenorenale", "Splenocolico", "Splenofrenico", "Epatoduodenale"],
+    "corrette": [0, 1, 2, 3],
+    "spiegazione": "Gastrosplenico (gastriche brevi e gastroepiploica sinistra), splenorenale (vasi splenici e coda del pancreas), splenocolico (verso la flessura splenica) e splenofrenico. L'epatoduodenale è il margine libero del piccolo omento.",
+    "fonte": { "testo": "Skandalakis' Surgical Anatomy", "riferimento": "cap. Spleen – ligaments" },
+    "tag": ["legamenti"], "verificata": false
+  },
+  {
+    "id": "milza-0003", "distretto": "milza", "argomento": "Legamento splenorenale",
+    "interventi": ["splenectomia VLS", "pancreasectomia distale"], "tipo": "mcq", "livello": 1,
+    "domanda": "Cosa contiene il legamento splenorenale?",
+    "opzioni": ["Vasi splenici e coda del pancreas", "Vasi gastrici brevi", "Arteria gastroepiploica destra", "Uretere sinistro"],
+    "corrette": [0],
+    "spiegazione": "Il legamento splenorenale va dal rene sinistro all'ilo splenico e contiene arteria e vena splenica e la coda del pancreas.",
+    "fonte": { "testo": "Gray's Anatomy", "riferimento": "sezione Addome – peritoneo e milza" },
+    "tag": ["legamenti"], "verificata": false
+  },
+  {
+    "id": "milza-0004", "distretto": "milza", "argomento": "Milze accessorie",
+    "interventi": ["splenectomia VLS", "splenectomia open"], "tipo": "mcq", "livello": 2,
+    "domanda": "Variante: con quale frequenza si trovano milze accessorie, e dove soprattutto?",
+    "opzioni": ["Circa 10–30% nelle serie autoptiche; soprattutto all'ilo splenico e nei legamenti vicini", "Meno dell'1%; nel mesentere del tenue", "Circa 60%; nella pelvi", "Circa 50%; nel legamento falciforme"],
+    "corrette": [0],
+    "spiegazione": "Le milze accessorie sono frequenti (circa 10–30% nelle serie autoptiche). Si trovano soprattutto all'ilo, poi nei legamenti gastrosplenico e splenocolico, vicino alla coda del pancreas e nel grande omento; raramente nella pelvi o nello scroto.",
+    "perla": "Nella splenectomia per malattia ematologica cerca le milze accessorie prima di estrarre la milza: dopo, con il sanguinamento, è più difficile.",
+    "fonte": { "testo": "Skandalakis' Surgical Anatomy", "riferimento": "cap. Spleen – accessory spleens" },
+    "tag": ["variante"], "verificata": false
+  },
+  {
+    "id": "milza-0005", "distretto": "milza", "argomento": "Recidiva dopo splenectomia per PTI",
+    "interventi": ["splenectomia VLS"], "tipo": "mcq", "livello": 2,
+    "domanda": "Dopo una splenectomia per porpora trombocitopenica immune, le piastrine tornano a scendere mesi dopo. Quale causa anatomica va considerata?",
+    "opzioni": ["Una milza accessoria non asportata (o splenosi)", "Ipertrofia del lobo caudato", "Una fistola pancreatica", "Trombosi della vena porta"],
+    "corrette": [0],
+    "spiegazione": "Il tessuto splenico residuo può riprendere la distruzione piastrinica. Una scintigrafia con globuli rossi danneggiati o una TC aiutano a trovarlo.",
+    "fonte": { "testo": "Sabiston Textbook of Surgery", "riferimento": "cap. The Spleen" },
+    "tag": ["correlazione", "variante"], "verificata": false
+  },
+  {
+    "id": "milza-0006", "distretto": "milza", "argomento": "Ramificazione dell'arteria splenica",
+    "interventi": ["splenectomia VLS", "splenectomia parziale"], "tipo": "mcq", "livello": 3,
+    "domanda": "Variante: quali sono i due schemi di ramificazione dell'arteria splenica descritti da Michels, e la loro frequenza approssimativa?",
+    "opzioni": ["Distribuito (molti rami lunghi che nascono lontano dall'ilo), circa 70%; magistrale (tronco lungo con rami corti vicino all'ilo), circa 30%", "Magistrale circa 95%, distribuito circa 5%", "Distribuito circa 30%, magistrale circa 70%", "Esiste un solo schema"],
+    "corrette": [0],
+    "spiegazione": "Michels descrive il tipo distribuito (il più frequente, circa 70%), con rami che si staccano a qualche centimetro dall'ilo, e il tipo magistrale (circa 30%), con un tronco che si divide vicino all'ilo in rami corti.",
+    "perla": "Nel tipo distribuito l'ilo è largo e i rami sono distanziati: la suturatrice in blocco è meno indicata e conviene controllare i rami separatamente.",
+    "fonte": { "testo": "Skandalakis' Surgical Anatomy", "riferimento": "cap. Spleen – splenic artery (tipi secondo Michels)" },
+    "tag": ["variante", "vasi"], "verificata": false
+  },
+  {
+    "id": "milza-0007", "distretto": "milza", "argomento": "Vascolarizzazione segmentaria",
+    "interventi": ["splenectomia parziale"], "tipo": "mcq", "livello": 2,
+    "domanda": "Quale caratteristica anatomica rende possibile la splenectomia parziale?",
+    "opzioni": ["Le arterie segmentarie sono di tipo terminale: legandone una compare una demarcazione ischemica del segmento", "La milza ha un doppio drenaggio venoso portale e cavale", "La capsula splenica è spessa e regge bene le suture", "La milza non ha vasi intraparenchimali"],
+    "corrette": [0],
+    "spiegazione": "La milza è organizzata in segmenti irrorati da arterie terminali con poche anastomosi. Legando l'arteria di un segmento compare una linea di demarcazione che guida la sezione.",
+    "fonte": { "testo": "Skandalakis' Surgical Anatomy", "riferimento": "cap. Spleen – segmental anatomy" },
+    "tag": ["vasi"], "verificata": false
+  },
+  {
+    "id": "milza-0008", "distretto": "milza", "argomento": "Sequenza della splenectomia VLS (approccio laterale)",
+    "interventi": ["splenectomia VLS"], "tipo": "ordina", "livello": 2,
+    "domanda": "Ordina i passaggi di una splenectomia VLS con approccio laterale ('milza sospesa').",
+    "opzioni": ["Decubito laterale destro e posizionamento dei trocar sottocostali", "Sezione del legamento splenocolico e abbassamento della flessura", "Sezione del legamento gastrosplenico (gastriche brevi)", "Identificazione della coda del pancreas e controllo dei vasi ilari", "Sezione degli attacchi posteriori e superiori (splenofrenico)", "Estrazione in sacca, previa morcellazione se necessario"],
+    "corrette": [0, 1, 2, 3, 4, 5],
+    "spiegazione": "In decubito laterale la gravità sposta stomaco e colon. Gli attacchi laterali e posteriori si lasciano per ultimi, così la milza resta 'appesa' e l'ilo è più facile da esporre. L'ordine può variare con la tecnica.",
+    "fonte": { "testo": "Chassin's Operative Strategy in General Surgery", "riferimento": "cap. Laparoscopic Splenectomy" },
+    "tag": ["sequenza"], "verificata": false
+  },
+  {
+    "id": "milza-0009", "distretto": "milza", "argomento": "Gastriche brevi e grande curva",
+    "interventi": ["splenectomia VLS", "fundoplicatio VLS (Nissen/Toupet)"], "tipo": "mcq", "livello": 2,
+    "domanda": "Quale complicanza rischia una sezione dei vasi gastrici brevi troppo vicina alla grande curva con dispositivi a energia?",
+    "opzioni": ["Lesione termica della parete gastrica con perforazione ritardata", "Ischemia della coda pancreatica", "Infarto renale sinistro", "Lesione del surrene destro"],
+    "corrette": [0],
+    "spiegazione": "I gastrici brevi superiori sono molto corti: la milza è vicina al fondo. Una presa a contatto con lo stomaco può causare una necrosi termica che si manifesta giorni dopo con una perforazione o un ascesso subfrenico.",
+    "perla": "Applica l'energia a metà tra stomaco e milza e lascia un margine di tessuto sul lato gastrico.",
+    "fonte": { "testo": "Sabiston Textbook of Surgery", "riferimento": "cap. The Spleen – splenectomy complications" },
+    "tag": ["correlazione", "a-rischio"], "verificata": false
+  },
+  {
+    "id": "milza-0010", "distretto": "milza", "argomento": "Vaccinazioni e splenectomia",
+    "interventi": ["splenectomia VLS", "splenectomia open"], "tipo": "mcq", "livello": 1,
+    "domanda": "Quali vaccinazioni si raccomandano prima di una splenectomia elettiva, e quando?",
+    "opzioni": ["Pneumococco, meningococco e Haemophilus influenzae tipo b, almeno 2 settimane prima", "Solo epatite B, il giorno dell'intervento", "Tetano e difterite, 6 mesi dopo", "Nessuna se il paziente è adulto"],
+    "corrette": [0],
+    "spiegazione": "L'asplenia espone alla sepsi fulminante post-splenectomia (OPSI) da batteri capsulati. Le vaccinazioni si fanno idealmente almeno 2 settimane prima dell'intervento elettivo, oppure dopo l'intervento in urgenza. L'antinfluenzale annuale è raccomandata.",
+    "fonte": { "testo": "Sabiston Textbook of Surgery", "riferimento": "cap. The Spleen – OPSI" },
+    "tag": ["correlazione"], "verificata": false
+  },
+  {
+    "id": "milza-0011", "distretto": "milza", "argomento": "Vena splenica",
+    "interventi": ["splenectomia VLS", "pancreasectomia distale"], "tipo": "flash", "livello": 1,
+    "domanda": "Come decorre la vena splenica dall'ilo alla porta?",
+    "corrette": "Dall'ilo decorre lungo la faccia posteriore del corpo e della coda del pancreas, sotto l'arteria, e dietro il collo si unisce alla vena mesenterica superiore per formare la porta.",
+    "spiegazione": "Riceve le gastriche brevi, la gastroepiploica sinistra, numerose piccole vene pancreatiche e spesso la mesenterica inferiore. La trombosi della vena splenica causa ipertensione portale sinistra ('segmentaria') con varici gastriche isolate.",
+    "fonte": { "testo": "Gray's Anatomy", "riferimento": "sezione Addome – sistema portale" },
+    "tag": ["vasi"], "verificata": false
+  },
+  {
+    "id": "milza-0012", "distretto": "milza", "argomento": "Aneurisma dell'arteria splenica",
+    "interventi": ["splenectomia open"], "tipo": "mcq", "livello": 2,
+    "domanda": "Quale affermazione sull'aneurisma dell'arteria splenica è corretta?",
+    "opzioni": ["È l'aneurisma viscerale più frequente e ha un rischio di rottura particolarmente alto in gravidanza", "È sempre di origine micotica", "Non si rompe mai sotto i 5 cm", "Si tratta sempre con splenectomia"],
+    "corrette": [0],
+    "spiegazione": "È il più comune degli aneurismi delle arterie viscerali. È più frequente nelle donne e nell'ipertensione portale e ha un alto rischio di rottura in gravidanza. Le opzioni di trattamento comprendono l'embolizzazione e la resezione con o senza splenectomia.",
+    "fonte": { "testo": "Sabiston Textbook of Surgery", "riferimento": "cap. The Spleen / visceral artery aneurysms" },
+    "tag": ["vasi"], "verificata": false
+  },
+  {
+    "id": "milza-0013", "distretto": "milza", "argomento": "Splenectomia in urgenza",
+    "interventi": ["splenectomia open"], "tipo": "mcq", "livello": 3,
+    "domanda": "Nella splenectomia per trauma con sanguinamento attivo, qual è la manovra chiave per controllare rapidamente l'ilo?",
+    "opzioni": ["Incidere gli attacchi peritoneali laterali (splenorenale) e mobilizzare medialmente milza e coda del pancreas, portandole nella ferita", "Clampare l'aorta sottorenale", "Sezionare prima i vasi gastrici brevi uno a uno", "Eseguire una manovra di Kocher"],
+    "corrette": [0],
+    "spiegazione": "Mobilizzando medialmente milza e coda pancreatica dal retroperitoneo, l'ilo si porta in superficie e si può comprimere tra le dita, poi clampare sotto controllo, senza includere la coda.",
+    "fonte": { "testo": "Chassin's Operative Strategy in General Surgery", "riferimento": "cap. Splenectomy" },
+    "tag": ["a-rischio"], "verificata": false
+  },
+  {
+    "id": "milza-0014", "distretto": "milza", "argomento": "Legatura preliminare dell'arteria splenica",
+    "interventi": ["splenectomia open", "splenectomia VLS"], "tipo": "mcq", "livello": 2,
+    "domanda": "Nella splenomegalia massiva, perché si lega l'arteria splenica al margine superiore del pancreas prima di mobilizzare la milza?",
+    "opzioni": ["Riduce il sanguinamento e il volume della milza, con un'autotrasfusione dal sangue splenico", "Previene la fistola pancreatica", "Evita la lesione del rene sinistro", "Facilita la sezione del legamento splenocolico"],
+    "corrette": [0],
+    "spiegazione": "Si accede all'arteria nella retrocavità degli epiploon attraverso il legamento gastrocolico. Legarla prima riduce il rischio di sanguinamento dalla capsula tesa durante la mobilizzazione e fa rimpicciolire la milza.",
+    "fonte": { "testo": "Chassin's Operative Strategy in General Surgery", "riferimento": "cap. Splenectomy" },
+    "tag": ["vasi"], "verificata": false
+  },
+  {
+    "id": "milza-0015", "distretto": "milza", "argomento": "Lesione splenica iatrogena",
+    "interventi": ["emicolectomia sinistra / sigmoidectomia", "resezione anteriore del retto (TME)"], "tipo": "flash", "livello": 2,
+    "domanda": "Perché la mobilizzazione della flessura splenica può causare una lesione della milza, e come si previene?",
+    "corrette": "Per la trazione sul legamento splenocolico e sulle aderenze omentali, che strappano la capsula splenica. Si previene sezionando questi attacchi sotto visione invece di trazionare il colon in basso.",
+    "spiegazione": "Le lacerazioni capsulari da trazione sono la causa più comune di splenectomia 'accidentale' in chirurgia colica. Un approccio combinato (mediale, laterale e dalla retrocavità) riduce la trazione.",
+    "fonte": { "testo": "Sabiston Textbook of Surgery", "riferimento": "cap. The Spleen – iatrogenic injury" },
+    "tag": ["correlazione", "a-rischio"], "verificata": false
+  },
+  {
+    "id": "milza-0016", "distretto": "milza", "argomento": "Rapporti peritoneali",
+    "interventi": ["splenectomia VLS"], "tipo": "mcq", "livello": 1,
+    "domanda": "La milza è un organo:",
+    "opzioni": ["Intraperitoneale, collegato alle strutture vicine da legamenti", "Retroperitoneale primario", "Retroperitoneale secondario", "Extraperitoneale pelvico"],
+    "corrette": [0],
+    "spiegazione": "La milza è rivestita di peritoneo (tranne all'ilo) e fissata da legamenti peritoneali. È mobile, soprattutto se i legamenti sono lassi.",
+    "fonte": { "testo": "Gray's Anatomy", "riferimento": "sezione Addome – milza" },
+    "tag": ["anatomia"], "verificata": false
+  },
+  {
+    "id": "milza-0017", "distretto": "milza", "argomento": "Strutture a rischio nella splenectomia",
+    "interventi": ["splenectomia VLS", "splenectomia open"], "tipo": "multi", "livello": 2,
+    "domanda": "Quali strutture sono a rischio durante una splenectomia? Seleziona tutte le corrette.",
+    "opzioni": ["Coda del pancreas", "Grande curva gastrica", "Flessura splenica del colon", "Surrene destro", "Vena renale destra"],
+    "corrette": [0, 1, 2],
+    "spiegazione": "La coda del pancreas arriva all'ilo (rischio di fistola), il fondo è attaccato dai gastrici brevi (lesione termica) e la flessura splenica tramite il legamento splenocolico. Le strutture di destra sono lontane dal campo.",
+    "fonte": { "testo": "Sabiston Textbook of Surgery", "riferimento": "cap. The Spleen – splenectomy complications" },
+    "tag": ["a-rischio"], "verificata": false
+  },
+  {
+    "id": "milza-0018", "distretto": "milza", "argomento": "Milza migrante",
+    "interventi": ["splenopessi", "splenectomia VLS"], "tipo": "mcq", "livello": 3,
+    "domanda": "Variante (rara): cos'è la milza migrante ('wandering spleen') e quale complicanza può dare?",
+    "opzioni": ["Milza mobile per lassità o assenza dei legamenti, con rischio di torsione del peduncolo e infarto", "Milza situata a destra per situs inversus, senza complicanze", "Milza accessoria nello scroto", "Milza con doppio ilo"],
+    "corrette": [0],
+    "spiegazione": "La lassità congenita o acquisita dei legamenti lascia la milza su un lungo peduncolo vascolare, che può torcersi: dolore acuto, infarto splenico. Si tratta con splenopessi o splenectomia se la milza non è vitale.",
+    "fonte": { "testo": "Skandalakis' Surgical Anatomy", "riferimento": "cap. Spleen – anomalies" },
+    "tag": ["variante"], "verificata": false
+  },
+  {
+    "id": "milza-0019", "distretto": "milza", "argomento": "Origine dell'arteria splenica",
+    "interventi": ["splenectomia VLS"], "tipo": "mcq", "livello": 1,
+    "domanda": "Da dove nasce l'arteria splenica?",
+    "opzioni": ["Tronco celiaco", "Arteria mesenterica superiore", "Aorta, sotto le renali", "Arteria gastrica sinistra"],
+    "corrette": [0],
+    "spiegazione": "L'arteria splenica è il ramo più grande del tronco celiaco. Decorre tortuosa lungo il margine superiore del pancreas fino all'ilo.",
+    "fonte": { "testo": "Gray's Anatomy", "riferimento": "sezione Addome – tronco celiaco" },
+    "tag": ["vasi"], "verificata": false
+  },
+  {
+    "id": "milza-0020", "distretto": "milza", "argomento": "Decorso dell'arteria splenica",
+    "interventi": ["splenectomia VLS", "pancreasectomia distale"], "tipo": "ordina", "livello": 1,
+    "domanda": "Ordina le tappe del decorso dell'arteria splenica dall'origine alla milza.",
+    "opzioni": ["Tronco celiaco", "Margine superiore del pancreas (corpo)", "Legamento splenorenale", "Ilo splenico"],
+    "corrette": [0, 1, 2, 3],
+    "spiegazione": "Dopo l'origine dal tronco celiaco, l'arteria segue il margine superiore del pancreas, entra nel legamento splenorenale con la coda e si divide all'ilo in rami segmentari.",
+    "fonte": { "testo": "Gray's Anatomy", "riferimento": "sezione Addome – arteria splenica" },
+    "tag": ["vasi"], "verificata": false
+  },
+  {
+    "id": "milza-0021", "distretto": "milza", "argomento": "Splenosi",
+    "interventi": ["splenectomia open"], "tipo": "flash", "livello": 3,
+    "domanda": "Cos'è la splenosi?",
+    "corrette": "L'autotrapianto di frammenti di tessuto splenico sulle superfici peritoneali (o in sedi toraciche) dopo una rottura traumatica della milza o una splenectomia.",
+    "spiegazione": "I noduli possono simulare un tumore o un'endometriosi all'imaging e possono mantenere in parte la funzione splenica. Causano recidive nelle malattie ematologiche trattate con splenectomia.",
+    "fonte": { "testo": "Sabiston Textbook of Surgery", "riferimento": "cap. The Spleen" },
+    "tag": ["correlazione"], "verificata": false
+  },
+  {
+    "id": "milza-0022", "distretto": "milza", "argomento": "Arterie polari",
+    "interventi": ["splenectomia VLS"], "tipo": "mcq", "livello": 2,
+    "domanda": "Perché nella splenectomia bisogna cercare le arterie polari?",
+    "opzioni": ["Possono nascere lontano dall'ilo (dal tronco splenico, dalle gastriche brevi o dalla gastroepiploica sinistra) e sfuggire al controllo ilare", "Perché vascolarizzano la coda del pancreas", "Perché sono l'unica via di drenaggio venoso", "Non esistono arterie polari"],
+    "corrette": [0],
+    "spiegazione": "L'arteria polare superiore nasce spesso dal tronco splenico o insieme ai gastrici brevi. L'inferiore può nascere dalla gastroepiploica sinistra. Raggiungono i poli fuori dall'ilo e vanno legate a parte.",
+    "fonte": { "testo": "Skandalakis' Surgical Anatomy", "riferimento": "cap. Spleen – blood supply" },
+    "tag": ["vasi", "a-rischio"], "verificata": false
+  },
+  {
+    "id": "milza-0023", "distretto": "milza", "argomento": "Riconoscere i vasi splenici",
+    "interventi": ["splenectomia VLS"], "tipo": "immagine", "livello": 1,
+    "domanda": "Tronco celiaco e rami (vista anteriore). Quale arteria indica il punto evidenziato (2)?",
+    "opzioni": ["Arteria splenica", "Arteria epatica comune", "Arteria gastroepiploica sinistra", "Arteria renale sinistra"],
+    "corrette": [0],
+    "immagine": { "src": "img/tronco-celiaco.svg", "hotspot": [{ "x": 48, "y": 27.5 }, { "x": 67, "y": 40 }, { "x": 41.3, "y": 42.6 }, { "x": 30.5, "y": 62.5 }, { "x": 27.5, "y": 32.5 }, { "x": 37.5, "y": 25 }, { "x": 44.3, "y": 82.5 }, { "x": 78.8, "y": 65 }, { "x": 85, "y": 29.5 }, { "x": 50, "y": 95 }], "target": 1 },
+    "spiegazione": "L'arteria splenica (2) va dal tronco celiaco verso la milza con un decorso tortuoso e dà le gastriche brevi (9) e la gastroepiploica sinistra (8).",
+    "fonte": { "testo": "Schema originale AnatoQuiz", "riferimento": "basato su Gray's Anatomy, sezione Addome – tronco celiaco" },
+    "tag": ["immagine", "vasi"], "verificata": false
+  },
+  {
+    "id": "milza-0024", "distretto": "milza", "argomento": "Riconoscere i vasi splenici",
+    "interventi": ["splenectomia VLS", "fundoplicatio VLS (Nissen/Toupet)"], "tipo": "immagine", "livello": 2,
+    "domanda": "Nello schema, cosa indica il punto evidenziato (9), tra milza e fondo gastrico?",
+    "opzioni": ["Vasi gastrici brevi", "Arteria gastrica sinistra", "Arteria frenica inferiore", "Arteria polare inferiore"],
+    "corrette": [0],
+    "immagine": { "src": "img/tronco-celiaco.svg", "hotspot": [{ "x": 48, "y": 27.5 }, { "x": 67, "y": 40 }, { "x": 41.3, "y": 42.6 }, { "x": 30.5, "y": 62.5 }, { "x": 27.5, "y": 32.5 }, { "x": 37.5, "y": 25 }, { "x": 44.3, "y": 82.5 }, { "x": 78.8, "y": 65 }, { "x": 85, "y": 29.5 }, { "x": 50, "y": 95 }], "target": 8 },
+    "spiegazione": "I vasi gastrici brevi (9) vanno dalla parte distale della splenica al fondo gastrico, nel legamento gastrosplenico.",
+    "fonte": { "testo": "Schema originale AnatoQuiz", "riferimento": "basato su Gray's Anatomy, sezione Addome – vascolarizzazione dello stomaco" },
+    "tag": ["immagine", "vasi"], "verificata": false
+  },
+  {
+    "id": "milza-0025", "distretto": "milza", "argomento": "Riconoscere i vasi splenici",
+    "interventi": ["splenectomia VLS"], "tipo": "immagine", "livello": 3,
+    "domanda": "Nello schema, quale arteria indica il punto evidenziato (8), che dalla splenica scende lungo la grande curva?",
+    "opzioni": ["Arteria gastroepiploica sinistra", "Arteria gastroepiploica destra", "Arteria colica sinistra", "Arteria pancreatica dorsale"],
+    "corrette": [0],
+    "immagine": { "src": "img/tronco-celiaco.svg", "hotspot": [{ "x": 48, "y": 27.5 }, { "x": 67, "y": 40 }, { "x": 41.3, "y": 42.6 }, { "x": 30.5, "y": 62.5 }, { "x": 27.5, "y": 32.5 }, { "x": 37.5, "y": 25 }, { "x": 44.3, "y": 82.5 }, { "x": 78.8, "y": 65 }, { "x": 85, "y": 29.5 }, { "x": 50, "y": 95 }], "target": 7 },
+    "spiegazione": "La gastroepiploica sinistra (8) nasce dalla splenica vicino all'ilo e decorre lungo la grande curva fino ad anastomizzarsi con la destra (7). Può dare l'arteria polare inferiore della milza.",
+    "fonte": { "testo": "Schema originale AnatoQuiz", "riferimento": "basato su Gray's Anatomy, sezione Addome – vascolarizzazione dello stomaco" },
+    "tag": ["immagine", "vasi"], "verificata": false
+  }
+]

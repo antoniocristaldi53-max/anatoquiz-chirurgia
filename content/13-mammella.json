@@ -1,0 +1,266 @@
+[
+  {
+    "id": "mam-0001", "distretto": "mammella", "argomento": "Livelli di Berg",
+    "interventi": ["dissezione ascellare", "biopsia del linfonodo sentinella"], "tipo": "mcq", "livello": 1,
+    "domanda": "Rispetto a quale muscolo si definiscono i livelli linfonodali ascellari di Berg?",
+    "opzioni": ["Piccolo pettorale", "Gran pettorale", "Gran dorsale", "Dentato anteriore"],
+    "corrette": [0],
+    "spiegazione": "Livello I: lateralmente al margine laterale del piccolo pettorale. Livello II: dietro il piccolo pettorale (comprende i linfonodi interpettorali di Rotter). Livello III: medialmente al margine mediale del piccolo pettorale (infraclavicolari).",
+    "fonte": { "testo": "Sabiston Textbook of Surgery", "riferimento": "cap. Diseases of the Breast – axillary anatomy" },
+    "tag": ["ascella"], "verificata": false
+  },
+  {
+    "id": "mam-0002", "distretto": "mammella", "argomento": "Linfonodi di Rotter",
+    "interventi": ["dissezione ascellare", "mastectomia"], "tipo": "mcq", "livello": 1,
+    "domanda": "Dove si trovano i linfonodi interpettorali di Rotter?",
+    "opzioni": ["Tra gran pettorale e piccolo pettorale", "Lungo la vena ascellare, lateralmente", "Lungo l'arteria toracica interna", "Nella fossa sopraclaveare"],
+    "corrette": [0],
+    "spiegazione": "I linfonodi di Rotter si trovano tra i due muscoli pettorali, lungo i rami pettorali dei vasi toracoacromiali, e vengono attribuiti al livello II.",
+    "fonte": { "testo": "Sabiston Textbook of Surgery", "riferimento": "cap. Diseases of the Breast – axillary anatomy" },
+    "tag": ["ascella"], "verificata": false
+  },
+  {
+    "id": "mam-0003", "distretto": "mammella", "argomento": "Nervo toracico lungo",
+    "interventi": ["dissezione ascellare"], "tipo": "mcq", "livello": 1,
+    "domanda": "Durante la dissezione ascellare, quale deficit causa la lesione del nervo toracico lungo (di Bell)?",
+    "opzioni": ["Scapola alata, per paralisi del dentato anteriore", "Debolezza dell'adduzione e rotazione interna del braccio (gran dorsale)", "Ipoestesia della faccia mediale del braccio", "Atrofia del gran pettorale"],
+    "corrette": [0],
+    "spiegazione": "Il toracico lungo (C5–C7) scende sulla faccia esterna del dentato anteriore, sulla parete mediale dell'ascella, e lo innerva. La sua lesione fa sollevare il margine mediale della scapola (scapola alata), soprattutto spingendo contro un muro.",
+    "perla": "Il nervo resta aderente alla parete toracica: identificalo subito dopo aver aperto la fascia ascellare e lascialo sulla parete mentre sollevi il pacchetto linfonodale.",
+    "fonte": { "testo": "Gray's Anatomy", "riferimento": "sezione Arto superiore – ascella (plesso brachiale)" },
+    "tag": ["nervi", "a-rischio", "correlazione"], "verificata": false
+  },
+  {
+    "id": "mam-0004", "distretto": "mammella", "argomento": "Nervo toracodorsale",
+    "interventi": ["dissezione ascellare", "ricostruzione con lembo di gran dorsale"], "tipo": "mcq", "livello": 2,
+    "domanda": "Quale muscolo perde l'innervazione se si lede il nervo toracodorsale, e perché conta nella ricostruzione?",
+    "opzioni": ["Il gran dorsale: debolezza di adduzione, estensione e rotazione interna; il peduncolo toracodorsale è anche il peduncolo del lembo di gran dorsale", "Il dentato anteriore: scapola alata", "Il deltoide: deficit di abduzione", "Il trapezio: spalla cadente"],
+    "corrette": [0],
+    "spiegazione": "Il toracodorsale (C6–C8) decorre con l'arteria e la vena toracodorsali sul sottoscapolare, verso il gran dorsale. Preservare il fascio è importante per la funzione e per una futura ricostruzione con lembo di gran dorsale.",
+    "fonte": { "testo": "Gray's Anatomy", "riferimento": "sezione Arto superiore – ascella (plesso brachiale)" },
+    "tag": ["nervi", "a-rischio", "correlazione"], "verificata": false
+  },
+  {
+    "id": "mam-0005", "distretto": "mammella", "argomento": "Nervo intercostobrachiale",
+    "interventi": ["dissezione ascellare", "biopsia del linfonodo sentinella"], "tipo": "mcq", "livello": 2,
+    "domanda": "Quale disturbo segue tipicamente alla sezione del nervo intercostobrachiale?",
+    "opzioni": ["Ipoestesia o disestesia della faccia mediale-posteriore del braccio e dell'ascella", "Scapola alata", "Debolezza della mano", "Linfedema dell'arto"],
+    "corrette": [0],
+    "spiegazione": "L'intercostobrachiale (ramo cutaneo laterale di T2) attraversa trasversalmente l'ascella verso il braccio, in mezzo al tessuto linfonodale del livello I. È sensitivo: la sezione dà ipoestesia e talvolta dolore neuropatico.",
+    "perla": "Quando l'estensione della malattia lo permette, preservarlo riduce i disturbi sensitivi postoperatori.",
+    "fonte": { "testo": "Sabiston Textbook of Surgery", "riferimento": "cap. Diseases of the Breast – axillary dissection" },
+    "tag": ["nervi", "correlazione"], "verificata": false
+  },
+  {
+    "id": "mam-0006", "distretto": "mammella", "argomento": "Nervi pettorali",
+    "interventi": ["mastectomia", "dissezione ascellare"], "tipo": "mcq", "livello": 3,
+    "domanda": "Quale apparente paradosso riguarda i nervi pettorali?",
+    "opzioni": ["Il nervo pettorale mediale (dal fascicolo mediale) decorre più lateralmente e spesso attraversa il piccolo pettorale; il laterale decorre più medialmente", "Il pettorale laterale innerva il dentato anteriore", "I nervi pettorali nascono dal nervo frenico", "Non innervano il gran pettorale"],
+    "corrette": [0],
+    "spiegazione": "I nomi derivano dal fascicolo d'origine (mediale e laterale del plesso brachiale), non dalla posizione nel torace. Il pettorale mediale attraversa o aggira il piccolo pettorale e innerva la parte inferolaterale del gran pettorale: la sua lesione causa atrofia di questa parte.",
+    "fonte": { "testo": "Gray's Anatomy", "riferimento": "sezione Arto superiore – nervi pettorali" },
+    "tag": ["nervi"], "verificata": false
+  },
+  {
+    "id": "mam-0007", "distretto": "mammella", "argomento": "Limiti della dissezione ascellare",
+    "interventi": ["dissezione ascellare"], "tipo": "multi", "livello": 2,
+    "domanda": "Quali sono i limiti di una dissezione ascellare dei livelli I–II? Seleziona tutti i corretti.",
+    "opzioni": ["Superiore: vena ascellare", "Laterale: margine del gran dorsale", "Mediale: parete toracica (dentato anteriore) e piccolo pettorale", "Posteriore: muscolo sottoscapolare", "Superiore: clavicola"],
+    "corrette": [0, 1, 2, 3],
+    "spiegazione": "Si asporta il tessuto linfonodale sotto la vena ascellare, dal gran dorsale (laterale) alla parete toracica e al margine mediale del piccolo pettorale, sul piano del sottoscapolare. La clavicola non è un limite della dissezione dei livelli I–II.",
+    "fonte": { "testo": "Chassin's Operative Strategy in General Surgery", "riferimento": "cap. Axillary Lymph Node Dissection" },
+    "tag": ["ascella"], "verificata": false
+  },
+  {
+    "id": "mam-0008", "distretto": "mammella", "argomento": "Catena linfatica ascellare",
+    "interventi": ["dissezione ascellare"], "tipo": "ordina", "livello": 2,
+    "domanda": "Ordina le stazioni nel percorso più tipico del drenaggio linfatico dalla mammella.",
+    "opzioni": ["Livello I", "Livello II", "Livello III (infraclavicolari)", "Linfonodi sopraclaveari"],
+    "corrette": [0, 1, 2, 3],
+    "spiegazione": "Il drenaggio procede di solito in modo ordinato dal livello I al III e poi alla regione sopraclaveare. Le 'skip metastases' (livello II o III senza coinvolgimento del I) sono poco frequenti.",
+    "fonte": { "testo": "Sabiston Textbook of Surgery", "riferimento": "cap. Diseases of the Breast – lymphatic drainage" },
+    "tag": ["ascella"], "verificata": false
+  },
+  {
+    "id": "mam-0009", "distretto": "mammella", "argomento": "Vascolarizzazione della mammella",
+    "interventi": ["mastectomia", "mastectomia nipple-sparing"], "tipo": "mcq", "livello": 1,
+    "domanda": "Quale arteria fornisce la quota maggiore della vascolarizzazione della mammella?",
+    "opzioni": ["Arteria toracica interna (mammaria interna), con le perforanti", "Arteria toracica laterale", "Arterie intercostali posteriori", "Arteria toracodorsale"],
+    "corrette": [0],
+    "spiegazione": "Le perforanti della toracica interna (soprattutto II–IV spazio) irrorano la parte mediale e centrale, la toracica laterale la parte laterale; le intercostali contribuiscono in misura minore.",
+    "perla": "Nella mastectomia con conservazione della cute la perfusione del lembo dipende dal plesso sottodermico: lembi troppo sottili vanno incontro a necrosi.",
+    "fonte": { "testo": "Gray's Anatomy", "riferimento": "sezione Torace – mammella" },
+    "tag": ["vasi"], "verificata": false
+  },
+  {
+    "id": "mam-0010", "distretto": "mammella", "argomento": "Drenaggio linfatico",
+    "interventi": ["biopsia del linfonodo sentinella"], "tipo": "mcq", "livello": 1,
+    "domanda": "Dove drena la maggior parte della linfa della mammella?",
+    "opzioni": ["Ai linfonodi ascellari (circa tre quarti)", "Ai linfonodi della catena mammaria interna (circa tre quarti)", "Ai linfonodi sopraclaveari direttamente", "Ai linfonodi mediastinici posteriori"],
+    "corrette": [0],
+    "spiegazione": "Circa il 75% della linfa va all'ascella; il resto soprattutto alla catena mammaria interna, in particolare dai quadranti mediali.",
+    "fonte": { "testo": "Sabiston Textbook of Surgery", "riferimento": "cap. Diseases of the Breast – lymphatic drainage" },
+    "tag": ["linfonodi"], "verificata": false
+  },
+  {
+    "id": "mam-0011", "distretto": "mammella", "argomento": "Legamenti di Cooper",
+    "interventi": ["mastectomia"], "tipo": "mcq", "livello": 2,
+    "domanda": "Perché un carcinoma superficiale può retrarre la cute ('fossetta')?",
+    "opzioni": ["Perché infiltra e accorcia i legamenti sospensori di Cooper, che collegano il parenchima al derma", "Per l'ostruzione dei linfatici dermici", "Per l'infiltrazione del gran pettorale", "Per la trombosi della vena di Mondor"],
+    "corrette": [0],
+    "spiegazione": "I legamenti di Cooper sono setti fibrosi tra la fascia superficiale profonda e il derma. L'infiltrazione tumorale li accorcia e tira la cute. L'aspetto a 'buccia d'arancia' è invece dovuto all'ostruzione dei linfatici dermici.",
+    "fonte": { "testo": "Sabiston Textbook of Surgery", "riferimento": "cap. Diseases of the Breast – anatomy" },
+    "tag": ["anatomia"], "verificata": false
+  },
+  {
+    "id": "mam-0012", "distretto": "mammella", "argomento": "Piano dei lembi di mastectomia",
+    "interventi": ["mastectomia", "mastectomia nipple-sparing"], "tipo": "flash", "livello": 1,
+    "domanda": "In quale piano si allestiscono i lembi cutanei della mastectomia?",
+    "corrette": "Tra il grasso sottocutaneo e il parenchima mammario, lungo il foglietto superficiale della fascia superficiale, preservando il plesso vascolare sottodermico.",
+    "spiegazione": "Il piano corretto asporta tutto il tessuto ghiandolare senza devascolarizzare la cute. Lo spessore varia da paziente a paziente: non esiste un valore fisso valido per tutti.",
+    "fonte": { "testo": "Chassin's Operative Strategy in General Surgery", "riferimento": "cap. Mastectomy" },
+    "tag": ["mastectomia"], "verificata": false
+  },
+  {
+    "id": "mam-0013", "distretto": "mammella", "argomento": "Linfonodo sentinella",
+    "interventi": ["biopsia del linfonodo sentinella"], "tipo": "mcq", "livello": 2,
+    "domanda": "Perché l'iniezione periareolare o subareolare del tracciante identifica in modo affidabile il linfonodo sentinella ascellare?",
+    "opzioni": ["Perché il parenchima mammario e il plesso subareolare (di Sappey) drenano agli stessi linfonodi ascellari", "Perché l'areola drena solo alla catena mammaria interna", "Perché l'areola non ha linfatici", "Perché il tracciante raggiunge l'ascella per via ematica"],
+    "corrette": [0],
+    "spiegazione": "La mammella drena come un'unica unità, attraverso il plesso subareolare, verso gli stessi linfonodi sentinella. L'iniezione periareolare ha tassi di identificazione elevati, ma visualizza meno spesso i linfonodi della mammaria interna rispetto all'iniezione peritumorale profonda.",
+    "fonte": { "testo": "Sabiston Textbook of Surgery", "riferimento": "cap. Diseases of the Breast – sentinel lymph node biopsy" },
+    "tag": ["linfonodi"], "verificata": false
+  },
+  {
+    "id": "mam-0014", "distretto": "mammella", "argomento": "Vena ascellare e linfedema",
+    "interventi": ["dissezione ascellare"], "tipo": "mcq", "livello": 2,
+    "domanda": "Nella dissezione ascellare dei livelli I–II, perché si evita di dissecare il tessuto sopra e attorno alla vena ascellare?",
+    "opzioni": ["Perché aumenta il rischio di linfedema interrompendo i linfatici del braccio, senza beneficio oncologico per i livelli I–II", "Perché sopra la vena decorre il nervo toracico lungo", "Perché la vena ha pareti spesse e non si lede", "Perché lì si trova l'arteria toracica interna"],
+    "corrette": [0],
+    "spiegazione": "I linfatici che drenano l'arto superiore decorrono vicino alla vena ascellare. Scheletrizzare la vena o dissecare sopra di essa interrompe questi collettori e aumenta il linfedema.",
+    "fonte": { "testo": "Sabiston Textbook of Surgery", "riferimento": "cap. Diseases of the Breast – axillary dissection" },
+    "tag": ["ascella", "a-rischio", "correlazione"], "verificata": false
+  },
+  {
+    "id": "mam-0015", "distretto": "mammella", "argomento": "Tessuto mammario accessorio",
+    "interventi": ["mastectomia"], "tipo": "mcq", "livello": 3,
+    "domanda": "Variante: dove si trova più spesso il tessuto mammario accessorio e con quale frequenza?",
+    "opzioni": ["Lungo la linea lattea, soprattutto in ascella; circa 2–6% delle donne", "Solo in regione inguinale; meno dello 0,01%", "Nella parete toracica posteriore; circa 30%", "Nel collo; circa 15%"],
+    "corrette": [0],
+    "spiegazione": "Il tessuto accessorio (con o senza capezzolo) si sviluppa lungo la linea lattea, dall'ascella all'inguine, più spesso in ascella. Può andare incontro alle stesse patologie del seno, tumori compresi.",
+    "fonte": { "testo": "Skandalakis' Surgical Anatomy", "riferimento": "cap. Breast – congenital anomalies" },
+    "tag": ["variante"], "verificata": false
+  },
+  {
+    "id": "mam-0016", "distretto": "mammella", "argomento": "Decorso del nervo toracodorsale",
+    "interventi": ["dissezione ascellare"], "tipo": "mcq", "livello": 2,
+    "domanda": "Dove si trova il fascio toracodorsale durante la dissezione ascellare?",
+    "opzioni": ["Sulla parete posteriore dell'ascella, sul sottoscapolare, diretto in basso e lateralmente verso il gran dorsale", "Sulla parete mediale, sul dentato anteriore", "Davanti alla vena ascellare", "Tra gran pettorale e piccolo pettorale"],
+    "corrette": [0],
+    "spiegazione": "Il nervo toracodorsale, con arteria e vena omonime, scende sulla parete posteriore verso il margine anteriore del gran dorsale. Il toracico lungo invece è sulla parete mediale. Entrambi vanno identificati prima di asportare il tessuto del livello I.",
+    "fonte": { "testo": "Chassin's Operative Strategy in General Surgery", "riferimento": "cap. Axillary Lymph Node Dissection" },
+    "tag": ["nervi", "a-rischio"], "verificata": false
+  },
+  {
+    "id": "mam-0017", "distretto": "mammella", "argomento": "Decorso del nervo toracico lungo",
+    "interventi": ["dissezione ascellare"], "tipo": "mcq", "livello": 2,
+    "domanda": "Dove si trova il nervo toracico lungo nell'ascella?",
+    "opzioni": ["Sulla parete mediale (toracica), sulla superficie del dentato anteriore, sotto la sua fascia", "Sulla parete posteriore, con i vasi toracodorsali", "Sulla parete anteriore, sotto il gran pettorale", "Lungo il margine inferiore della vena ascellare"],
+    "corrette": [0],
+    "spiegazione": "Il nervo toracico lungo scende verticale sulla parete toracica laterale, sulla faccia esterna del dentato anteriore, posteriormente alla linea ascellare media. Se si solleva il tessuto ascellare senza attenzione, il nervo può essere trascinato con il pezzo.",
+    "fonte": { "testo": "Gray's Anatomy", "riferimento": "sezione Arto superiore – nervo toracico lungo" },
+    "tag": ["nervi", "a-rischio"], "verificata": false
+  },
+  {
+    "id": "mam-0018", "distretto": "mammella", "argomento": "Innervazione del complesso areola-capezzolo",
+    "interventi": ["mastectomia nipple-sparing", "mastoplastica"], "tipo": "mcq", "livello": 1,
+    "domanda": "Quale nervo fornisce la principale innervazione sensitiva del complesso areola-capezzolo?",
+    "opzioni": ["Ramo cutaneo laterale del IV nervo intercostale", "Nervo intercostobrachiale (T2)", "Nervo sopraclaveare", "Nervo toracico lungo"],
+    "corrette": [0],
+    "spiegazione": "La sensibilità del capezzolo dipende soprattutto dal ramo cutaneo laterale del IV intercostale, che arriva dal lato laterale. Nelle incisioni laterali e nelle mastoplastiche preservarlo aiuta a conservare la sensibilità.",
+    "fonte": { "testo": "Skandalakis' Surgical Anatomy", "riferimento": "cap. Breast – innervation" },
+    "tag": ["nervi"], "verificata": false
+  },
+  {
+    "id": "mam-0019", "distretto": "mammella", "argomento": "Solco sottomammario",
+    "interventi": ["mastectomia", "ricostruzione mammaria"], "tipo": "flash", "livello": 2,
+    "domanda": "Perché il solco sottomammario va preservato, quando possibile, nella mastectomia con ricostruzione?",
+    "corrette": "Perché è una struttura fasciale (aderenza della fascia superficiale alla parete) che definisce il contorno inferiore della mammella: ricrearlo dopo averlo distrutto è difficile e il risultato estetico peggiora.",
+    "spiegazione": "Durante la mastectomia il limite inferiore della dissezione segue il solco senza superarlo, se l'oncologia lo consente.",
+    "fonte": { "testo": "Sabiston Textbook of Surgery", "riferimento": "cap. Breast Reconstruction" },
+    "tag": ["mastectomia"], "verificata": false
+  },
+  {
+    "id": "mam-0020", "distretto": "mammella", "argomento": "Estensione della ghiandola",
+    "interventi": ["mastectomia"], "tipo": "mcq", "livello": 2,
+    "domanda": "Quali sono i limiti approssimativi della ghiandola mammaria adulta?",
+    "opzioni": ["Dalla II alla VI costa, dal margine sternale alla linea ascellare media, con il prolungamento ascellare (coda di Spence)", "Dalla I alla III costa, solo nel quadrante supero-esterno", "Dalla IV alla X costa", "Dalla clavicola all'ombelico"],
+    "corrette": [0],
+    "spiegazione": "La ghiandola si estende verticalmente dalla II alla VI costa e orizzontalmente dallo sterno alla linea ascellare media. La coda ascellare di Spence entra nell'ascella attraverso la fascia ascellare.",
+    "fonte": { "testo": "Gray's Anatomy", "riferimento": "sezione Torace – mammella" },
+    "tag": ["anatomia"], "verificata": false
+  },
+  {
+    "id": "mam-0021", "distretto": "mammella", "argomento": "Nervi da preservare in ascella",
+    "interventi": ["dissezione ascellare"], "tipo": "multi", "livello": 3,
+    "domanda": "Quali nervi si cerca di preservare durante una dissezione ascellare? Seleziona tutti i corretti.",
+    "opzioni": ["Toracico lungo", "Toracodorsale", "Pettorale mediale", "Intercostobrachiale (quando possibile)", "Nervo frenico"],
+    "corrette": [0, 1, 2, 3],
+    "spiegazione": "Toracico lungo, toracodorsale e pettorali vanno sempre preservati se non infiltrati. L'intercostobrachiale si preserva quando la malattia lo consente. Il frenico è nel collo e nel mediastino, fuori dal campo.",
+    "fonte": { "testo": "Chassin's Operative Strategy in General Surgery", "riferimento": "cap. Axillary Lymph Node Dissection" },
+    "tag": ["nervi", "a-rischio"], "verificata": false
+  },
+  {
+    "id": "mam-0022", "distretto": "mammella", "argomento": "Sindrome della rete ascellare",
+    "interventi": ["dissezione ascellare", "biopsia del linfonodo sentinella"], "tipo": "mcq", "livello": 3,
+    "domanda": "Dopo una chirurgia ascellare compare un cordone sottocutaneo teso dall'ascella al braccio, che limita l'abduzione. Di cosa si tratta?",
+    "opzioni": ["Sindrome della rete ascellare (axillary web syndrome), da coinvolgimento dei linfatici superficiali", "Lesione del nervo toracico lungo", "Trombosi della vena ascellare", "Recidiva linfonodale"],
+    "corrette": [0],
+    "spiegazione": "I cordoni corrispondono a linfatici (e talvolta vene) superficiali ispessiti dopo la chirurgia ascellare. Di solito si risolvono in settimane o mesi con la fisioterapia.",
+    "fonte": { "testo": "Sabiston Textbook of Surgery", "riferimento": "cap. Diseases of the Breast – complications of axillary surgery" },
+    "tag": ["correlazione"], "verificata": false
+  },
+  {
+    "id": "mam-0023", "distretto": "mammella", "argomento": "Strati della parete mammaria",
+    "interventi": ["mastectomia"], "tipo": "ordina", "livello": 1,
+    "domanda": "Ordina gli strati dalla cute alla parete toracica in corrispondenza della mammella.",
+    "opzioni": ["Cute", "Grasso sottocutaneo", "Parenchima mammario", "Fascia del gran pettorale", "Muscolo gran pettorale", "Muscolo piccolo pettorale"],
+    "corrette": [0, 1, 2, 3, 4, 5],
+    "spiegazione": "Nella mastectomia radicale modificata si asporta la ghiandola con la fascia del gran pettorale, preservando i muscoli. Tra ghiandola e fascia c'è lo spazio retromammario, piano della chirurgia protesica sottoghiandolare.",
+    "fonte": { "testo": "Gray's Anatomy", "riferimento": "sezione Torace – mammella" },
+    "tag": ["mastectomia"], "verificata": false
+  },
+  {
+    "id": "mam-0024", "distretto": "mammella", "argomento": "Riconoscere le strutture dell'ascella",
+    "interventi": ["dissezione ascellare"], "tipo": "immagine", "livello": 1,
+    "domanda": "Ascella destra in visione chirurgica (laterale a sinistra). Quale livello linfonodale indica il punto evidenziato (2), dietro il piccolo pettorale?",
+    "opzioni": ["Livello II", "Livello I", "Livello III", "Linfonodi di Rotter"],
+    "corrette": [0],
+    "immagine": { "src": "img/ascella.svg", "hotspot": [{ "x": 28.8, "y": 75 }, { "x": 53, "y": 50 }, { "x": 77.5, "y": 42.5 }, { "x": 75, "y": 18 }, { "x": 38, "y": 60 }, { "x": 19.3, "y": 57.5 }, { "x": 30, "y": 42 }, { "x": 7.5, "y": 75 }], "target": 1 },
+    "spiegazione": "Il livello II (2) si trova dietro il piccolo pettorale; il I (1) lateralmente, il III (3) medialmente, sotto la vena ascellare (4).",
+    "fonte": { "testo": "Schema originale AnatoQuiz", "riferimento": "basato su Sabiston, cap. Diseases of the Breast – axillary anatomy" },
+    "tag": ["immagine", "ascella"], "verificata": false
+  },
+  {
+    "id": "mam-0025", "distretto": "mammella", "argomento": "Riconoscere le strutture dell'ascella",
+    "interventi": ["dissezione ascellare"], "tipo": "immagine", "livello": 2,
+    "domanda": "Nello schema, quale nervo indica il punto evidenziato (5), sulla parete toracica mediale?",
+    "opzioni": ["Nervo toracico lungo", "Nervo toracodorsale", "Nervo intercostobrachiale", "Nervo pettorale mediale"],
+    "corrette": [0],
+    "immagine": { "src": "img/ascella.svg", "hotspot": [{ "x": 28.8, "y": 75 }, { "x": 53, "y": 50 }, { "x": 77.5, "y": 42.5 }, { "x": 75, "y": 18 }, { "x": 38, "y": 60 }, { "x": 19.3, "y": 57.5 }, { "x": 30, "y": 42 }, { "x": 7.5, "y": 75 }], "target": 4 },
+    "spiegazione": "Il toracico lungo (5) scende verticale sulla parete toracica. Il toracodorsale (6) decorre più lateralmente con i suoi vasi verso il gran dorsale (8).",
+    "fonte": { "testo": "Schema originale AnatoQuiz", "riferimento": "basato su Gray's Anatomy, sezione Arto superiore – ascella" },
+    "tag": ["immagine", "nervi", "a-rischio"], "verificata": false
+  },
+  {
+    "id": "mam-0026", "distretto": "mammella", "argomento": "Riconoscere le strutture dell'ascella",
+    "interventi": ["dissezione ascellare", "biopsia del linfonodo sentinella"], "tipo": "immagine", "livello": 3,
+    "domanda": "Nello schema, quale nervo indica il punto evidenziato (7), che attraversa l'ascella verso il braccio?",
+    "opzioni": ["Nervo intercostobrachiale", "Nervo toracico lungo", "Nervo muscolocutaneo", "Nervo toracodorsale"],
+    "corrette": [0],
+    "immagine": { "src": "img/ascella.svg", "hotspot": [{ "x": 28.8, "y": 75 }, { "x": 53, "y": 50 }, { "x": 77.5, "y": 42.5 }, { "x": 75, "y": 18 }, { "x": 38, "y": 60 }, { "x": 19.3, "y": 57.5 }, { "x": 30, "y": 42 }, { "x": 7.5, "y": 75 }], "target": 6 },
+    "spiegazione": "L'intercostobrachiale (7) esce dal II spazio intercostale e attraversa trasversalmente il livello I verso il braccio. È sensitivo.",
+    "fonte": { "testo": "Schema originale AnatoQuiz", "riferimento": "basato su Sabiston, cap. Diseases of the Breast – axillary dissection" },
+    "tag": ["immagine", "nervi"], "verificata": false
+  }
+]

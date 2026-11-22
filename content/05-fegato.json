@@ -1,0 +1,271 @@
+[
+  {
+    "id": "fegato-0001", "distretto": "fegato", "argomento": "Linea di Cantlie",
+    "interventi": ["epatectomia destra", "epatectomia sinistra"], "tipo": "mcq", "livello": 1,
+    "domanda": "La linea di Cantlie, che separa emifegato destro e sinistro, va da:",
+    "opzioni": ["Fossa della colecisti alla vena cava inferiore, nel piano della vena sovraepatica media", "Legamento falciforme alla vena cava, nel piano della sovraepatica sinistra", "Solco di Rouvière al legamento triangolare destro", "Ilo epatico al legamento venoso"],
+    "corrette": [0],
+    "spiegazione": "Il piano principale (linea di Cantlie) passa dal letto della colecisti alla cava inferiore e contiene la vena sovraepatica media. Il legamento falciforme non separa i due emifegati: separa il settore laterale sinistro (II–III) dal segmento IV.",
+    "perla": "Il clampaggio selettivo dell'afflusso a un emifegato fa comparire una linea di demarcazione ischemica, che conferma il piano di sezione.",
+    "fonte": { "testo": "Strasberg SM. HPB 2000", "riferimento": "The Brisbane 2000 terminology of liver anatomy and resections (IHPBA)" },
+    "tag": ["couinaud"], "verificata": false
+  },
+  {
+    "id": "fegato-0002", "distretto": "fegato", "argomento": "Segmenti dell'emifegato destro",
+    "interventi": ["epatectomia destra"], "tipo": "mcq", "livello": 1,
+    "domanda": "Quali segmenti di Couinaud formano l'emifegato destro?",
+    "opzioni": ["V, VI, VII, VIII", "IV, V, VI, VII", "II, III, IV", "I, V, VIII"],
+    "corrette": [0],
+    "spiegazione": "Emifegato destro: V–VIII (settore anteriore V+VIII, posteriore VI+VII). Emifegato sinistro: II–IV. Il segmento I (caudato) è autonomo e riceve rami da entrambi i lati.",
+    "fonte": { "testo": "Strasberg SM. HPB 2000", "riferimento": "The Brisbane 2000 terminology of liver anatomy and resections (IHPBA)" },
+    "tag": ["couinaud"], "verificata": false
+  },
+  {
+    "id": "fegato-0003", "distretto": "fegato", "argomento": "Sezionectomia laterale sinistra",
+    "interventi": ["epatectomia sinistra", "resezione epatica segmentaria"], "tipo": "multi", "livello": 2,
+    "domanda": "Quali segmenti si asportano in una sezionectomia laterale sinistra (terminologia di Brisbane)? Seleziona tutti i corretti.",
+    "opzioni": ["Segmento II", "Segmento III", "Segmento IV", "Segmento I"],
+    "corrette": [0, 1],
+    "spiegazione": "La sezione laterale sinistra comprende i segmenti II e III, a sinistra del legamento falciforme e della fessura ombelicale. L'epatectomia sinistra comprende II, III e IV.",
+    "fonte": { "testo": "Strasberg SM. HPB 2000", "riferimento": "The Brisbane 2000 terminology of liver anatomy and resections (IHPBA)" },
+    "tag": ["couinaud", "brisbane"], "verificata": false
+  },
+  {
+    "id": "fegato-0004", "distretto": "fegato", "argomento": "Lobo caudato",
+    "interventi": ["epatectomia destra", "resezione epatica segmentaria"], "tipo": "mcq", "livello": 2,
+    "domanda": "Perché il lobo caudato (segmento I) si ipertrofizza spesso nella sindrome di Budd-Chiari?",
+    "opzioni": ["Perché drena direttamente nella cava inferiore con vene proprie (vene epatiche brevi), non attraverso le tre sovraepatiche principali", "Perché riceve sangue solo dall'arteria epatica", "Perché non ha drenaggio biliare", "Perché drena nella vena porta"],
+    "corrette": [0],
+    "spiegazione": "Il caudato è vascolarizzato da rami portali e arteriosi destri e sinistri e drena con vene epatiche brevi direttamente nella cava retroepatica. Quando le sovraepatiche principali sono occluse, il caudato continua a drenare e si ipertrofizza.",
+    "perla": "Mobilizzando il caudato dalla cava si incontrano le vene epatiche brevi: vanno legate una a una, dal basso verso l'alto.",
+    "fonte": { "testo": "Skandalakis' Surgical Anatomy", "riferimento": "cap. Liver – caudate lobe" },
+    "tag": ["couinaud", "a-rischio"], "verificata": false
+  },
+  {
+    "id": "fegato-0005", "distretto": "fegato", "argomento": "Resezioni epatiche per estensione",
+    "interventi": ["epatectomia destra", "epatectomia sinistra", "resezione epatica segmentaria"], "tipo": "ordina", "livello": 2,
+    "domanda": "Ordina queste resezioni dalla meno estesa alla più estesa (terminologia di Brisbane).",
+    "opzioni": ["Segmentectomia (es. segmento VI)", "Sezionectomia laterale sinistra (II–III)", "Epatectomia sinistra (II–IV)", "Epatectomia destra (V–VIII)", "Trisezionectomia destra (IV–VIII)"],
+    "corrette": [0, 1, 2, 3, 4],
+    "spiegazione": "Brisbane 2000 definisce le resezioni in base alle unità anatomiche: segmento, sezione, emifegato, trisezione. La trisezionectomia destra (epatectomia destra estesa) comprende IV–VIII (± I).",
+    "fonte": { "testo": "Strasberg SM. HPB 2000", "riferimento": "The Brisbane 2000 terminology of liver anatomy and resections (IHPBA)" },
+    "tag": ["brisbane"], "verificata": false
+  },
+  {
+    "id": "fegato-0006", "distretto": "fegato", "argomento": "Trisezionectomia destra",
+    "interventi": ["epatectomia destra"], "tipo": "mcq", "livello": 2,
+    "domanda": "Quali segmenti asporta una trisezionectomia destra?",
+    "opzioni": ["IV, V, VI, VII, VIII (± I)", "V, VI, VII, VIII", "II, III, IV, V, VIII", "VI e VII"],
+    "corrette": [0],
+    "spiegazione": "La trisezionectomia destra (epatectomia destra estesa) aggiunge all'emifegato destro il segmento IV. La trisezionectomia sinistra comprende II, III, IV, V e VIII.",
+    "perla": "Dopo una trisezionectomia destra restano solo II–III (± I): valuta sempre il volume del fegato residuo, ed eventualmente l'embolizzazione portale, prima di proporla.",
+    "fonte": { "testo": "Strasberg SM. HPB 2000", "riferimento": "The Brisbane 2000 terminology of liver anatomy and resections (IHPBA)" },
+    "tag": ["brisbane"], "verificata": false
+  },
+  {
+    "id": "fegato-0007", "distretto": "fegato", "argomento": "Sanguinamento durante la manovra di Pringle",
+    "interventi": ["epatectomia destra", "epatectomia sinistra", "resezione epatica segmentaria"], "tipo": "mcq", "livello": 3,
+    "domanda": "Durante una manovra di Pringle ben eseguita la trancia di sezione continua a sanguinare. Quali sono le due cause anatomiche più probabili?",
+    "opzioni": ["Reflusso dalle vene sovraepatiche e/o un'arteria epatica sinistra dalla gastrica sinistra che non passa nel legamento epatoduodenale", "Sanguinamento dalla vena porta e dall'arteria cistica", "Lesione della cava sotto-renale", "Circolo collaterale dalla vena mesenterica inferiore"],
+    "corrette": [0],
+    "spiegazione": "Il Pringle blocca l'afflusso portale e arterioso che passa nel legamento epatoduodenale, ma non il deflusso: il reflusso dalle sovraepatiche continua, soprattutto con pressione venosa centrale alta. Un'epatica sinistra variante dalla gastrica sinistra decorre nel piccolo omento ed è fuori dal clamp.",
+    "perla": "Chiedi una pressione venosa centrale bassa durante la transezione. Se c'è un'epatica sinistra variante, il clamp va esteso alla pars flaccida.",
+    "fonte": { "testo": "Skandalakis' Surgical Anatomy", "riferimento": "cap. Liver – vascular control" },
+    "tag": ["correlazione", "a-rischio", "variante"], "verificata": false
+  },
+  {
+    "id": "fegato-0008", "distretto": "fegato", "argomento": "Approccio glissoniano",
+    "interventi": ["epatectomia destra", "resezione epatica segmentaria"], "tipo": "flash", "livello": 2,
+    "domanda": "Cos'è l'approccio glissoniano (secondo Takasaki) ai peduncoli epatici?",
+    "corrette": "Controllo extrafasciale dei peduncoli: ramo portale, arteria e dotto biliare sono avvolti insieme nella guaina glissoniana, che si può isolare e legare in blocco, senza dissezione intrafasciale dell'ilo.",
+    "spiegazione": "Abbassando la placca ilare si raggiungono i peduncoli di emifegato, sezione o segmento. Il clampaggio di prova del peduncolo mostra l'area di parenchima corrispondente.",
+    "perla": "Verifica sempre che il peduncolo clampato sia quello giusto prima di sezionarlo: guarda la demarcazione e, se serve, l'ecografia intraoperatoria.",
+    "fonte": { "testo": "Takasaki K. J Hepatobiliary Pancreat Surg 1998", "riferimento": "Glissonean pedicle transection method for hepatic resection" },
+    "tag": ["peduncolo"], "verificata": false
+  },
+  {
+    "id": "fegato-0009", "distretto": "fegato", "argomento": "Placca ilare",
+    "interventi": ["epaticodigiunostomia", "epatectomia sinistra"], "tipo": "mcq", "livello": 2,
+    "domanda": "Cosa si ottiene 'abbassando la placca ilare' alla base del segmento IV?",
+    "opzioni": ["Si espone il tratto extraepatico del dotto epatico sinistro e la confluenza biliare", "Si espone la vena sovraepatica sinistra", "Si raggiunge il legamento venoso di Arantius", "Si espone l'arteria gastroduodenale"],
+    "corrette": [0],
+    "spiegazione": "La placca ilare è la fusione della capsula di Glisson con il tessuto connettivo dell'ilo. Inciderla alla base del segmento IV e abbassarla espone il dotto epatico sinistro e la confluenza, senza entrare nel parenchima.",
+    "fonte": { "testo": "Skandalakis' Surgical Anatomy", "riferimento": "cap. Liver – hilar plate system" },
+    "tag": ["ilo"], "verificata": false
+  },
+  {
+    "id": "fegato-0010", "distretto": "fegato", "argomento": "Dotto epatico sinistro",
+    "interventi": ["epaticodigiunostomia"], "tipo": "mcq", "livello": 2,
+    "domanda": "Perché nelle ricostruzioni biliari alte (tecnica di Hepp-Couinaud) si usa il dotto epatico sinistro?",
+    "opzioni": ["Ha un tratto extraepatico lungo e orizzontale sotto il segmento IV, facile da aprire per un'anastomosi ampia", "È sempre più largo del destro", "Ha un'irrigazione arteriosa propria dall'arteria gastrica sinistra", "Non ha rapporti con il ramo portale sinistro"],
+    "corrette": [0],
+    "spiegazione": "Il dotto epatico destro è corto e si divide presto. Il sinistro decorre per alcuni centimetri alla base del segmento IV prima di entrare nel parenchima: abbassando la placca ilare si può aprire longitudinalmente per un'anastomosi bilio-digiunale ampia.",
+    "fonte": { "testo": "Skandalakis' Surgical Anatomy", "riferimento": "cap. Liver – hilar plate system" },
+    "tag": ["ilo", "correlazione"], "verificata": false
+  },
+  {
+    "id": "fegato-0011", "distretto": "fegato", "argomento": "Legamento falciforme e rotondo",
+    "interventi": ["epatectomia sinistra", "colecistectomia VLS"], "tipo": "mcq", "livello": 1,
+    "domanda": "Cosa contiene il margine libero del legamento falciforme?",
+    "opzioni": ["Il legamento rotondo, residuo della vena ombelicale", "Il legamento venoso, residuo del dotto venoso", "L'arteria epatica sinistra", "La vena sovraepatica sinistra"],
+    "corrette": [0],
+    "spiegazione": "Il legamento rotondo (vena ombelicale obliterata) decorre nel margine libero del falciforme e raggiunge la fessura ombelicale, dove si continua con il ramo sinistro della porta. Il legamento venoso (di Arantius) è il residuo del dotto venoso.",
+    "perla": "Nell'ipertensione portale la vena ombelicale può ricanalizzarsi: attenzione nel sezionare il rotondo nei pazienti cirrotici.",
+    "fonte": { "testo": "Gray's Anatomy", "riferimento": "sezione Addome – fegato (legamenti)" },
+    "tag": ["legamenti"], "verificata": false
+  },
+  {
+    "id": "fegato-0012", "distretto": "fegato", "argomento": "Legamento venoso (di Arantius)",
+    "interventi": ["epatectomia sinistra"], "tipo": "mcq", "livello": 2,
+    "domanda": "Perché il legamento venoso di Arantius è un repere nell'epatectomia sinistra?",
+    "opzioni": ["Sezionandolo vicino alla cava si accede alla faccia posteriore del tronco comune delle sovraepatiche media e sinistra", "Contiene l'arteria epatica sinistra", "Segna il confine tra segmento IV e V", "È il punto di ingresso del dotto cistico"],
+    "corrette": [0],
+    "spiegazione": "Il legamento venoso decorre nella fessura tra caudato e settore laterale sinistro e si inserisce vicino alla confluenza della sovraepatica sinistra (o del tronco comune) nella cava. Sezionarlo apre un piano per isolare la sovraepatica sinistra dall'esterno.",
+    "fonte": { "testo": "Skandalakis' Surgical Anatomy", "riferimento": "cap. Liver – hepatic veins" },
+    "tag": ["legamenti", "vene-sovraepatiche"], "verificata": false
+  },
+  {
+    "id": "fegato-0013", "distretto": "fegato", "argomento": "Anatomia arteriosa epatica classica",
+    "interventi": ["epatectomia destra", "duodenocefalopancreasectomia"], "tipo": "mcq", "livello": 3,
+    "domanda": "Variante: in che percentuale si trova l'anatomia arteriosa epatica 'classica' (Michels tipo I)?",
+    "opzioni": ["Circa 55–76%, secondo le serie", "Oltre il 95%", "Circa 25%", "Meno del 10%"],
+    "corrette": [0],
+    "spiegazione": "Michels (1966, 200 dissezioni) riporta l'anatomia classica nel 55% circa; Hiatt (1994, 1000 donatori) nel 75,7% circa. Quindi in almeno un quarto dei pazienti c'è una variante (sostitutiva o accessoria).",
+    "perla": "Prima di ogni resezione epatica o pancreatica maggiore studia l'anatomia arteriosa alla TC: una variante su quattro non è un'eccezione.",
+    "fonte": { "testo": "Michels NA. Am J Surg 1966; Hiatt JR et al. Ann Surg 1994", "riferimento": "Classificazione delle varianti dell'arteria epatica" },
+    "tag": ["variante"], "verificata": false
+  },
+  {
+    "id": "fegato-0014", "distretto": "fegato", "argomento": "Vene sovraepatiche",
+    "interventi": ["epatectomia destra", "epatectomia sinistra"], "tipo": "flash", "livello": 1,
+    "domanda": "Quali territori drenano le tre vene sovraepatiche principali?",
+    "corrette": "Destra: settore posteriore (VI–VII) e parte dell'anteriore. Media: segmento IV e settore anteriore destro (V–VIII). Sinistra: segmenti II–III (con parte del IV). Media e sinistra confluiscono spesso in un tronco comune prima della cava.",
+    "spiegazione": "Le sovraepatiche decorrono tra i settori (vene intersettoriali), mentre i peduncoli portali sono intrasettoriali. Nella maggior parte dei pazienti media e sinistra formano un tronco comune.",
+    "fonte": { "testo": "Skandalakis' Surgical Anatomy", "riferimento": "cap. Liver – hepatic veins" },
+    "tag": ["vene-sovraepatiche"], "verificata": false
+  },
+  {
+    "id": "fegato-0015", "distretto": "fegato", "argomento": "Sovraepatica media nell'epatectomia destra",
+    "interventi": ["epatectomia destra"], "tipo": "mcq", "livello": 2,
+    "domanda": "Nell'epatectomia destra classica, cosa si fa della vena sovraepatica media e perché?",
+    "opzioni": ["Si conserva con il fegato residuo, perché drena il segmento IV", "Si lega sempre all'origine, perché drena solo il settore anteriore destro", "Si lega sempre insieme alla sovraepatica destra", "Si anastomizza alla porta"],
+    "corrette": [0],
+    "spiegazione": "La linea di sezione dell'epatectomia destra passa lungo il lato destro della sovraepatica media, che resta con il fegato sinistro: drena il segmento IV. Si legano invece i suoi tributari dei segmenti V e VIII incontrati durante la transezione.",
+    "perla": "Seguire la sovraepatica media durante la transezione (guidati dall'ecografia) mantiene il piano corretto e riduce il sanguinamento.",
+    "fonte": { "testo": "Chassin's Operative Strategy in General Surgery", "riferimento": "cap. Hepatic Resection" },
+    "tag": ["vene-sovraepatiche", "a-rischio", "correlazione"], "verificata": false
+  },
+  {
+    "id": "fegato-0016", "distretto": "fegato", "argomento": "Legamento epatocavale",
+    "interventi": ["epatectomia destra"], "tipo": "mcq", "livello": 3,
+    "domanda": "Nella mobilizzazione del fegato destro, cosa espone la sezione del legamento epatocavale (legamento della cava)?",
+    "opzioni": ["La faccia laterale della sovraepatica destra alla sua confluenza nella cava", "La vena porta destra", "Il dotto epatico destro", "La ghiandola surrenale sinistra"],
+    "corrette": [0],
+    "spiegazione": "Il legamento epatocavale è una lamina fibrosa, a volte con parenchima, che unisce il lobo destro al caudato dietro la cava retroepatica. Sezionarlo (spesso con suturatrice vascolare, perché può contenere vasi) libera il margine inferiore della sovraepatica destra.",
+    "fonte": { "testo": "Skandalakis' Surgical Anatomy", "riferimento": "cap. Liver – hepatic veins" },
+    "tag": ["vene-sovraepatiche"], "verificata": false
+  },
+  {
+    "id": "fegato-0017", "distretto": "fegato", "argomento": "Pressione venosa centrale bassa",
+    "interventi": ["epatectomia destra", "epatectomia sinistra", "resezione epatica segmentaria"], "tipo": "mcq", "livello": 2,
+    "domanda": "Perché durante la transezione epatica si chiede all'anestesista una pressione venosa centrale bassa?",
+    "opzioni": ["Per ridurre il sanguinamento retrogrado dalle vene sovraepatiche, che non hanno valvole e sono in continuità con la cava", "Per aumentare il flusso portale", "Per ridurre il rischio di fistola biliare", "Per evitare l'ipertrofia del caudato"],
+    "corrette": [0],
+    "spiegazione": "Le vene epatiche non hanno valvole: la pressione nella cava si trasmette direttamente alla trancia. Una pressione venosa centrale bassa riduce il sanguinamento, ma aumenta il rischio di embolia gassosa se si apre una sovraepatica.",
+    "fonte": { "testo": "Sabiston Textbook of Surgery", "riferimento": "cap. The Liver – hepatic resection" },
+    "tag": ["correlazione"], "verificata": false
+  },
+  {
+    "id": "fegato-0018", "distretto": "fegato", "argomento": "Peduncoli glissoniani",
+    "interventi": ["epatectomia destra", "resezione epatica segmentaria"], "tipo": "multi", "livello": 1,
+    "domanda": "Quali strutture sono contenute insieme nella guaina glissoniana di un peduncolo segmentario? Seleziona tutte le corrette.",
+    "opzioni": ["Ramo della vena porta", "Ramo dell'arteria epatica", "Dotto biliare", "Vena sovraepatica"],
+    "corrette": [0, 1, 2],
+    "spiegazione": "La guaina glissoniana avvolge la triade portale (ramo portale, arterioso e biliare) dall'ilo fino alla periferia. Le sovraepatiche decorrono separate, tra i settori, senza guaina glissoniana.",
+    "fonte": { "testo": "Skandalakis' Surgical Anatomy", "riferimento": "cap. Liver – Glissonian sheath" },
+    "tag": ["peduncolo"], "verificata": false
+  },
+  {
+    "id": "fegato-0019", "distretto": "fegato", "argomento": "Doppia vascolarizzazione",
+    "interventi": ["epatectomia destra", "trapianto di fegato"], "tipo": "mcq", "livello": 1,
+    "domanda": "Quale quota approssimativa del flusso epatico arriva dalla vena porta?",
+    "opzioni": ["Circa il 70–75%", "Circa il 25%", "Circa il 50%", "Oltre il 95%"],
+    "corrette": [0],
+    "spiegazione": "La vena porta porta circa tre quarti del flusso epatico; l'arteria epatica il resto, ma fornisce circa la metà dell'ossigeno. I dotti biliari dipendono soprattutto dall'irrorazione arteriosa.",
+    "perla": "Una trombosi dell'arteria epatica dopo trapianto colpisce soprattutto le vie biliari (necrosi e stenosi), oltre al parenchima.",
+    "fonte": { "testo": "Sabiston Textbook of Surgery", "riferimento": "cap. The Liver – anatomy and physiology" },
+    "tag": ["vasi"], "verificata": false
+  },
+  {
+    "id": "fegato-0020", "distretto": "fegato", "argomento": "Elementi dell'ilo epatico",
+    "interventi": ["epatectomia destra", "epaticodigiunostomia"], "tipo": "ordina", "livello": 2,
+    "domanda": "Ordina gli elementi dell'ilo epatico dal più anteriore al più posteriore.",
+    "opzioni": ["Confluenza dei dotti biliari", "Arteria epatica", "Vena porta"],
+    "corrette": [0, 1, 2],
+    "spiegazione": "All'ilo la confluenza biliare è la struttura più anteriore e superiore, l'arteria è in posizione intermedia e la biforcazione portale è la più posteriore.",
+    "fonte": { "testo": "Skandalakis' Surgical Anatomy", "riferimento": "cap. Liver – porta hepatis" },
+    "tag": ["ilo"], "verificata": false
+  },
+  {
+    "id": "fegato-0021", "distretto": "fegato", "argomento": "Segmento IVb e colecisti",
+    "interventi": ["colecistectomia radicale"], "tipo": "flash", "livello": 3,
+    "domanda": "Perché nel carcinoma della colecisti si reseca spesso il segmento IVb insieme al V?",
+    "corrette": "Perché il letto della colecisti è sul confine tra IVb e V (piano della sovraepatica media): l'invasione diretta del parenchima interessa questi segmenti per primi.",
+    "spiegazione": "Il segmento IV è diviso dal piano portale in IVa (superiore) e IVb (inferiore). La resezione IVb+V con linfoadenectomia del legamento epatoduodenale è un'opzione standard per i tumori T2 o più.",
+    "fonte": { "testo": "Sabiston Textbook of Surgery", "riferimento": "cap. Biliary System – gallbladder cancer" },
+    "tag": ["couinaud", "correlazione"], "verificata": false
+  },
+  {
+    "id": "fegato-0022", "distretto": "fegato", "argomento": "Settori destri",
+    "interventi": ["epatectomia destra", "resezione epatica segmentaria"], "tipo": "mcq", "livello": 2,
+    "domanda": "Quale vena separa il settore anteriore destro (V–VIII) dal posteriore destro (VI–VII)?",
+    "opzioni": ["Vena sovraepatica destra", "Vena sovraepatica media", "Ramo portale destro", "Vena epatica inferiore destra"],
+    "corrette": [0],
+    "spiegazione": "La sovraepatica destra decorre nella fessura portale destra, tra settore anteriore e posteriore. La media separa emifegato destro e sinistro; la sinistra separa i segmenti II e III.",
+    "fonte": { "testo": "Strasberg SM. HPB 2000", "riferimento": "The Brisbane 2000 terminology of liver anatomy and resections (IHPBA)" },
+    "tag": ["couinaud", "vene-sovraepatiche"], "verificata": false
+  },
+  {
+    "id": "fegato-0023", "distretto": "fegato", "argomento": "Segmento I",
+    "interventi": ["resezione epatica segmentaria"], "tipo": "mcq", "livello": 1,
+    "domanda": "Quale segmento di Couinaud è il lobo caudato?",
+    "opzioni": ["Segmento I", "Segmento IV", "Segmento IX", "Segmento VII"],
+    "corrette": [0],
+    "spiegazione": "Il caudato è il segmento I. Si trova dietro, tra la cava inferiore e la fessura del legamento venoso. La numerazione prosegue in senso orario in vista frontale: II e III a sinistra, IV, poi V–VIII a destra.",
+    "fonte": { "testo": "Gray's Anatomy", "riferimento": "sezione Addome – segmentazione epatica" },
+    "tag": ["couinaud"], "verificata": false
+  },
+  {
+    "id": "fegato-0024", "distretto": "fegato", "argomento": "Riconoscere i segmenti",
+    "interventi": ["resezione epatica segmentaria"], "tipo": "immagine", "livello": 1,
+    "domanda": "Fegato in vista frontale (il destro del paziente è a sinistra; linee blu = sovraepatiche, tratteggio = piano portale). Quale segmento indica il punto evidenziato (8)?",
+    "opzioni": ["Segmento III", "Segmento II", "Segmento IVb", "Segmento V"],
+    "corrette": [0],
+    "immagine": { "src": "img/couinaud.svg", "hotspot": [{ "x": 22.5, "y": 30 }, { "x": 20, "y": 58.8 }, { "x": 48, "y": 32.5 }, { "x": 44.5, "y": 58.8 }, { "x": 61.8, "y": 31.3 }, { "x": 63, "y": 56.3 }, { "x": 82.5, "y": 23.8 }, { "x": 80, "y": 45 }], "target": 7 },
+    "spiegazione": "A sinistra del falciforme la sovraepatica sinistra separa il segmento II (in alto, 7) dal III (in basso, 8).",
+    "fonte": { "testo": "Schema originale AnatoQuiz", "riferimento": "basato sulla terminologia di Brisbane 2000 (Strasberg SM, HPB 2000)" },
+    "tag": ["immagine", "couinaud"], "verificata": false
+  },
+  {
+    "id": "fegato-0025", "distretto": "fegato", "argomento": "Riconoscere i segmenti",
+    "interventi": ["resezione epatica segmentaria", "colecistectomia radicale"], "tipo": "immagine", "livello": 2,
+    "domanda": "Nello schema, quale segmento indica il punto evidenziato (6), vicino al letto della colecisti a sinistra della sovraepatica media?",
+    "opzioni": ["Segmento IVb", "Segmento IVa", "Segmento V", "Segmento III"],
+    "corrette": [0],
+    "immagine": { "src": "img/couinaud.svg", "hotspot": [{ "x": 22.5, "y": 30 }, { "x": 20, "y": 58.8 }, { "x": 48, "y": 32.5 }, { "x": 44.5, "y": 58.8 }, { "x": 61.8, "y": 31.3 }, { "x": 63, "y": 56.3 }, { "x": 82.5, "y": 23.8 }, { "x": 80, "y": 45 }], "target": 5 },
+    "spiegazione": "Il segmento IV si trova tra sovraepatica media e falciforme. Il piano portale lo divide in IVa (superiore, 5) e IVb (inferiore, 6), che confina con il letto della colecisti.",
+    "fonte": { "testo": "Schema originale AnatoQuiz", "riferimento": "basato sulla terminologia di Brisbane 2000 (Strasberg SM, HPB 2000)" },
+    "tag": ["immagine", "couinaud"], "verificata": false
+  },
+  {
+    "id": "fegato-0026", "distretto": "fegato", "argomento": "Riconoscere i segmenti",
+    "interventi": ["epatectomia destra", "resezione epatica segmentaria"], "tipo": "immagine", "livello": 3,
+    "domanda": "Nello schema, quale segmento indica il punto evidenziato (1), in alto a destra del paziente, lateralmente alla sovraepatica destra?",
+    "opzioni": ["Segmento VII", "Segmento VIII", "Segmento VI", "Segmento I"],
+    "corrette": [0],
+    "immagine": { "src": "img/couinaud.svg", "hotspot": [{ "x": 22.5, "y": 30 }, { "x": 20, "y": 58.8 }, { "x": 48, "y": 32.5 }, { "x": 44.5, "y": 58.8 }, { "x": 61.8, "y": 31.3 }, { "x": 63, "y": 56.3 }, { "x": 82.5, "y": 23.8 }, { "x": 80, "y": 45 }], "target": 0 },
+    "spiegazione": "Lateralmente alla sovraepatica destra c'è il settore posteriore: VII sopra il piano portale (1), VI sotto (2). Medialmente c'è il settore anteriore: VIII sopra (3), V sotto (4). Nella realtà il VII è soprattutto posteriore e si vede poco in visione frontale.",
+    "fonte": { "testo": "Schema originale AnatoQuiz", "riferimento": "basato sulla terminologia di Brisbane 2000 (Strasberg SM, HPB 2000)" },
+    "tag": ["immagine", "couinaud"], "verificata": false
+  }
+]

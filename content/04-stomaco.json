@@ -1,0 +1,259 @@
+[
+  {
+    "id": "sto-0001", "distretto": "stomaco", "argomento": "Arteria gastrica sinistra",
+    "interventi": ["gastrectomia distale", "gastrectomia totale"], "tipo": "mcq", "livello": 1,
+    "domanda": "Da dove origina l'arteria gastrica sinistra?",
+    "opzioni": ["Tronco celiaco", "Arteria epatica comune", "Arteria splenica", "Arteria mesenterica superiore"],
+    "corrette": [0],
+    "spiegazione": "La gastrica sinistra è il ramo più piccolo del tronco celiaco. Sale verso il cardias, dà rami esofagei e scende lungo la piccola curva, dove si anastomizza con la gastrica destra.",
+    "perla": "La sezione della gastrica sinistra alla radice (stazione 7) è un passaggio chiave della linfoadenectomia D1+/D2.",
+    "fonte": { "testo": "Gray's Anatomy", "riferimento": "sezione Addome – tronco celiaco" },
+    "tag": ["vasi"], "verificata": false
+  },
+  {
+    "id": "sto-0002", "distretto": "stomaco", "argomento": "Rami del tronco celiaco",
+    "interventi": ["gastrectomia distale", "gastrectomia totale", "splenectomia VLS"], "tipo": "multi", "livello": 1,
+    "domanda": "Quali sono i tre rami del tronco celiaco nella configurazione classica? Seleziona tutti i corretti.",
+    "opzioni": ["Arteria gastrica sinistra", "Arteria epatica comune", "Arteria splenica", "Arteria gastroduodenale", "Arteria mesenterica superiore"],
+    "corrette": [0, 1, 2],
+    "spiegazione": "Il tronco celiaco nasce dall'aorta a livello di T12–L1 e si divide in gastrica sinistra, epatica comune e splenica. La gastroduodenale è un ramo dell'epatica comune; la mesenterica superiore nasce separatamente dall'aorta, più in basso.",
+    "fonte": { "testo": "Gray's Anatomy", "riferimento": "sezione Addome – tronco celiaco" },
+    "tag": ["vasi"], "verificata": false
+  },
+  {
+    "id": "sto-0003", "distretto": "stomaco", "argomento": "Origine della gastroepiploica destra",
+    "interventi": ["gastrectomia distale", "esofagectomia"], "tipo": "ordina", "livello": 2,
+    "domanda": "Ordina i vasi seguendo il percorso del sangue dall'aorta all'arteria gastroepiploica destra.",
+    "opzioni": ["Tronco celiaco", "Arteria epatica comune", "Arteria gastroduodenale", "Arteria gastroepiploica destra"],
+    "corrette": [0, 1, 2, 3],
+    "spiegazione": "La gastroepiploica destra nasce dalla gastroduodenale dietro il primo duodeno e decorre lungo la grande curva. Nella ricostruzione dopo esofagectomia è il peduncolo che nutre il tubulo gastrico e va preservata con cura.",
+    "perla": "Nella preparazione del tubulo gastrico per l'esofagectomia, seziona l'omento a distanza di sicurezza dall'arcata gastroepiploica destra, senza mai scheletrizzarla.",
+    "fonte": { "testo": "Gray's Anatomy", "riferimento": "sezione Addome – vascolarizzazione dello stomaco" },
+    "tag": ["vasi", "a-rischio"], "verificata": false
+  },
+  {
+    "id": "sto-0004", "distretto": "stomaco", "argomento": "Gastroepiploica sinistra e gastriche brevi",
+    "interventi": ["gastrectomia totale", "splenectomia VLS", "fundoplicatio VLS (Nissen/Toupet)"], "tipo": "mcq", "livello": 1,
+    "domanda": "Da quale arteria originano di solito la gastroepiploica sinistra e le gastriche brevi?",
+    "opzioni": ["Arteria splenica", "Arteria gastrica sinistra", "Arteria gastroduodenale", "Arteria epatica propria"],
+    "corrette": [0],
+    "spiegazione": "Le gastriche brevi e la gastroepiploica sinistra nascono dalla splenica, o dai suoi rami terminali vicino all'ilo, e raggiungono lo stomaco attraverso il legamento gastrosplenico.",
+    "fonte": { "testo": "Gray's Anatomy", "riferimento": "sezione Addome – vascolarizzazione dello stomaco" },
+    "tag": ["vasi"], "verificata": false
+  },
+  {
+    "id": "sto-0005", "distretto": "stomaco", "argomento": "Ulcera duodenale posteriore",
+    "interventi": ["emostasi chirurgica di ulcera duodenale"], "tipo": "mcq", "livello": 2,
+    "domanda": "Un'ulcera della parete posteriore del bulbo duodenale sanguina in modo massivo. Quale arteria è tipicamente erosa?",
+    "opzioni": ["Arteria gastroduodenale", "Arteria gastrica sinistra", "Arteria splenica", "Arteria pancreaticoduodenale inferiore"],
+    "corrette": [0],
+    "spiegazione": "La gastroduodenale scende dietro il primo duodeno. Le ulcere posteriori del bulbo la erodono e causano emorragie importanti; le anteriori tendono invece a perforare.",
+    "perla": "Nell'emostasi chirurgica si lega la gastroduodenale sopra e sotto l'ulcera e si controlla il ramo trasverso (pancreatico), con un punto a 'U'.",
+    "fonte": { "testo": "Sabiston Textbook of Surgery", "riferimento": "cap. Stomach – peptic ulcer disease" },
+    "tag": ["correlazione", "a-rischio"], "verificata": false
+  },
+  {
+    "id": "sto-0006", "distretto": "stomaco", "argomento": "Vena pilorica di Mayo",
+    "interventi": ["gastrectomia distale", "piloroplastica"], "tipo": "flash", "livello": 1,
+    "domanda": "Cos'è la vena pilorica di Mayo?",
+    "corrette": "Una piccola vena sulla faccia anteriore del piloro che lo incrocia verticalmente e ne segna la posizione in chirurgia.",
+    "spiegazione": "Drena nella gastrica destra. È utile per riconoscere il passaggio tra stomaco e duodeno, ad esempio per decidere dove sezionare il duodeno nella gastrectomia distale.",
+    "fonte": { "testo": "Skandalakis' Surgical Anatomy", "riferimento": "cap. Stomach" },
+    "tag": ["reperi"], "verificata": false
+  },
+  {
+    "id": "sto-0007", "distretto": "stomaco", "argomento": "Stazioni D1 nella gastrectomia distale (JGCA)",
+    "interventi": ["gastrectomia distale"], "tipo": "multi", "livello": 2,
+    "domanda": "Quali stazioni fanno parte della linfoadenectomia D1 nella gastrectomia distale secondo la JGCA? Seleziona tutte le corrette.",
+    "opzioni": ["Stazione 1 (paracardiale destra)", "Stazione 3 (piccola curva)", "Stazione 4d (lungo la gastroepiploica destra)", "Stazione 6 (sottopilorica)", "Stazione 8a (epatica comune anterosuperiore)", "Stazione 10 (ilo splenico)"],
+    "corrette": [0, 1, 2, 3],
+    "spiegazione": "D1 per la gastrectomia distale: stazioni 1, 3, 4sb, 4d, 5, 6, 7. La D2 aggiunge 8a, 9, 11p, 12a. La stazione 10 non fa parte della linfoadenectomia della gastrectomia distale.",
+    "fonte": { "testo": "Japanese Gastric Cancer Association. Gastric Cancer 2021", "riferimento": "Japanese gastric cancer treatment guidelines 2018 (5ª ed.) – linfoadenectomia" },
+    "tag": ["linfonodi", "jgca"], "verificata": false
+  },
+  {
+    "id": "sto-0008", "distretto": "stomaco", "argomento": "D2 nella gastrectomia distale (JGCA)",
+    "interventi": ["gastrectomia distale"], "tipo": "mcq", "livello": 3,
+    "domanda": "Quali stazioni aggiunge la D2 alla D1 nella gastrectomia distale secondo la JGCA?",
+    "opzioni": ["8a, 9, 11p, 12a", "8a, 9, 10, 11d", "12a, 13, 14v, 16", "2, 4sa, 10, 11d"],
+    "corrette": [0],
+    "spiegazione": "D2 distale = D1 (1, 3, 4sb, 4d, 5, 6, 7) + 8a (epatica comune anterosuperiore), 9 (tronco celiaco), 11p (splenica prossimale), 12a (legamento epatoduodenale, lungo l'epatica propria).",
+    "perla": "Dissecando la stazione 8a lungo il margine superiore del pancreas, attenzione alla vena gastrica sinistra (coronaria), che può sboccare nella splenica, nella porta o alla confluenza.",
+    "fonte": { "testo": "Japanese Gastric Cancer Association. Gastric Cancer 2021", "riferimento": "Japanese gastric cancer treatment guidelines 2018 (5ª ed.) – linfoadenectomia" },
+    "tag": ["linfonodi", "jgca"], "verificata": false
+  },
+  {
+    "id": "sto-0009", "distretto": "stomaco", "argomento": "Stazioni perigastriche JGCA",
+    "interventi": ["gastrectomia distale", "gastrectomia totale"], "tipo": "flash", "livello": 2,
+    "domanda": "Elenca le stazioni linfonodali perigastriche JGCA da 1 a 7.",
+    "corrette": "1 paracardiale destra; 2 paracardiale sinistra; 3 piccola curva; 4 grande curva (4sa gastriche brevi, 4sb gastroepiploica sinistra, 4d gastroepiploica destra); 5 sovrapilorica; 6 sottopilorica; 7 lungo la gastrica sinistra.",
+    "spiegazione": "Le stazioni 1–7 sono perigastriche. Dalla 8 in poi seguono i vasi principali: 8 epatica comune, 9 tronco celiaco, 10 ilo splenico, 11 splenica, 12 legamento epatoduodenale.",
+    "fonte": { "testo": "Japanese Gastric Cancer Association", "riferimento": "Japanese classification of gastric carcinoma (3ª ed. inglese)" },
+    "tag": ["linfonodi", "jgca"], "verificata": false
+  },
+  {
+    "id": "sto-0010", "distretto": "stomaco", "argomento": "Stazione 6",
+    "interventi": ["gastrectomia distale"], "tipo": "mcq", "livello": 2,
+    "domanda": "Dove si trova la stazione linfonodale 6 della JGCA?",
+    "opzioni": ["Sotto il piloro, lungo l'origine dei vasi gastroepiploici destri", "Lungo l'arteria gastrica sinistra", "All'ilo splenico", "Sopra il piloro, lungo l'arteria gastrica destra"],
+    "corrette": [0],
+    "spiegazione": "La stazione 6 (sottopilorica) comprende i linfonodi attorno all'origine dei vasi gastroepiploici destri. La 5 (sovrapilorica) segue la gastrica destra.",
+    "perla": "Dissecando la stazione 6 si lavora vicino al tronco gastrocolico di Henle: la trazione eccessiva può strappare la vena gastroepiploica destra o colica.",
+    "fonte": { "testo": "Japanese Gastric Cancer Association", "riferimento": "Japanese classification of gastric carcinoma (3ª ed. inglese)" },
+    "tag": ["linfonodi", "jgca", "a-rischio"], "verificata": false
+  },
+  {
+    "id": "sto-0011", "distretto": "stomaco", "argomento": "Legamenti gastrici",
+    "interventi": ["gastrectomia totale", "splenectomia VLS"], "tipo": "mcq", "livello": 1,
+    "domanda": "Quale legamento contiene i vasi gastrici brevi?",
+    "opzioni": ["Legamento gastrosplenico", "Legamento splenorenale", "Legamento epatogastrico", "Legamento gastrocolico"],
+    "corrette": [0],
+    "spiegazione": "Il gastrosplenico va dalla grande curva all'ilo splenico e contiene gastriche brevi e gastroepiploica sinistra. Lo splenorenale contiene i vasi splenici e la coda del pancreas. L'epatogastrico è il piccolo omento; il gastrocolico fa parte del grande omento.",
+    "fonte": { "testo": "Gray's Anatomy", "riferimento": "sezione Addome – peritoneo" },
+    "tag": ["legamenti"], "verificata": false
+  },
+  {
+    "id": "sto-0012", "distretto": "stomaco", "argomento": "Accesso alla retrocavità degli epiploon",
+    "interventi": ["gastrectomia distale", "pancreasectomia distale"], "tipo": "mcq", "livello": 2,
+    "domanda": "Qual è la via più usata per entrare nella retrocavità degli epiploon ed esporre corpo e coda del pancreas?",
+    "opzioni": ["Apertura del legamento gastrocolico, fuori dall'arcata gastroepiploica", "Incisione del legamento falciforme", "Apertura del mesocolon trasverso a destra dei vasi colici medi", "Attraverso il forame epiploico allargato"],
+    "corrette": [0],
+    "spiegazione": "Sezionando il legamento gastrocolico si entra nella retrocavità e si espone la faccia anteriore del pancreas. In oncologia gastrica si stacca invece l'omento dal colon (omentectomia) per entrare nello stesso spazio.",
+    "fonte": { "testo": "Skandalakis' Surgical Anatomy", "riferimento": "cap. Peritoneum, Omenta and Internal Hernias" },
+    "tag": ["legamenti"], "verificata": false
+  },
+  {
+    "id": "sto-0013", "distretto": "stomaco", "argomento": "Papilla maggiore",
+    "interventi": ["duodenocefalopancreasectomia"], "tipo": "mcq", "livello": 1,
+    "domanda": "In quale porzione del duodeno si trova la papilla maggiore (di Vater)?",
+    "opzioni": ["Seconda porzione (discendente), parete posteromediale", "Prima porzione (bulbo)", "Terza porzione (orizzontale)", "Quarta porzione (ascendente)"],
+    "corrette": [0],
+    "spiegazione": "La papilla maggiore sbocca sulla parete posteromediale della seconda porzione. La papilla minore, quando presente, si trova circa 2 cm sopra e anteriormente.",
+    "fonte": { "testo": "Gray's Anatomy", "riferimento": "sezione Addome – duodeno" },
+    "tag": ["duodeno"], "verificata": false
+  },
+  {
+    "id": "sto-0014", "distretto": "stomaco", "argomento": "Manovra di Kocher",
+    "interventi": ["duodenocefalopancreasectomia", "gastrectomia distale"], "tipo": "mcq", "livello": 1,
+    "domanda": "Cosa espone la manovra di Kocher completa?",
+    "opzioni": ["La vena cava inferiore e la faccia posteriore di duodeno e testa pancreatica", "L'arteria splenica", "La coda del pancreas e l'ilo splenico", "La vena mesenterica inferiore"],
+    "corrette": [0],
+    "spiegazione": "Incidendo il peritoneo lungo il margine laterale della seconda porzione e scollando duodeno e testa del pancreas verso sinistra, si espongono la cava inferiore, la vena renale sinistra e l'aorta.",
+    "perla": "La Kocher riduce la tensione sulla gastroduodenostomia (Billroth I) e permette di palpare la testa del pancreas e il coledoco distale.",
+    "fonte": { "testo": "Chassin's Operative Strategy in General Surgery", "riferimento": "cap. Pancreaticoduodenectomy / Kocher maneuver" },
+    "tag": ["duodeno", "manovre"], "verificata": false
+  },
+  {
+    "id": "sto-0015", "distretto": "stomaco", "argomento": "Sindrome dell'arteria mesenterica superiore",
+    "interventi": ["duodenodigiunostomia"], "tipo": "mcq", "livello": 3,
+    "domanda": "Nella sindrome dell'arteria mesenterica superiore (di Wilkie), quale tratto è compresso e da cosa?",
+    "opzioni": ["La terza porzione del duodeno, tra AMS e aorta per una riduzione dell'angolo aorto-mesenterico", "La seconda porzione, dalla testa del pancreas", "Il bulbo, dall'arteria gastroduodenale", "La vena renale sinistra, tra AMS e aorta"],
+    "corrette": [0],
+    "spiegazione": "La terza porzione incrocia la linea mediana tra AMS (davanti) e aorta (dietro). Un forte calo ponderale riduce il cuscinetto adiposo e l'angolo aorto-mesenterico, con ostruzione duodenale. La compressione della vena renale sinistra nello stesso spazio è la sindrome dello schiaccianoci (nutcracker).",
+    "fonte": { "testo": "Sabiston Textbook of Surgery", "riferimento": "cap. Stomach / duodenum – SMA syndrome" },
+    "tag": ["duodeno", "correlazione"], "verificata": false
+  },
+  {
+    "id": "sto-0016", "distretto": "stomaco", "argomento": "Porzioni del duodeno e peritoneo",
+    "interventi": ["duodenocefalopancreasectomia", "gastrectomia distale"], "tipo": "mcq", "livello": 2,
+    "domanda": "Quale tratto del duodeno è in gran parte intraperitoneale (mobile)?",
+    "opzioni": ["Il tratto prossimale della prima porzione (bulbo)", "La seconda porzione", "La terza porzione", "La quarta porzione per intero"],
+    "corrette": [0],
+    "spiegazione": "I primi 2–3 cm del bulbo sono intraperitoneali e mobili. Il resto del duodeno è secondariamente retroperitoneale, fino alla flessura duodenodigiunale, che torna intraperitoneale.",
+    "fonte": { "testo": "Gray's Anatomy", "riferimento": "sezione Addome – duodeno" },
+    "tag": ["duodeno"], "verificata": false
+  },
+  {
+    "id": "sto-0017", "distretto": "stomaco", "argomento": "Legamento di Treitz",
+    "interventi": ["resezione intestinale", "gastrectomia distale"], "tipo": "flash", "livello": 1,
+    "domanda": "Cos'è il legamento di Treitz e perché è un repere chirurgico?",
+    "corrette": "Il muscolo sospensore del duodeno: fissa la flessura duodenodigiunale. Identifica la prima ansa digiunale (per anastomosi e per misurare le anse), con la vena mesenterica inferiore subito a sinistra.",
+    "spiegazione": "Si trova sollevando il mesocolon trasverso e seguendo il digiuno fino alla flessura fissa. Vicino ci sono le fossette paraduodenali, sede di ernie interne.",
+    "fonte": { "testo": "Skandalakis' Surgical Anatomy", "riferimento": "cap. Small Intestine – duodenojejunal flexure" },
+    "tag": ["duodeno", "reperi"], "verificata": false
+  },
+  {
+    "id": "sto-0018", "distretto": "stomaco", "argomento": "Arteria epatica comune sostitutiva",
+    "interventi": ["gastrectomia distale", "duodenocefalopancreasectomia"], "tipo": "mcq", "livello": 3,
+    "domanda": "Variante: con quale frequenza l'arteria epatica comune nasce dall'arteria mesenterica superiore e perché conta?",
+    "opzioni": ["Circa 1–3%; manca sopra il pancreas (stazione 8a) e decorre dietro la porta o il pancreas, esposta nella DCP", "Circa 25%; decorre nel legamento gastrosplenico", "Circa 10%; nasce dalla gastrica sinistra", "Mai osservata"],
+    "corrette": [0],
+    "spiegazione": "Nelle serie di Michels e Hiatt l'epatica comune che nasce dall'AMS (Michels tipo IX) è rara, intorno a qualche percento. In questi casi lungo il margine superiore del pancreas non si trova l'epatica comune, e l'arteria sale dietro la testa del pancreas o la vena porta.",
+    "perla": "Una TC preoperatoria con fase arteriosa mostra la variante. Non dare per scontato di trovare l'epatica comune nella stazione 8a.",
+    "fonte": { "testo": "Michels NA. Am J Surg 1966; Hiatt JR et al. Ann Surg 1994", "riferimento": "Classificazione delle varianti dell'arteria epatica" },
+    "tag": ["variante", "a-rischio"], "verificata": false
+  },
+  {
+    "id": "sto-0019", "distretto": "stomaco", "argomento": "Strati della parete gastrica",
+    "interventi": ["gastrectomia distale"], "tipo": "ordina", "livello": 2,
+    "domanda": "Ordina gli strati della parete gastrica dall'interno all'esterno.",
+    "opzioni": ["Mucosa", "Sottomucosa", "Strato muscolare obliquo interno", "Strato muscolare circolare medio", "Strato muscolare longitudinale esterno", "Sierosa"],
+    "corrette": [0, 1, 2, 3, 4, 5],
+    "spiegazione": "Lo stomaco ha tre strati muscolari, con uno strato obliquo interno in più rispetto al resto del tubo digerente. La sottomucosa è lo strato più resistente per le suture; la sierosa permette suture sierosierose.",
+    "fonte": { "testo": "Gray's Anatomy", "riferimento": "sezione Addome – stomaco (struttura)" },
+    "tag": ["parete"], "verificata": false
+  },
+  {
+    "id": "sto-0020", "distretto": "stomaco", "argomento": "Nervi di Latarjet",
+    "interventi": ["vagotomia"], "tipo": "mcq", "livello": 2,
+    "domanda": "Cosa si preserva nella vagotomia superselettiva (prossimale gastrica)?",
+    "opzioni": ["I rami terminali dei nervi di Latarjet per antro e piloro ('zampa di corvo')", "I tronchi vagali principali, sezionando le branche celiache ed epatiche", "Solo il ramo epatico, sezionando tutto il resto", "Nessun ramo vagale"],
+    "corrette": [0],
+    "spiegazione": "I nervi di Latarjet anteriore e posteriore decorrono lungo la piccola curva. La vagotomia superselettiva seziona i rami per corpo e fondo (cellule parietali) e preserva la 'zampa di corvo' per antro e piloro: si mantiene lo svuotamento gastrico senza piloroplastica.",
+    "fonte": { "testo": "Skandalakis' Surgical Anatomy", "riferimento": "cap. Stomach – vagal innervation" },
+    "tag": ["vago"], "verificata": false
+  },
+  {
+    "id": "sto-0021", "distretto": "stomaco", "argomento": "Tronco gastrocolico di Henle",
+    "interventi": ["gastrectomia distale", "emicolectomia destra"], "tipo": "mcq", "livello": 2,
+    "domanda": "In quale vena drena di solito la vena gastroepiploica destra?",
+    "opzioni": ["Nel tronco gastrocolico di Henle, che sbocca nella vena mesenterica superiore", "Direttamente nella vena splenica", "Nella vena gastrica sinistra", "Nella vena renale destra"],
+    "corrette": [0],
+    "spiegazione": "La vena gastroepiploica destra si unisce di solito a una o più vene coliche (e talvolta alla pancreaticoduodenale superiore anteriore) nel tronco gastrocolico di Henle, che entra nella mesenterica superiore al margine inferiore del pancreas. La sua composizione è variabile.",
+    "perla": "Una trazione brusca sul colon trasverso o sull'antro può strappare il tronco alla confluenza con la VMS: il sanguinamento è difficile da controllare.",
+    "fonte": { "testo": "Skandalakis' Surgical Anatomy", "riferimento": "cap. Pancreas – venous drainage" },
+    "tag": ["vasi", "a-rischio", "correlazione"], "verificata": false
+  },
+  {
+    "id": "sto-0022", "distretto": "stomaco", "argomento": "Arteria gastrica posteriore",
+    "interventi": ["gastrectomia totale", "sleeve gastrectomy"], "tipo": "flash", "livello": 3,
+    "domanda": "Cos'è l'arteria gastrica posteriore e quando va considerata?",
+    "corrette": "Un ramo incostante dell'arteria splenica che sale dietro lo stomaco verso la parete posteriore di fondo e corpo, nella plica gastropancreatica.",
+    "spiegazione": "Quando c'è contribuisce alla vascolarizzazione del fondo. Va riconosciuta e controllata nella gastrectomia totale e nella mobilizzazione del fondo; nella linfoadenectomia segue la splenica (stazione 11).",
+    "fonte": { "testo": "Skandalakis' Surgical Anatomy", "riferimento": "cap. Stomach – blood supply" },
+    "tag": ["vasi", "variante"], "verificata": false
+  },
+  {
+    "id": "sto-0023", "distretto": "stomaco", "argomento": "Riconoscere i rami del tronco celiaco",
+    "interventi": ["gastrectomia distale", "emostasi chirurgica di ulcera duodenale"], "tipo": "immagine", "livello": 1,
+    "domanda": "Tronco celiaco e rami (vista anteriore). Quale arteria indica il punto evidenziato (4)?",
+    "opzioni": ["Arteria gastroduodenale", "Arteria epatica propria", "Arteria gastrica destra", "Arteria mesenterica superiore"],
+    "corrette": [0],
+    "immagine": { "src": "img/tronco-celiaco.svg", "hotspot": [{ "x": 48, "y": 27.5 }, { "x": 67, "y": 40 }, { "x": 41.3, "y": 42.6 }, { "x": 30.5, "y": 62.5 }, { "x": 27.5, "y": 32.5 }, { "x": 37.5, "y": 25 }, { "x": 44.3, "y": 82.5 }, { "x": 78.8, "y": 65 }, { "x": 85, "y": 29.5 }, { "x": 50, "y": 95 }], "target": 3 },
+    "spiegazione": "L'epatica comune (3) si divide in epatica propria (5), che sale, e gastroduodenale (4), che scende dietro il duodeno e dà la gastroepiploica destra (7).",
+    "fonte": { "testo": "Schema originale AnatoQuiz", "riferimento": "basato su Gray's Anatomy, sezione Addome – tronco celiaco" },
+    "tag": ["immagine", "vasi"], "verificata": false
+  },
+  {
+    "id": "sto-0024", "distretto": "stomaco", "argomento": "Riconoscere i rami del tronco celiaco",
+    "interventi": ["gastrectomia distale", "gastrectomia totale"], "tipo": "immagine", "livello": 1,
+    "domanda": "Nello schema, quale arteria indica il punto evidenziato (1)?",
+    "opzioni": ["Arteria gastrica sinistra", "Arteria gastrica destra", "Arteria frenica inferiore", "Arteria splenica"],
+    "corrette": [0],
+    "immagine": { "src": "img/tronco-celiaco.svg", "hotspot": [{ "x": 48, "y": 27.5 }, { "x": 67, "y": 40 }, { "x": 41.3, "y": 42.6 }, { "x": 30.5, "y": 62.5 }, { "x": 27.5, "y": 32.5 }, { "x": 37.5, "y": 25 }, { "x": 44.3, "y": 82.5 }, { "x": 78.8, "y": 65 }, { "x": 85, "y": 29.5 }, { "x": 50, "y": 95 }], "target": 0 },
+    "spiegazione": "La gastrica sinistra (1) sale dal tronco celiaco verso il cardias e la piccola curva. La sua radice corrisponde alla stazione 7.",
+    "fonte": { "testo": "Schema originale AnatoQuiz", "riferimento": "basato su Gray's Anatomy, sezione Addome – tronco celiaco" },
+    "tag": ["immagine", "vasi"], "verificata": false
+  },
+  {
+    "id": "sto-0025", "distretto": "stomaco", "argomento": "Riconoscere i rami del tronco celiaco",
+    "interventi": ["gastrectomia distale", "esofagectomia"], "tipo": "immagine", "livello": 2,
+    "domanda": "Nello schema, quale arteria indica il punto evidenziato (7), lungo la grande curva?",
+    "opzioni": ["Arteria gastroepiploica destra", "Arteria gastroepiploica sinistra", "Arteria colica media", "Arteria gastrica destra"],
+    "corrette": [0],
+    "immagine": { "src": "img/tronco-celiaco.svg", "hotspot": [{ "x": 48, "y": 27.5 }, { "x": 67, "y": 40 }, { "x": 41.3, "y": 42.6 }, { "x": 30.5, "y": 62.5 }, { "x": 27.5, "y": 32.5 }, { "x": 37.5, "y": 25 }, { "x": 44.3, "y": 82.5 }, { "x": 78.8, "y": 65 }, { "x": 85, "y": 29.5 }, { "x": 50, "y": 95 }], "target": 6 },
+    "spiegazione": "La gastroepiploica destra (7) nasce dalla gastroduodenale (4) e percorre la grande curva verso sinistra, dove si anastomizza con la gastroepiploica sinistra (8), ramo della splenica.",
+    "fonte": { "testo": "Schema originale AnatoQuiz", "riferimento": "basato su Gray's Anatomy, sezione Addome – vascolarizzazione dello stomaco" },
+    "tag": ["immagine", "vasi"], "verificata": false
+  }
+]

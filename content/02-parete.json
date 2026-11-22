@@ -1,0 +1,261 @@
+[
+  {
+    "id": "parete-0001", "distretto": "parete", "argomento": "Strati della parete in regione inguinale",
+    "interventi": ["ernioplastica inguinale Lichtenstein"], "tipo": "ordina", "livello": 1,
+    "domanda": "Ordina gli strati della parete addominale in regione inguinale dall'esterno all'interno.",
+    "opzioni": ["Cute", "Fascia di Camper (adiposa)", "Fascia di Scarpa (membranosa)", "Aponeurosi del muscolo obliquo esterno", "Muscolo obliquo interno", "Muscolo trasverso dell'addome", "Fascia trasversale", "Grasso preperitoneale", "Peritoneo"],
+    "corrette": [0, 1, 2, 3, 4, 5, 6, 7, 8],
+    "spiegazione": "Sotto la cute c'è il sottocutaneo con lo strato adiposo superficiale (Camper) e quello membranoso (Scarpa). Poi i tre piani muscolo-aponeurotici: in regione inguinale l'obliquo esterno è solo aponeurosi. Seguono la fascia trasversale, il grasso preperitoneale (spazio di Bogros e di Retzius) e il peritoneo.",
+    "perla": "Nel Lichtenstein la rete sta sotto l'aponeurosi dell'obliquo esterno, sopra il pavimento; nella TEP/TAPP sta nello spazio preperitoneale, dietro la fascia trasversale.",
+    "fonte": { "testo": "Skandalakis' Surgical Anatomy", "riferimento": "cap. Abdominal Wall and Hernias" },
+    "tag": ["strati"], "verificata": false
+  },
+  {
+    "id": "parete-0002", "distretto": "parete", "argomento": "Triangolo di Hesselbach",
+    "interventi": ["ernioplastica inguinale Lichtenstein", "TAPP", "TEP"], "tipo": "mcq", "livello": 1,
+    "domanda": "Quali sono i limiti del triangolo di Hesselbach (definizione moderna)?",
+    "opzioni": ["Vasi epigastrici inferiori (laterale), margine laterale del retto (mediale), legamento inguinale (inferiore)", "Dotto deferente, vasi gonadici, peritoneo", "Vasi epigastrici inferiori (mediale), spina iliaca anterosuperiore (laterale), legamento inguinale", "Legamento di Cooper, vena femorale, legamento lacunare"],
+    "corrette": [0],
+    "spiegazione": "Il triangolo di Hesselbach è delimitato lateralmente dai vasi epigastrici inferiori, medialmente dal margine laterale della guaina del retto e in basso dal legamento inguinale. Le ernie dirette protrudono attraverso questo triangolo, cioè attraverso la parete posteriore del canale.",
+    "fonte": { "testo": "Skandalakis' Surgical Anatomy", "riferimento": "cap. Abdominal Wall and Hernias" },
+    "tag": ["inguine"], "verificata": false
+  },
+  {
+    "id": "parete-0003", "distretto": "parete", "argomento": "Ernia diretta e indiretta",
+    "interventi": ["ernioplastica inguinale Lichtenstein", "TAPP", "TEP"], "tipo": "mcq", "livello": 1,
+    "domanda": "Rispetto ai vasi epigastrici inferiori, dove si trova il colletto di un'ernia inguinale indiretta?",
+    "opzioni": ["Lateralmente: attraversa l'anello inguinale profondo", "Medialmente: attraversa il triangolo di Hesselbach", "Sotto il legamento inguinale, medialmente alla vena femorale", "Attraverso la fascia di Spigelio"],
+    "corrette": [0],
+    "spiegazione": "L'ernia indiretta entra nell'anello inguinale profondo, lateralmente ai vasi epigastrici inferiori, e segue il funicolo. La diretta protrude medialmente ai vasi, nella parete posteriore. La femorale passa sotto il legamento inguinale (tratto ileopubico), medialmente alla vena femorale.",
+    "perla": "In TAPP, guarda prima i vasi epigastrici: il difetto laterale è indiretto, quello mediale è diretto.",
+    "fonte": { "testo": "HerniaSurge Group. Hernia 2018", "riferimento": "International guidelines for groin hernia management – classificazione" },
+    "tag": ["inguine"], "verificata": false
+  },
+  {
+    "id": "parete-0004", "distretto": "parete", "argomento": "Contenuto del canale inguinale",
+    "interventi": ["ernioplastica inguinale Lichtenstein"], "tipo": "flash", "livello": 1,
+    "domanda": "Cosa contiene il canale inguinale nell'uomo?",
+    "corrette": "Il funicolo spermatico (dotto deferente con la sua arteria, arteria testicolare, plesso pampiniforme, arteria e vena cremasterica, ramo genitale del nervo genitofemorale, linfatici, residuo del processo vaginale) e il nervo ileoinguinale, che decorre sul funicolo ma fuori dalle sue fasce.",
+    "spiegazione": "Le tuniche del funicolo derivano dagli strati della parete: fascia spermatica esterna (obliquo esterno), cremastere (obliquo interno), fascia spermatica interna (fascia trasversale). Nella donna il canale contiene il legamento rotondo.",
+    "fonte": { "testo": "Gray's Anatomy", "riferimento": "sezione Addome – canale inguinale" },
+    "tag": ["inguine"], "verificata": false
+  },
+  {
+    "id": "parete-0005", "distretto": "parete", "argomento": "Pareti del canale inguinale",
+    "interventi": ["ernioplastica inguinale Lichtenstein"], "tipo": "multi", "livello": 2,
+    "domanda": "Quali descrizioni delle pareti del canale inguinale sono corrette? Seleziona tutte le corrette.",
+    "opzioni": ["Parete anteriore: aponeurosi dell'obliquo esterno (con l'obliquo interno lateralmente)", "Parete posteriore: fascia trasversale (rinforzata medialmente dal tendine congiunto)", "Pavimento: legamento inguinale (e lacunare medialmente)", "Tetto: fibre arcuate dell'obliquo interno e del trasverso", "Pavimento: legamento pettineo (di Cooper)"],
+    "corrette": [0, 1, 2, 3],
+    "spiegazione": "Il canale ha come parete anteriore l'aponeurosi dell'obliquo esterno, come posteriore la fascia trasversale, come pavimento il legamento inguinale e come tetto le fibre arcuate dell'obliquo interno e del trasverso. Il legamento di Cooper è più profondo e posteriore: si usa nella riparazione di McVay e come repere nella TEP/TAPP.",
+    "fonte": { "testo": "Skandalakis' Surgical Anatomy", "riferimento": "cap. Abdominal Wall and Hernias" },
+    "tag": ["inguine"], "verificata": false
+  },
+  {
+    "id": "parete-0006", "distretto": "parete", "argomento": "Nervi nel Lichtenstein",
+    "interventi": ["ernioplastica inguinale Lichtenstein"], "tipo": "mcq", "livello": 2,
+    "domanda": "Durante il Lichtenstein, quale nervo decorre sulla faccia anteriore del funicolo, sotto l'aponeurosi dell'obliquo esterno?",
+    "opzioni": ["Nervo ileoinguinale", "Nervo ileoipogastrico", "Ramo genitale del genitofemorale", "Nervo femorocutaneo laterale"],
+    "corrette": [0],
+    "spiegazione": "L'ileoinguinale decorre sul funicolo ed esce dall'anello superficiale. L'ileoipogastrico decorre più in alto, tra obliquo interno e aponeurosi dell'obliquo esterno. Il ramo genitale del genitofemorale sta dentro il funicolo, vicino alla vena spermatica esterna ('linea blu'). Il femorocutaneo laterale non attraversa il canale.",
+    "perla": "Quando apri l'aponeurosi dell'obliquo esterno, sollevala dal funicolo prima di tagliare: l'ileoinguinale è subito sotto.",
+    "fonte": { "testo": "HerniaSurge Group. Hernia 2018", "riferimento": "International guidelines for groin hernia management – nervi inguinali" },
+    "tag": ["nervi", "a-rischio", "correlazione"], "verificata": false
+  },
+  {
+    "id": "parete-0007", "distretto": "parete", "argomento": "Prevenzione del dolore cronico",
+    "interventi": ["ernioplastica inguinale Lichtenstein"], "tipo": "multi", "livello": 2,
+    "domanda": "Nel Lichtenstein, quali accorgimenti sui nervi e sul fissaggio della rete riducono il rischio di dolore cronico? Seleziona tutti i corretti.",
+    "opzioni": ["Identificare i tre nervi inguinali (ileoinguinale, ileoipogastrico, ramo genitale)", "Evitare che i punti o la rete intrappolino o comprimano un nervo", "Fissare la rete con punti nel periostio del tubercolo pubico", "Eseguire di routine la neurectomia profilattica di tutti e tre i nervi"],
+    "corrette": [0, 1],
+    "spiegazione": "Le linee guida HerniaSurge raccomandano di identificare i tre nervi nel Lichtenstein ed evitarne l'intrappolamento. La neurectomia profilattica di routine non è raccomandata. Il punto mediale della rete va sul tessuto aponeurotico sopra il tubercolo pubico, non nel periostio, che è una causa nota di dolore.",
+    "perla": "Se un nervo è lesionato o comunque a contatto inevitabile con la rete, la resezione mirata ('pragmatica') è preferibile al lasciarlo intrappolato.",
+    "fonte": { "testo": "HerniaSurge Group. Hernia 2018", "riferimento": "International guidelines for groin hernia management – dolore cronico" },
+    "tag": ["nervi", "a-rischio"], "verificata": false
+  },
+  {
+    "id": "parete-0008", "distretto": "parete", "argomento": "Linea arcuata",
+    "interventi": ["riparazione di laparocele (Rives-Stoppa/TAR)"], "tipo": "mcq", "livello": 1,
+    "domanda": "Cosa cambia sotto la linea arcuata (di Douglas)?",
+    "opzioni": ["Manca la lamina posteriore della guaina del retto: il retto poggia sulla fascia trasversale", "Manca la lamina anteriore della guaina", "Il muscolo retto termina", "Il muscolo trasverso diventa completamente muscolare fino al pube"],
+    "corrette": [0],
+    "spiegazione": "Sopra la linea arcuata la lamina posteriore è formata dall'aponeurosi del trasverso e dal foglietto posteriore dell'obliquo interno. Sotto la linea, tutte le aponeurosi passano davanti al retto: dietro rimangono solo fascia trasversale, grasso preperitoneale e peritoneo.",
+    "perla": "Nella dissezione retromuscolare sotto la linea arcuata non c'è più guaina posteriore: si continua nello spazio preperitoneale fino a Retzius.",
+    "fonte": { "testo": "Gray's Anatomy", "riferimento": "sezione Addome – guaina del retto" },
+    "tag": ["laparocele"], "verificata": false
+  },
+  {
+    "id": "parete-0009", "distretto": "parete", "argomento": "Guaina del retto",
+    "interventi": ["riparazione di laparocele (Rives-Stoppa/TAR)"], "tipo": "flash", "livello": 2,
+    "domanda": "Com'è composta la guaina del retto sopra la linea arcuata?",
+    "corrette": "Lamina anteriore: aponeurosi dell'obliquo esterno + foglietto anteriore dell'aponeurosi dell'obliquo interno. Lamina posteriore: foglietto posteriore dell'obliquo interno + aponeurosi del trasverso.",
+    "spiegazione": "L'aponeurosi dell'obliquo interno si sdoppia al margine laterale del retto (linea semilunare). Sotto la linea arcuata tutte e tre le aponeurosi passano davanti al muscolo.",
+    "fonte": { "testo": "Gray's Anatomy", "riferimento": "sezione Addome – guaina del retto" },
+    "tag": ["laparocele"], "verificata": false
+  },
+  {
+    "id": "parete-0010", "distretto": "parete", "argomento": "Canale femorale",
+    "interventi": ["riparazione di ernia femorale"], "tipo": "mcq", "livello": 2,
+    "domanda": "Qual è il limite laterale del canale femorale?",
+    "opzioni": ["Vena femorale", "Legamento lacunare (di Gimbernat)", "Legamento pettineo (di Cooper)", "Arteria femorale"],
+    "corrette": [0],
+    "spiegazione": "Limiti dell'anello femorale: anteriore, legamento inguinale (tratto ileopubico); posteriore, legamento pettineo (di Cooper); mediale, legamento lacunare; laterale, vena femorale. L'ernia femorale scende medialmente alla vena, sotto il legamento inguinale.",
+    "perla": "L'anello femorale è stretto e rigido: le ernie femorali si strozzano spesso. Nell'urgenza sbrigliare medialmente il legamento lacunare, attenti alla corona mortis.",
+    "fonte": { "testo": "Skandalakis' Surgical Anatomy", "riferimento": "cap. Abdominal Wall and Hernias" },
+    "tag": ["femorale"], "verificata": false
+  },
+  {
+    "id": "parete-0011", "distretto": "parete", "argomento": "Corona mortis",
+    "interventi": ["riparazione di ernia femorale", "TAPP", "TEP"], "tipo": "mcq", "livello": 3,
+    "domanda": "Variante: cos'è la corona mortis e con quale frequenza si trova?",
+    "opzioni": ["Anastomosi tra vasi otturatori ed epigastrici inferiori (o iliaci esterni) che incrocia il legamento di Cooper; la frequenza varia molto tra le serie (da meno del 20% a oltre il 50%, contando le forme venose)", "Un'arteria femorale profonda ad alta origine, presente in meno dell'1%", "L'anello venoso attorno all'anello inguinale profondo, sempre presente", "Un ramo della circonflessa iliaca profonda, presente in circa il 5%"],
+    "corrette": [0],
+    "spiegazione": "La corona mortis è un'anastomosi arteriosa e/o venosa tra i vasi otturatori e quelli epigastrici inferiori o iliaci esterni. Passa sopra il ramo pubico superiore e il legamento di Cooper. Le frequenze riportate variano molto con il metodo (dissezione o laparoscopia) e con l'inclusione delle forme solo venose.",
+    "perla": "Prima di fissare la rete al Cooper o di incidere il legamento lacunare, cerca un vaso che incrocia il ramo pubico: se lesionato si retrae nella pelvi e sanguina in modo difficile da controllare.",
+    "fonte": { "testo": "Skandalakis' Surgical Anatomy", "riferimento": "cap. Abdominal Wall and Hernias (obturator vessels)" },
+    "tag": ["variante", "a-rischio", "correlazione"], "verificata": false
+  },
+  {
+    "id": "parete-0012", "distretto": "parete", "argomento": "Orifizio miopettineo di Fruchaud",
+    "interventi": ["TAPP", "TEP", "ernioplastica inguinale Lichtenstein"], "tipo": "flash", "livello": 1,
+    "domanda": "Quali sono i limiti dell'orifizio miopettineo di Fruchaud e perché è un concetto chiave?",
+    "corrette": "Superiore: arcata dell'obliquo interno e del trasverso. Mediale: margine laterale del retto. Laterale: muscolo ileopsoas. Inferiore: pettine del pube (legamento di Cooper). Tutte le ernie inguinali (dirette e indirette) e femorali passano da qui.",
+    "spiegazione": "Il legamento inguinale divide l'orifizio in una parte superiore (ernie inguinali) e una inferiore (ernie femorali). Coprire tutto l'orifizio con una rete preperitoneale ripara tutti i possibili siti erniari.",
+    "perla": "Nella TEP/TAPP la rete deve coprire tutto l'orifizio miopettineo con margine adeguato: non basta coprire il difetto che vedi.",
+    "fonte": { "testo": "HerniaSurge Group. Hernia 2018", "riferimento": "International guidelines for groin hernia management – anatomia" },
+    "tag": ["inguine", "orifizio-miopettineo"], "verificata": false
+  },
+  {
+    "id": "parete-0013", "distretto": "parete", "argomento": "Ernia di Spigelio",
+    "interventi": ["riparazione di ernia ventrale"], "tipo": "mcq", "livello": 2,
+    "domanda": "Perché l'ernia di Spigelio è spesso difficile da palpare?",
+    "opzioni": ["Perché è interparietale: protrude attraverso la fascia di Spigelio ma resta sotto l'aponeurosi integra dell'obliquo esterno", "Perché passa sotto il legamento inguinale", "Perché attraversa la linea alba sopra l'ombelico", "Perché si sviluppa solo nello spazio retroperitoneale"],
+    "corrette": [0],
+    "spiegazione": "La fascia di Spigelio è l'aponeurosi tra la linea semilunare e il margine laterale del retto. Le ernie si formano soprattutto nella sua parte inferiore, vicino alla linea arcuata, e restano sotto l'aponeurosi dell'obliquo esterno: per questo la diagnosi richiede spesso ecografia o TC.",
+    "fonte": { "testo": "Skandalakis' Surgical Anatomy", "riferimento": "cap. Abdominal Wall and Hernias (Spigelian hernia)" },
+    "tag": ["ernie-ventrali"], "verificata": false
+  },
+  {
+    "id": "parete-0014", "distretto": "parete", "argomento": "Diastasi dei retti",
+    "interventi": ["riparazione di ernia ventrale"], "tipo": "mcq", "livello": 1,
+    "domanda": "Cosa distingue la diastasi dei retti da un'ernia della linea alba?",
+    "opzioni": ["Nella diastasi la linea alba è assottigliata e allargata ma senza un difetto fasciale con sacco", "Nella diastasi c'è sempre un colletto stretto con rischio di strozzamento", "La diastasi riguarda solo la regione sotto la linea arcuata", "Non c'è differenza: sono sinonimi"],
+    "corrette": [0],
+    "spiegazione": "Nella diastasi i retti si allontanano e la linea alba si allarga senza discontinuità aponeurotica, quindi senza un difetto con colletto. Può però associarsi a ernie ombelicali o epigastriche.",
+    "fonte": { "testo": "Sabiston Textbook of Surgery", "riferimento": "cap. Abdominal Wall, Umbilicus, Peritoneum…" },
+    "tag": ["ernie-ventrali"], "verificata": false
+  },
+  {
+    "id": "parete-0015", "distretto": "parete", "argomento": "Spazio retromuscolare (Rives-Stoppa)",
+    "interventi": ["riparazione di laparocele (Rives-Stoppa/TAR)"], "tipo": "mcq", "livello": 2,
+    "domanda": "Nella riparazione retromuscolare secondo Rives-Stoppa, cosa delimita lateralmente lo spazio di dissezione?",
+    "opzioni": ["La linea semilunare, dove i fasci neurovascolari intercostali entrano nella guaina del retto", "La spina iliaca anterosuperiore", "La linea arcuata", "La linea alba controlaterale"],
+    "corrette": [0],
+    "spiegazione": "Lo spazio retromuscolare sta tra muscolo retto e lamina posteriore della guaina. Lateralmente termina alla linea semilunare, dove i fasci neurovascolari perforanti (T7–T12) entrano nel retto. Se serve più spazio laterale si ricorre al TAR.",
+    "perla": "I fasci perforanti segnano il limite: preservali per non denervare il retto.",
+    "fonte": { "testo": "Novitsky YW et al. Am J Surg 2012", "riferimento": "Transversus abdominis muscle release: a novel approach to posterior component separation" },
+    "tag": ["laparocele", "a-rischio"], "verificata": false
+  },
+  {
+    "id": "parete-0016", "distretto": "parete", "argomento": "TAR e fasci neurovascolari",
+    "interventi": ["riparazione di laparocele (Rives-Stoppa/TAR)"], "tipo": "mcq", "livello": 3,
+    "domanda": "Durante una separazione dei componenti posteriore (TAR), cosa succede se si sezionano i fasci neurovascolari intercostali alla linea semilunare?",
+    "opzioni": ["Denervazione del muscolo retto, con atrofia e possibile bulging della parete", "Paralisi del diaframma omolaterale", "Linfedema dell'arto inferiore", "Nessuna conseguenza: il retto ha innervazione doppia"],
+    "corrette": [0],
+    "spiegazione": "I nervi intercostali (T7–T12) decorrono tra obliquo interno e trasverso ed entrano nella guaina del retto in prossimità della linea semilunare. Nel TAR si incide la lamina posteriore medialmente a questi fasci e si seziona il trasverso, preservandoli.",
+    "perla": "Incidi la lamina posteriore circa mezzo-un centimetro medialmente ai fasci perforanti visibili, non sopra di essi.",
+    "fonte": { "testo": "Novitsky YW et al. Am J Surg 2012", "riferimento": "Transversus abdominis muscle release: a novel approach to posterior component separation" },
+    "tag": ["laparocele", "correlazione", "a-rischio"], "verificata": false
+  },
+  {
+    "id": "parete-0017", "distretto": "parete", "argomento": "Sequenza del TAR",
+    "interventi": ["riparazione di laparocele (Rives-Stoppa/TAR)"], "tipo": "ordina", "livello": 3,
+    "domanda": "Ordina i passaggi di una separazione dei componenti posteriore con TAR.",
+    "opzioni": ["Dissezione retromuscolare (Rives-Stoppa) fino alla linea semilunare", "Incisione della lamina posteriore medialmente ai fasci perforanti", "Sezione del muscolo trasverso dell'addome", "Dissezione laterale nel piano pretrasversale o preperitoneale", "Chiusura della lamina posteriore", "Posizionamento della rete retromuscolare", "Chiusura della linea alba (lamina anteriore)"],
+    "corrette": [0, 1, 2, 3, 4, 5, 6],
+    "spiegazione": "Dopo lo spazio retromuscolare si incide la lamina posteriore medialmente ai perforanti, si seziona il trasverso e si prosegue lateralmente. Si chiude lo strato posteriore, si posiziona una rete ampia e si ricostruisce la linea mediana anteriore.",
+    "fonte": { "testo": "Novitsky YW et al. Am J Surg 2012", "riferimento": "Transversus abdominis muscle release: a novel approach to posterior component separation" },
+    "tag": ["laparocele", "sequenza"], "verificata": false
+  },
+  {
+    "id": "parete-0018", "distretto": "parete", "argomento": "Separazione dei componenti anteriore",
+    "interventi": ["riparazione di laparocele (Rives-Stoppa/TAR)"], "tipo": "mcq", "livello": 2,
+    "domanda": "Nella separazione dei componenti anteriore (Ramirez) open, qual è la complicanza tipica e la sua causa anatomica?",
+    "opzioni": ["Necrosi dei lembi cutanei, per sezione delle perforanti periombelicali durante lo scollamento sottocutaneo", "Lesione dei vasi epigastrici inferiori, per incisione della lamina posteriore", "Ernia di Spigelio, per sezione del trasverso", "Paralisi del nervo femorale"],
+    "corrette": [0],
+    "spiegazione": "Ramirez incide l'aponeurosi dell'obliquo esterno lateralmente alla linea semilunare. Per raggiungerla con la tecnica open si scollano ampi lembi sottocutanei, interrompendo le perforanti periombelicali: ne derivano ischemia cutanea, infezione e sieromi. Le varianti che risparmiano le perforanti riducono questo rischio.",
+    "fonte": { "testo": "Ramirez OM et al. Plast Reconstr Surg 1990", "riferimento": "'Components separation' method for closure of abdominal-wall defects" },
+    "tag": ["laparocele", "correlazione"], "verificata": false
+  },
+  {
+    "id": "parete-0019", "distretto": "parete", "argomento": "Anelli inguinali",
+    "interventi": ["ernioplastica inguinale Lichtenstein"], "tipo": "mcq", "livello": 1,
+    "domanda": "L'anello inguinale profondo è un'apertura in quale strato?",
+    "opzioni": ["Fascia trasversale", "Aponeurosi dell'obliquo esterno", "Muscolo obliquo interno", "Peritoneo parietale"],
+    "corrette": [0],
+    "spiegazione": "L'anello profondo è un'apertura della fascia trasversale, lateralmente ai vasi epigastrici inferiori, poco sopra il punto medio del legamento inguinale. L'anello superficiale è un'apertura dell'aponeurosi dell'obliquo esterno sopra il tubercolo pubico.",
+    "fonte": { "testo": "Gray's Anatomy", "riferimento": "sezione Addome – canale inguinale" },
+    "tag": ["inguine"], "verificata": false
+  },
+  {
+    "id": "parete-0020", "distretto": "parete", "argomento": "Nervi della regione inguinale",
+    "interventi": ["ernioplastica inguinale Lichtenstein", "TAPP", "TEP"], "tipo": "multi", "livello": 1,
+    "domanda": "Quali nervi della regione inguinale derivano (almeno in parte) dalla radice L1? Seleziona tutti i corretti.",
+    "opzioni": ["Nervo ileoinguinale", "Nervo ileoipogastrico", "Nervo genitofemorale", "Nervo otturatorio", "Nervo pudendo"],
+    "corrette": [0, 1, 2],
+    "spiegazione": "Ileoipogastrico e ileoinguinale derivano da L1 (con contributo T12). Il genitofemorale da L1–L2. L'otturatorio deriva da L2–L4, il pudendo da S2–S4.",
+    "fonte": { "testo": "Gray's Anatomy", "riferimento": "sezione Addome – plesso lombare" },
+    "tag": ["nervi"], "verificata": false
+  },
+  {
+    "id": "parete-0021", "distretto": "parete", "argomento": "Legamento lacunare (di Gimbernat)",
+    "interventi": ["riparazione di ernia femorale"], "tipo": "flash", "livello": 2,
+    "domanda": "Cos'è il legamento lacunare e che ruolo ha nell'ernia femorale?",
+    "corrette": "L'espansione triangolare dell'estremità mediale del legamento inguinale che si inserisce sul pettine del pube. Forma il limite mediale dell'anello femorale; in caso di strozzamento può essere inciso per liberare il colletto.",
+    "spiegazione": "Il margine laterale del legamento lacunare, rigido e affilato, contribuisce allo strozzamento delle ernie femorali. Il legamento si continua lateralmente nel legamento pettineo (di Cooper).",
+    "perla": "Incidere il lacunare libera il colletto, ma è il punto dove può passare la corona mortis: controlla prima.",
+    "fonte": { "testo": "Skandalakis' Surgical Anatomy", "riferimento": "cap. Abdominal Wall and Hernias" },
+    "tag": ["femorale", "a-rischio"], "verificata": false
+  },
+  {
+    "id": "parete-0022", "distretto": "parete", "argomento": "Riconoscere gli strati",
+    "interventi": ["ernioplastica inguinale Lichtenstein", "TEP"], "tipo": "immagine", "livello": 1,
+    "domanda": "Sezione della parete (esterno in alto). Quale strato indica il punto evidenziato (6)?",
+    "opzioni": ["Fascia trasversale", "Peritoneo", "Aponeurosi dell'obliquo esterno", "Fascia di Scarpa"],
+    "corrette": [0],
+    "immagine": { "src": "img/parete-strati.svg", "hotspot": [{ "x": 30, "y": 21.3 }, { "x": 70, "y": 28.8 }, { "x": 30, "y": 39.3 }, { "x": 70, "y": 48 }, { "x": 30, "y": 58.8 }, { "x": 70, "y": 65.3 }, { "x": 30, "y": 72 }, { "x": 70, "y": 78.4 }], "target": 5 },
+    "spiegazione": "La fascia trasversale (6) riveste la faccia profonda del trasverso. Sotto c'è il grasso preperitoneale (7), lo spazio della TEP, e poi il peritoneo (8).",
+    "fonte": { "testo": "Schema originale AnatoQuiz", "riferimento": "basato su Skandalakis' Surgical Anatomy, cap. Abdominal Wall and Hernias" },
+    "tag": ["immagine", "strati"], "verificata": false
+  },
+  {
+    "id": "parete-0023", "distretto": "parete", "argomento": "Riconoscere gli strati",
+    "interventi": ["ernioplastica inguinale Lichtenstein"], "tipo": "immagine", "livello": 1,
+    "domanda": "Nello schema, quale strato indica il punto evidenziato (2)?",
+    "opzioni": ["Fascia di Scarpa (strato membranoso del sottocutaneo)", "Fascia di Camper", "Aponeurosi dell'obliquo esterno", "Fascia trasversale"],
+    "corrette": [0],
+    "immagine": { "src": "img/parete-strati.svg", "hotspot": [{ "x": 30, "y": 21.3 }, { "x": 70, "y": 28.8 }, { "x": 30, "y": 39.3 }, { "x": 70, "y": 48 }, { "x": 30, "y": 58.8 }, { "x": 70, "y": 65.3 }, { "x": 30, "y": 72 }, { "x": 70, "y": 78.4 }], "target": 1 },
+    "spiegazione": "La fascia di Scarpa (2) è lo strato membranoso del sottocutaneo, tra il grasso superficiale (Camper, 1) e quello profondo. Nella chiusura delle incisioni inguinali riavvicinarla migliora il risultato estetico.",
+    "fonte": { "testo": "Schema originale AnatoQuiz", "riferimento": "basato su Gray's Anatomy, sezione Addome – parete" },
+    "tag": ["immagine", "strati"], "verificata": false
+  },
+  {
+    "id": "parete-0024", "distretto": "parete", "argomento": "Riconoscere gli strati",
+    "interventi": ["ernioplastica inguinale Lichtenstein"], "tipo": "immagine", "livello": 2,
+    "domanda": "Nello schema, quale strato indica il punto evidenziato (4)?",
+    "opzioni": ["Muscolo obliquo interno", "Muscolo trasverso dell'addome", "Aponeurosi dell'obliquo esterno", "Muscolo retto"],
+    "corrette": [0],
+    "immagine": { "src": "img/parete-strati.svg", "hotspot": [{ "x": 30, "y": 21.3 }, { "x": 70, "y": 28.8 }, { "x": 30, "y": 39.3 }, { "x": 70, "y": 48 }, { "x": 30, "y": 58.8 }, { "x": 70, "y": 65.3 }, { "x": 30, "y": 72 }, { "x": 70, "y": 78.4 }], "target": 3 },
+    "spiegazione": "Sotto l'aponeurosi dell'obliquo esterno (3) si trova l'obliquo interno (4), poi il trasverso (5). Tra obliquo interno e trasverso decorrono i nervi ileoipogastrico e ileoinguinale prima di diventare superficiali.",
+    "fonte": { "testo": "Schema originale AnatoQuiz", "riferimento": "basato su Gray's Anatomy, sezione Addome – parete" },
+    "tag": ["immagine", "strati"], "verificata": false
+  },
+  {
+    "id": "parete-0025", "distretto": "parete", "argomento": "Linea semilunare e nervi intercostali",
+    "interventi": ["riparazione di laparocele (Rives-Stoppa/TAR)", "accesso laparoscopico (posizionamento trocar)"], "tipo": "flash", "livello": 3,
+    "domanda": "Tra quali strati decorrono i nervi intercostali (T7–T12) nella parete anterolaterale, e perché conta nelle incisioni laterali?",
+    "corrette": "Nel piano tra obliquo interno e trasverso dell'addome (piano del TAP), fino alla linea semilunare dove entrano nella guaina del retto.",
+    "spiegazione": "Incisioni laterali estese o trasversali che sezionano più nervi consecutivi possono denervare la parete (bulging o pseudo-ernia). È anche il piano in cui si esegue il blocco TAP per l'analgesia.",
+    "fonte": { "testo": "Gray's Anatomy", "riferimento": "sezione Addome – innervazione della parete" },
+    "tag": ["nervi", "correlazione"], "verificata": false
+  }
+]

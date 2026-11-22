@@ -1,0 +1,255 @@
+[
+  {
+    "id": "vasc-0001", "distretto": "vascolare", "argomento": "Giunzione safeno-femorale",
+    "interventi": ["crossectomia e stripping della safena"], "tipo": "mcq", "livello": 1,
+    "domanda": "Dove si trova di solito la giunzione safeno-femorale rispetto al tubercolo pubico?",
+    "opzioni": ["Circa 2–4 cm sotto e lateralmente al tubercolo pubico", "Sopra il legamento inguinale, medialmente alla spina iliaca", "Circa 10 cm sotto il tubercolo, sulla faccia laterale della coscia", "Esattamente sul tubercolo pubico"],
+    "corrette": [0],
+    "spiegazione": "La grande safena attraversa la fascia cribrosa all'hiatus safeno e sbocca nella femorale comune poco sotto il legamento inguinale, inferolateralmente al tubercolo pubico. La posizione esatta va confermata con l'eco-color-doppler preoperatorio.",
+    "fonte": { "testo": "Gray's Anatomy", "riferimento": "sezione Arto inferiore – vena grande safena" },
+    "tag": ["safena"], "verificata": false
+  },
+  {
+    "id": "vasc-0002", "distretto": "vascolare", "argomento": "Tributarie della crosse",
+    "interventi": ["crossectomia e stripping della safena"], "tipo": "multi", "livello": 1,
+    "domanda": "Quali sono tributarie superficiali della crosse safenica? Seleziona tutte le corrette.",
+    "opzioni": ["Vena epigastrica superficiale", "Vena circonflessa iliaca superficiale", "Vena pudenda esterna superficiale", "Vena safena accessoria anteriore", "Vena femorale profonda"],
+    "corrette": [0, 1, 2, 3],
+    "spiegazione": "Alla crosse confluiscono in numero e disposizione variabili: epigastrica superficiale, circonflessa iliaca superficiale, pudende esterne, safena accessoria anteriore ed eventualmente posteriore. La femorale profonda è una vena del sistema profondo.",
+    "perla": "Lasciare tributarie non legate alla crosse è una causa nota di recidiva varicosa.",
+    "fonte": { "testo": "Caggiati A et al. J Vasc Surg 2002", "riferimento": "Nomenclature of the veins of the lower limbs: an international interdisciplinary consensus statement" },
+    "tag": ["safena"], "verificata": false
+  },
+  {
+    "id": "vasc-0003", "distretto": "vascolare", "argomento": "Crossectomia",
+    "interventi": ["crossectomia e stripping della safena"], "tipo": "mcq", "livello": 2,
+    "domanda": "Come si esegue correttamente la legatura della grande safena nella crossectomia?",
+    "opzioni": ["A raso della femorale comune, dopo aver identificato e legato le tributarie, senza restringere la femorale", "A 10 cm dalla giunzione, lasciando un moncone lungo", "Legando insieme safena e femorale comune", "Sezionando solo le tributarie senza legare la safena"],
+    "corrette": [0],
+    "spiegazione": "La safena va legata a raso della femorale comune (un moncone lungo con tributarie favorisce la recidiva), facendo attenzione a non stenosare o lesionare la femorale con la legatura.",
+    "perla": "Prima di legare, identifica con certezza la femorale comune sopra e sotto la giunzione: scambiare la femorale per la safena è un errore grave.",
+    "fonte": { "testo": "Sabiston Textbook of Surgery", "riferimento": "cap. Venous Disease – varicose veins" },
+    "tag": ["safena", "a-rischio", "correlazione"], "verificata": false
+  },
+  {
+    "id": "vasc-0004", "distretto": "vascolare", "argomento": "Nervo safeno",
+    "interventi": ["crossectomia e stripping della safena", "ablazione endovenosa"], "tipo": "mcq", "livello": 2,
+    "domanda": "Perché lo stripping della grande safena si limita spesso fino a sotto il ginocchio, invece che alla caviglia?",
+    "opzioni": ["Perché sotto il ginocchio il nervo safeno decorre accanto alla vena: lo stripping fino alla caviglia aumenta le parestesie", "Perché la vena sotto il ginocchio non ha valvole", "Perché sotto il ginocchio la safena è profonda alla fascia", "Per evitare la lesione del nervo surale"],
+    "corrette": [0],
+    "spiegazione": "Il nervo safeno (ramo del femorale) affianca la grande safena nella gamba. Stripping e ablazioni termiche sotto il ginocchio espongono a ipoestesia e parestesie della faccia mediale di gamba e piede.",
+    "fonte": { "testo": "Sabiston Textbook of Surgery", "riferimento": "cap. Venous Disease – varicose veins" },
+    "tag": ["nervi", "a-rischio", "correlazione"], "verificata": false
+  },
+  {
+    "id": "vasc-0005", "distretto": "vascolare", "argomento": "Nervo surale",
+    "interventi": ["crossectomia e stripping della safena", "ablazione endovenosa"], "tipo": "mcq", "livello": 2,
+    "domanda": "Quale nervo è a rischio nella chirurgia della piccola safena?",
+    "opzioni": ["Nervo surale", "Nervo safeno", "Nervo peroniero profondo", "Nervo otturatorio"],
+    "corrette": [0],
+    "spiegazione": "La piccola safena decorre sulla faccia posteriore della gamba insieme al nervo surale, soprattutto nel terzo distale. Nella fossa poplitea, vicino alla giunzione, sono a rischio anche il nervo tibiale e il peroniero comune.",
+    "fonte": { "testo": "Gray's Anatomy", "riferimento": "sezione Arto inferiore – vena piccola safena" },
+    "tag": ["nervi", "a-rischio"], "verificata": false
+  },
+  {
+    "id": "vasc-0006", "distretto": "vascolare", "argomento": "Giunzione safeno-poplitea",
+    "interventi": ["crossectomia e stripping della safena"], "tipo": "mcq", "livello": 3,
+    "domanda": "Variante: perché la giunzione safeno-poplitea va sempre mappata con l'eco-color-doppler prima dell'intervento?",
+    "opzioni": ["Perché il suo livello e la sua presenza sono molto variabili (può sboccare più in alto, in vene della coscia o nella safena grande)", "Perché è sempre a 2 cm sotto la piega poplitea", "Perché non esiste nella maggior parte dei pazienti", "Perché è sempre doppia"],
+    "corrette": [0],
+    "spiegazione": "La piccola safena può terminare nella poplitea a diversi livelli sopra la piega, proseguire nella coscia (estensione craniale, eventualmente come vena di Giacomini) o sboccare in vene profonde della coscia. La mappatura evita esplorazioni inutili nella fossa poplitea.",
+    "fonte": { "testo": "Caggiati A et al. J Vasc Surg 2002", "riferimento": "Nomenclature of the veins of the lower limbs: an international interdisciplinary consensus statement" },
+    "tag": ["variante", "safena"], "verificata": false
+  },
+  {
+    "id": "vasc-0007", "distretto": "vascolare", "argomento": "Triangolo femorale",
+    "interventi": ["accesso femorale", "crossectomia e stripping della safena"], "tipo": "mcq", "livello": 1,
+    "domanda": "Qual è la disposizione delle strutture nel triangolo femorale, da laterale a mediale?",
+    "opzioni": ["Nervo, arteria, vena, canale femorale (linfatici)", "Vena, arteria, nervo", "Arteria, nervo, vena", "Arteria, vena, nervo"],
+    "corrette": [0],
+    "spiegazione": "Da laterale a mediale: nervo femorale (fuori dalla guaina femorale), arteria femorale, vena femorale, canale femorale con linfatici e linfonodo di Cloquet.",
+    "fonte": { "testo": "Gray's Anatomy", "riferimento": "sezione Arto inferiore – triangolo femorale" },
+    "tag": ["accessi"], "verificata": false
+  },
+  {
+    "id": "vasc-0008", "distretto": "vascolare", "argomento": "Strutture del triangolo femorale",
+    "interventi": ["accesso femorale"], "tipo": "ordina", "livello": 1,
+    "domanda": "Ordina le strutture del triangolo femorale da laterale a mediale.",
+    "opzioni": ["Nervo femorale", "Arteria femorale", "Vena femorale", "Canale femorale"],
+    "corrette": [0, 1, 2, 3],
+    "spiegazione": "La guaina femorale contiene arteria, vena e canale femorale; il nervo è laterale e fuori dalla guaina.",
+    "fonte": { "testo": "Gray's Anatomy", "riferimento": "sezione Arto inferiore – triangolo femorale" },
+    "tag": ["accessi"], "verificata": false
+  },
+  {
+    "id": "vasc-0009", "distretto": "vascolare", "argomento": "Puntura femorale alta",
+    "interventi": ["accesso femorale"], "tipo": "mcq", "livello": 2,
+    "domanda": "Quale complicanza è tipica di una puntura arteriosa femorale troppo alta (sopra il legamento inguinale)?",
+    "opzioni": ["Ematoma retroperitoneale, perché il sito non è comprimibile contro la testa del femore", "Fistola artero-venosa con la safena", "Lesione del nervo safeno", "Ischemia del piede per legatura della femorale"],
+    "corrette": [0],
+    "spiegazione": "La puntura ideale è sulla femorale comune, sopra la testa femorale, sotto il legamento inguinale e sopra la biforcazione. Sopra il legamento (iliaca esterna) non c'è un piano osseo per comprimere: il sanguinamento si estende nel retroperitoneo.",
+    "perla": "Usa la fluoroscopia (testa femorale) e/o l'ecografia per la puntura, non solo la piega inguinale, che è spesso più bassa del legamento.",
+    "fonte": { "testo": "Sabiston Textbook of Surgery", "riferimento": "cap. Endovascular Surgery – vascular access" },
+    "tag": ["accessi", "a-rischio", "correlazione"], "verificata": false
+  },
+  {
+    "id": "vasc-0010", "distretto": "vascolare", "argomento": "Puntura femorale bassa",
+    "interventi": ["accesso femorale"], "tipo": "flash", "livello": 2,
+    "domanda": "Quali complicanze sono favorite da una puntura femorale troppo bassa, sotto la biforcazione?",
+    "corrette": "Pseudoaneurisma (arteria più piccola e poco comprimibile) e fistola artero-venosa (le vene femorali si sovrappongono alle arterie sotto la biforcazione), oltre a un rischio maggiore di trombosi.",
+    "spiegazione": "Sotto la biforcazione la femorale superficiale e la profonda sono più piccole e il piano osseo di compressione manca: la compressione è meno efficace.",
+    "fonte": { "testo": "Sabiston Textbook of Surgery", "riferimento": "cap. Endovascular Surgery – vascular access" },
+    "tag": ["accessi", "correlazione"], "verificata": false
+  },
+  {
+    "id": "vasc-0011", "distretto": "vascolare", "argomento": "Accesso giugulare interno",
+    "interventi": ["posizionamento CVC"], "tipo": "mcq", "livello": 2,
+    "domanda": "Nell'accesso alla vena giugulare interna con tecnica anatomica centrale, dove si punge e in che rapporto è la vena con la carotide?",
+    "opzioni": ["All'apice del triangolo tra i due capi dello sternocleidomastoideo; la vena è laterale (e spesso anteriore) alla carotide", "Medialmente al capo sternale; la vena è mediale alla carotide", "Sotto la clavicola; la vena è posteriore alla succlavia", "Nella fossa sopraclaveare laterale; la vena è dietro lo scaleno"],
+    "corrette": [0],
+    "spiegazione": "La giugulare interna decorre nella guaina carotidea, lateralmente alla carotide comune, sotto il triangolo formato dai capi sternale e clavicolare dello sternocleidomastoideo. Oggi la puntura si esegue con guida ecografica, che riduce puntura arteriosa e pneumotorace.",
+    "fonte": { "testo": "Sabiston Textbook of Surgery", "riferimento": "cap. Critical Care – central venous access" },
+    "tag": ["accessi", "a-rischio"], "verificata": false
+  },
+  {
+    "id": "vasc-0012", "distretto": "vascolare", "argomento": "Accesso succlavio",
+    "interventi": ["posizionamento CVC"], "tipo": "mcq", "livello": 1,
+    "domanda": "Quale complicanza meccanica è tipica dell'accesso succlavio rispetto a quello femorale?",
+    "opzioni": ["Pneumotorace, per la vicinanza della cupola pleurica", "Ematoma retroperitoneale", "Lesione del nervo femorale", "Trombosi della vena safena"],
+    "corrette": [0],
+    "spiegazione": "La vena succlavia passa sopra la prima costa, davanti all'arteria e allo scaleno anteriore, vicino alla cupola pleurica. A sinistra c'è anche il rischio di ledere il dotto toracico.",
+    "fonte": { "testo": "Sabiston Textbook of Surgery", "riferimento": "cap. Critical Care – central venous access" },
+    "tag": ["accessi", "a-rischio"], "verificata": false
+  },
+  {
+    "id": "vasc-0013", "distretto": "vascolare", "argomento": "Vena cefalica",
+    "interventi": ["impianto di port-a-cath"], "tipo": "mcq", "livello": 2,
+    "domanda": "Dove si cerca la vena cefalica per l'impianto di un port con tecnica di isolamento chirurgico ('cut-down')?",
+    "opzioni": ["Nel solco deltoideo-pettorale", "Nella fossa antecubitale mediale", "Nel triangolo di Sedillot", "Nel canale di Hunter"],
+    "corrette": [0],
+    "spiegazione": "La cefalica sale sul lato laterale del braccio, entra nel solco deltoideo-pettorale e attraversa la fascia clavipettorale per sboccare nell'ascellare. Il cut-down nel solco evita la puntura e il rischio di pneumotorace.",
+    "fonte": { "testo": "Gray's Anatomy", "riferimento": "sezione Arto superiore – vene superficiali" },
+    "tag": ["accessi"], "verificata": false
+  },
+  {
+    "id": "vasc-0014", "distretto": "vascolare", "argomento": "Fistola artero-venosa per dialisi",
+    "interventi": ["confezionamento FAV"], "tipo": "mcq", "livello": 1,
+    "domanda": "Qual è la fistola artero-venosa nativa di prima scelta, quando i vasi lo permettono?",
+    "opzioni": ["Radio-cefalica al polso (Brescia-Cimino)", "Brachio-basilica con trasposizione", "Protesi femoro-femorale", "Brachio-cefalica al gomito sempre per prima"],
+    "corrette": [0],
+    "spiegazione": "Si parte dal sito più distale dell'arto non dominante per conservare i siti prossimali per il futuro. La radio-cefalica al polso è l'accesso classico di prima scelta, se arteria e vena sono adeguate all'ecografia.",
+    "fonte": { "testo": "Sabiston Textbook of Surgery", "riferimento": "cap. Vascular Access" },
+    "tag": ["accessi"], "verificata": false
+  },
+  {
+    "id": "vasc-0015", "distretto": "vascolare", "argomento": "Test di Allen",
+    "interventi": ["confezionamento FAV", "prelievo dell'arteria radiale"], "tipo": "mcq", "livello": 2,
+    "domanda": "Cosa valuta il test di Allen?",
+    "opzioni": ["Che l'arteria ulnare (con l'arcata palmare) perfonda la mano da sola quando la radiale è occlusa", "La pervietà della vena cefalica", "La funzione del nervo mediano", "La pressione arteriosa sistolica al polso"],
+    "corrette": [0],
+    "spiegazione": "Si comprimono radiale e ulnare, si fa aprire e chiudere la mano e poi si rilascia l'ulnare: un rapido ritorno del colore indica un circolo collaterale palmare adeguato. Oggi si integra con la valutazione ecografica o pletismografica.",
+    "fonte": { "testo": "Sabiston Textbook of Surgery", "riferimento": "cap. Vascular Access" },
+    "tag": ["accessi"], "verificata": false
+  },
+  {
+    "id": "vasc-0016", "distretto": "vascolare", "argomento": "Vena basilica",
+    "interventi": ["confezionamento FAV"], "tipo": "mcq", "livello": 3,
+    "domanda": "Perché la fistola brachio-basilica richiede di solito una trasposizione (superficializzazione) della vena?",
+    "opzioni": ["Perché nel braccio la basilica diventa profonda, sotto la fascia, e non è pungibile; la mobilizzazione espone il nervo cutaneo mediale dell'avambraccio", "Perché la basilica è sempre trombizzata", "Perché decorre accanto all'arteria radiale", "Perché ha pareti troppo spesse"],
+    "corrette": [0],
+    "spiegazione": "La basilica attraversa la fascia brachiale a metà braccio e sale profonda verso l'ascellare. Per renderla pungibile va mobilizzata e portata in superficie. Nella dissezione il nervo cutaneo mediale dell'avambraccio, che la incrocia, va preservato.",
+    "fonte": { "testo": "Sabiston Textbook of Surgery", "riferimento": "cap. Vascular Access" },
+    "tag": ["accessi", "a-rischio", "correlazione"], "verificata": false
+  },
+  {
+    "id": "vasc-0017", "distretto": "vascolare", "argomento": "Canale degli adduttori (di Hunter)",
+    "interventi": ["bypass femoro-popliteo"], "tipo": "flash", "livello": 2,
+    "domanda": "Cosa contiene il canale degli adduttori (di Hunter)?",
+    "corrette": "Arteria e vena femorale (superficiale), nervo safeno e nervo per il vasto mediale.",
+    "spiegazione": "Il canale va dall'apice del triangolo femorale all'hiatus dell'adduttore, dove i vasi diventano poplitei. È la sede tipica delle lesioni ateromasiche della femorale superficiale; il nervo safeno ne esce anteriormente.",
+    "fonte": { "testo": "Gray's Anatomy", "riferimento": "sezione Arto inferiore – canale degli adduttori" },
+    "tag": ["arterie"], "verificata": false
+  },
+  {
+    "id": "vasc-0018", "distretto": "vascolare", "argomento": "Vene profonde della gamba",
+    "interventi": ["trombectomia venosa"], "tipo": "multi", "livello": 2,
+    "domanda": "Quali sono vene profonde della gamba? Seleziona tutte le corrette.",
+    "opzioni": ["Vene tibiali anteriori", "Vene tibiali posteriori", "Vene peroniere (fibulari)", "Vena piccola safena", "Vena safena accessoria anteriore"],
+    "corrette": [0, 1, 2],
+    "spiegazione": "Le vene profonde della gamba sono pari e accompagnano le arterie omonime. Si uniscono nella vena poplitea. Le safene sono superficiali, nel compartimento safenico.",
+    "fonte": { "testo": "Caggiati A et al. J Vasc Surg 2002", "riferimento": "Nomenclature of the veins of the lower limbs: an international interdisciplinary consensus statement" },
+    "tag": ["vene"], "verificata": false
+  },
+  {
+    "id": "vasc-0019", "distretto": "vascolare", "argomento": "Compartimento safenico",
+    "interventi": ["ablazione endovenosa", "crossectomia e stripping della safena"], "tipo": "mcq", "livello": 2,
+    "domanda": "Cosa definisce ecograficamente la grande safena nella coscia ('segno dell'occhio')?",
+    "opzioni": ["La vena racchiusa nel compartimento safenico, tra la fascia safenica (sopra) e la fascia muscolare (sotto)", "La vena accanto all'arteria femorale nella guaina", "La vena dentro il muscolo sartorio", "Il doppio lume della safena"],
+    "corrette": [0],
+    "spiegazione": "La grande safena decorre in uno sdoppiamento fasciale: in sezione trasversale la vena (pupilla) è racchiusa tra fascia safenica e fascia muscolare (palpebre). Le tributarie superficiali stanno sopra la fascia safenica e permettono di distinguere la safena dalle accessorie.",
+    "fonte": { "testo": "Caggiati A et al. J Vasc Surg 2002", "riferimento": "Nomenclature of the veins of the lower limbs: an international interdisciplinary consensus statement" },
+    "tag": ["safena"], "verificata": false
+  },
+  {
+    "id": "vasc-0020", "distretto": "vascolare", "argomento": "Arteria femorale profonda",
+    "interventi": ["endoarteriectomia femorale", "accesso femorale"], "tipo": "mcq", "livello": 2,
+    "domanda": "Da quale lato della femorale comune nasce di solito l'arteria femorale profonda?",
+    "opzioni": ["Posterolaterale", "Anteromediale", "Direttamente anteriore", "Mediale, dietro la vena"],
+    "corrette": [0],
+    "spiegazione": "La femorale profonda nasce di solito dalla parete posterolaterale della femorale comune, alcuni centimetri sotto il legamento inguinale, e scende dietro la femorale superficiale. Va controllata separatamente nelle endoarteriectomie femorali.",
+    "fonte": { "testo": "Gray's Anatomy", "riferimento": "sezione Arto inferiore – arteria femorale" },
+    "tag": ["arterie"], "verificata": false
+  },
+  {
+    "id": "vasc-0021", "distretto": "vascolare", "argomento": "Decorso della grande safena",
+    "interventi": ["crossectomia e stripping della safena", "prelievo della safena per bypass"], "tipo": "ordina", "livello": 2,
+    "domanda": "Ordina le tappe del decorso della grande safena dal piede all'inguine.",
+    "opzioni": ["Davanti al malleolo mediale", "Faccia mediale della gamba", "Dietro il condilo mediale del femore", "Faccia anteromediale della coscia", "Hiatus safeno e giunzione safeno-femorale"],
+    "corrette": [0, 1, 2, 3, 4],
+    "spiegazione": "La grande safena inizia dall'arcata venosa dorsale del piede, passa davanti al malleolo mediale (sede costante, utile per un accesso venoso d'urgenza), sale lungo la gamba e dietro il condilo mediale, e nella coscia raggiunge l'hiatus safeno.",
+    "fonte": { "testo": "Gray's Anatomy", "riferimento": "sezione Arto inferiore – vena grande safena" },
+    "tag": ["safena"], "verificata": false
+  },
+  {
+    "id": "vasc-0022", "distretto": "vascolare", "argomento": "Vena di Giacomini",
+    "interventi": ["crossectomia e stripping della safena"], "tipo": "flash", "livello": 3,
+    "domanda": "Variante: cos'è la vena di Giacomini?",
+    "corrette": "Una vena intersafenica: l'estensione craniale della piccola safena che sale sulla faccia posteriore della coscia e si collega alla grande safena.",
+    "spiegazione": "Può trasmettere un reflusso dalla piccola alla grande safena (o viceversa) e spiegare recidive. Va riconosciuta all'eco-color-doppler per pianificare il trattamento.",
+    "fonte": { "testo": "Caggiati A et al. J Vasc Surg 2002", "riferimento": "Nomenclature of the veins of the lower limbs: an international interdisciplinary consensus statement" },
+    "tag": ["variante", "safena"], "verificata": false
+  },
+  {
+    "id": "vasc-0023", "distretto": "vascolare", "argomento": "Riconoscere la giunzione safeno-femorale",
+    "interventi": ["crossectomia e stripping della safena"], "tipo": "immagine", "livello": 1,
+    "domanda": "Giunzione safeno-femorale destra (laterale a sinistra). Cosa indica il punto evidenziato (5)?",
+    "opzioni": ["Giunzione safeno-femorale (crosse)", "Biforcazione della femorale comune", "Anello femorale", "Giunzione safeno-poplitea"],
+    "corrette": [0],
+    "immagine": { "src": "img/safena.svg", "hotspot": [{ "x": 69.3, "y": 86.3 }, { "x": 51.3, "y": 37.5 }, { "x": 40, "y": 80 }, { "x": 27.5, "y": 80 }, { "x": 53.8, "y": 50 }, { "x": 61.8, "y": 32.5 }, { "x": 80, "y": 53 }, { "x": 37.5, "y": 36 }], "target": 4 },
+    "spiegazione": "La grande safena (1) sale medialmente e sbocca nella femorale comune (2) alla crosse (5), dove confluiscono le tributarie superficiali (6–8).",
+    "fonte": { "testo": "Schema originale AnatoQuiz", "riferimento": "basato su Caggiati A et al. J Vasc Surg 2002" },
+    "tag": ["immagine", "safena"], "verificata": false
+  },
+  {
+    "id": "vasc-0024", "distretto": "vascolare", "argomento": "Riconoscere la giunzione safeno-femorale",
+    "interventi": ["crossectomia e stripping della safena", "accesso femorale"], "tipo": "immagine", "livello": 2,
+    "domanda": "Nello schema, quale struttura indica il punto evidenziato (3)?",
+    "opzioni": ["Arteria femorale", "Vena femorale comune", "Nervo femorale", "Vena safena accessoria anteriore"],
+    "corrette": [0],
+    "immagine": { "src": "img/safena.svg", "hotspot": [{ "x": 69.3, "y": 86.3 }, { "x": 51.3, "y": 37.5 }, { "x": 40, "y": 80 }, { "x": 27.5, "y": 80 }, { "x": 53.8, "y": 50 }, { "x": 61.8, "y": 32.5 }, { "x": 80, "y": 53 }, { "x": 37.5, "y": 36 }], "target": 2 },
+    "spiegazione": "Da laterale a mediale: nervo femorale (4), arteria femorale (3), vena femorale comune (2). La safena (1) sbocca nella vena dal lato mediale.",
+    "fonte": { "testo": "Schema originale AnatoQuiz", "riferimento": "basato su Gray's Anatomy, sezione Arto inferiore – triangolo femorale" },
+    "tag": ["immagine", "accessi"], "verificata": false
+  },
+  {
+    "id": "vasc-0025", "distretto": "vascolare", "argomento": "Riconoscere la giunzione safeno-femorale",
+    "interventi": ["crossectomia e stripping della safena"], "tipo": "immagine", "livello": 3,
+    "domanda": "Nello schema, quale tributaria indica il punto evidenziato (6), che sale verso la parete addominale?",
+    "opzioni": ["Vena epigastrica superficiale", "Vena circonflessa iliaca superficiale", "Vena pudenda esterna superficiale", "Vena epigastrica inferiore"],
+    "corrette": [0],
+    "immagine": { "src": "img/safena.svg", "hotspot": [{ "x": 69.3, "y": 86.3 }, { "x": 51.3, "y": 37.5 }, { "x": 40, "y": 80 }, { "x": 27.5, "y": 80 }, { "x": 53.8, "y": 50 }, { "x": 61.8, "y": 32.5 }, { "x": 80, "y": 53 }, { "x": 37.5, "y": 36 }], "target": 5 },
+    "spiegazione": "L'epigastrica superficiale (6) sale verso l'ombelico; la circonflessa iliaca superficiale (8) va lateralmente verso la spina iliaca; la pudenda esterna (7) va medialmente. L'epigastrica inferiore invece è un vaso profondo della parete.",
+    "fonte": { "testo": "Schema originale AnatoQuiz", "riferimento": "basato su Caggiati A et al. J Vasc Surg 2002" },
+    "tag": ["immagine", "safena"], "verificata": false
+  }
+]

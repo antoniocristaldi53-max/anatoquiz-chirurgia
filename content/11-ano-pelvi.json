@@ -1,0 +1,257 @@
+[
+  {
+    "id": "ano-0001", "distretto": "ano-pelvi", "argomento": "Sfintere anale interno",
+    "interventi": ["sfinterotomia laterale interna", "emorroidectomia"], "tipo": "mcq", "livello": 1,
+    "domanda": "Cosa è lo sfintere anale interno?",
+    "opzioni": ["L'ispessimento della muscolatura liscia circolare del retto: involontario, garantisce gran parte del tono di riposo", "Un muscolo striato volontario innervato dal pudendo", "La porzione profonda del puborettale", "Un muscolo dello strato longitudinale"],
+    "corrette": [0],
+    "spiegazione": "Lo sfintere interno prosegue lo strato circolare del retto. È muscolatura liscia a innervazione autonomica e produce la maggior parte della pressione anale a riposo. Il suo margine inferiore si palpa come un solco (intersfinterico) sopra il sottocutaneo dello sfintere esterno.",
+    "fonte": { "testo": "Gray's Anatomy", "riferimento": "sezione Pelvi e perineo – canale anale" },
+    "tag": ["sfinteri"], "verificata": false
+  },
+  {
+    "id": "ano-0002", "distretto": "ano-pelvi", "argomento": "Sfintere anale esterno",
+    "interventi": ["fistulotomia / setone", "sfinteroplastica"], "tipo": "mcq", "livello": 1,
+    "domanda": "Da quale nervo è innervato lo sfintere anale esterno?",
+    "opzioni": ["Nervo pudendo (nervo rettale inferiore)", "Nervi splancnici pelvici", "Nervo otturatorio", "Plesso ipogastrico superiore"],
+    "corrette": [0],
+    "spiegazione": "Lo sfintere esterno è muscolo striato volontario, con porzioni sottocutanea, superficiale e profonda, quest'ultima fusa con il puborettale. È innervato dal pudendo (S2–S4) tramite il nervo rettale inferiore.",
+    "fonte": { "testo": "Gray's Anatomy", "riferimento": "sezione Pelvi e perineo – canale anale" },
+    "tag": ["sfinteri"], "verificata": false
+  },
+  {
+    "id": "ano-0003", "distretto": "ano-pelvi", "argomento": "Muscolo puborettale",
+    "interventi": ["fistulotomia / setone", "amputazione addomino-perineale"], "tipo": "mcq", "livello": 2,
+    "domanda": "Quale ruolo ha il muscolo puborettale nella continenza?",
+    "opzioni": ["Forma una fionda a 'U' attorno alla giunzione anorettale, tirandola in avanti e creando l'angolo anorettale", "Chiude il canale anale solo a livello della linea dentata", "È un muscolo liscio responsabile del tono di riposo", "Solleva la vescica durante la minzione"],
+    "corrette": [0],
+    "spiegazione": "Il puborettale parte dal pube, gira dietro la giunzione anorettale e torna al pube. Contraendosi accentua l'angolo anorettale, un elemento importante della continenza per le feci solide.",
+    "fonte": { "testo": "Skandalakis' Surgical Anatomy", "riferimento": "cap. Anal Canal – pelvic floor" },
+    "tag": ["sfinteri"], "verificata": false
+  },
+  {
+    "id": "ano-0004", "distretto": "ano-pelvi", "argomento": "Linea dentata",
+    "interventi": ["emorroidectomia"], "tipo": "mcq", "livello": 1,
+    "domanda": "Perché l'emorroidectomia sotto la linea dentata è dolorosa, mentre la legatura elastica sopra la linea è quasi indolore?",
+    "opzioni": ["Sotto la linea dentata l'anoderma ha innervazione somatica (pudendo); sopra, la mucosa ha innervazione viscerale", "Sopra la linea non ci sono vasi", "Sotto la linea l'epitelio è colonnare", "La linea dentata non ha rapporti con l'innervazione"],
+    "corrette": [0],
+    "spiegazione": "La linea dentata segna il passaggio tra endoderma e ectoderma: sopra epitelio colonnare e innervazione viscerale (dolore poco definito); sotto anoderma squamoso non cheratinizzato con innervazione somatica sensibile. Le legature vanno poste sopra la linea dentata.",
+    "perla": "Se il paziente avverte dolore vivo al momento della legatura elastica, il laccio è troppo vicino alla linea dentata: va rimosso.",
+    "fonte": { "testo": "Sabiston Textbook of Surgery", "riferimento": "cap. Anus" },
+    "tag": ["linea-dentata", "correlazione"], "verificata": false
+  },
+  {
+    "id": "ano-0005", "distretto": "ano-pelvi", "argomento": "Sopra e sotto la linea dentata",
+    "interventi": ["amputazione addomino-perineale", "emorroidectomia"], "tipo": "multi", "livello": 2,
+    "domanda": "Quali affermazioni sulle differenze sopra e sotto la linea dentata sono corrette? Seleziona tutte le corrette.",
+    "opzioni": ["Sopra: drenaggio venoso verso il sistema portale (vene rettali superiori)", "Sotto: drenaggio venoso sistemico (vene rettali inferiori, pudende)", "Sopra: drenaggio linfatico verso linfonodi mesenterici inferiori e iliaci interni", "Sotto: drenaggio linfatico verso i linfonodi inguinali superficiali", "Sopra: innervazione somatica dolorifica"],
+    "corrette": [0, 1, 2, 3],
+    "spiegazione": "La linea dentata è un confine embriologico: la porzione superiore drena verso il sistema portale e i linfonodi pelvici/mesenterici; l'inferiore verso il sistema cavale e i linfonodi inguinali. L'innervazione somatica è sotto la linea.",
+    "perla": "Un carcinoma anale sotto la linea dentata può dare metastasi linfonodali inguinali: palpa sempre l'inguine.",
+    "fonte": { "testo": "Gray's Anatomy", "riferimento": "sezione Pelvi e perineo – canale anale" },
+    "tag": ["linea-dentata"], "verificata": false
+  },
+  {
+    "id": "ano-0006", "distretto": "ano-pelvi", "argomento": "Teoria criptoghiandolare",
+    "interventi": ["drenaggio di ascesso perianale", "fistulotomia / setone"], "tipo": "mcq", "livello": 1,
+    "domanda": "Secondo la teoria criptoghiandolare, dove inizia la maggior parte degli ascessi anorettali?",
+    "opzioni": ["Nelle ghiandole anali che si aprono nelle cripte alla linea dentata e arrivano allo spazio intersfinterico", "Nella cute perianale", "Nella fossa ischioanale, per via ematogena", "Nel mesoretto"],
+    "corrette": [0],
+    "spiegazione": "Le ghiandole anali sboccano nelle cripte di Morgagni, alla linea dentata, e spesso attraversano lo sfintere interno fino allo spazio intersfinterico. L'infezione si propaga da lì negli spazi vicini; l'orifizio interno della fistola si trova alla linea dentata.",
+    "fonte": { "testo": "Parks AG et al. Br J Surg 1976", "riferimento": "A classification of fistula-in-ano" },
+    "tag": ["fistole"], "verificata": false
+  },
+  {
+    "id": "ano-0007", "distretto": "ano-pelvi", "argomento": "Classificazione di Parks",
+    "interventi": ["fistulotomia / setone"], "tipo": "mcq", "livello": 2,
+    "domanda": "Quale tipo di fistola era il più frequente nella serie originale di Parks?",
+    "opzioni": ["Intersfinterica (circa 45%)", "Transsfinterica (circa 80%)", "Sovrasfinterica (circa 50%)", "Extrasfinterica (circa 30%)"],
+    "corrette": [0],
+    "spiegazione": "Nella serie di Parks (1976, centro di riferimento) le proporzioni erano circa: intersfinteriche 45%, transsfinteriche 30%, sovrasfinteriche 20%, extrasfinteriche 5%. Le serie successive, meno selezionate, riportano meno forme complesse.",
+    "fonte": { "testo": "Parks AG et al. Br J Surg 1976", "riferimento": "A classification of fistula-in-ano" },
+    "tag": ["fistole"], "verificata": false
+  },
+  {
+    "id": "ano-0008", "distretto": "ano-pelvi", "argomento": "Tipi di fistola e sfintere coinvolto",
+    "interventi": ["fistulotomia / setone"], "tipo": "ordina", "livello": 2,
+    "domanda": "Ordina i tipi di fistola secondo Parks da quello che coinvolge meno sfintere a quello che ne coinvolge di più (o lo aggira del tutto).",
+    "opzioni": ["Intersfinterica", "Transsfinterica", "Sovrasfinterica", "Extrasfinterica"],
+    "corrette": [0, 1, 2, 3],
+    "spiegazione": "Intersfinterica: solo sfintere interno. Transsfinterica: attraversa l'esterno sotto il puborettale. Sovrasfinterica: passa sopra il puborettale e scende nella fossa ischioanale. Extrasfinterica: dal retto alla cute aggirando tutto l'apparato sfinterico (spesso non criptoghiandolare).",
+    "fonte": { "testo": "Parks AG et al. Br J Surg 1976", "riferimento": "A classification of fistula-in-ano" },
+    "tag": ["fistole"], "verificata": false
+  },
+  {
+    "id": "ano-0009", "distretto": "ano-pelvi", "argomento": "Regola di Goodsall",
+    "interventi": ["fistulotomia / setone"], "tipo": "mcq", "livello": 2,
+    "domanda": "Secondo la regola di Goodsall, una fistola con orifizio esterno posteriore alla linea trasversa dell'ano dove ha di solito l'orifizio interno?",
+    "opzioni": ["Sulla linea mediana posteriore, con un tragitto curvo", "Nella cripta radialmente opposta, con tragitto rettilineo", "Sulla linea mediana anteriore", "Sempre sopra il puborettale"],
+    "corrette": [0],
+    "spiegazione": "Orifizi esterni posteriori: tragitto curvo verso la linea mediana posteriore (6 in posizione litotomica). Orifizi anteriori: tragitto per lo più radiale e rettilineo verso la cripta più vicina.",
+    "fonte": { "testo": "Sabiston Textbook of Surgery", "riferimento": "cap. Anus – fistula-in-ano" },
+    "tag": ["fistole"], "verificata": false
+  },
+  {
+    "id": "ano-0010", "distretto": "ano-pelvi", "argomento": "Eccezione alla regola di Goodsall",
+    "interventi": ["fistulotomia / setone"], "tipo": "mcq", "livello": 3,
+    "domanda": "Qual è l'eccezione classica alla regola di Goodsall?",
+    "opzioni": ["Gli orifizi anteriori lontani dal margine anale (oltre circa 3 cm) possono avere un tragitto curvo fino alla linea mediana posteriore", "Gli orifizi posteriori hanno sempre un tragitto radiale", "Le fistole nella donna non seguono mai la regola", "Le fistole sopra il puborettale seguono sempre la regola"],
+    "corrette": [0],
+    "spiegazione": "Un orifizio esterno anteriore ma lontano dall'ano può essere l'estremità anteriore di un tragitto a ferro di cavallo con origine posteriore. La regola resta orientativa: l'orifizio interno va cercato con specillo, acqua ossigenata o imaging.",
+    "fonte": { "testo": "Sabiston Textbook of Surgery", "riferimento": "cap. Anus – fistula-in-ano" },
+    "tag": ["fistole"], "verificata": false
+  },
+  {
+    "id": "ano-0011", "distretto": "ano-pelvi", "argomento": "Fistola transsfinterica alta",
+    "interventi": ["fistulotomia / setone"], "tipo": "mcq", "livello": 2,
+    "domanda": "Fistola transsfinterica alta che attraversa gran parte dello sfintere esterno. Perché si evita la fistulotomia diretta?",
+    "opzioni": ["Sezionare una quota ampia dello sfintere esterno espone a incontinenza: si preferisce un setone o una tecnica che preservi lo sfintere", "Perché la fistulotomia non guarisce mai le fistole transsfinteriche", "Perché il nervo pudendo decorre nel tragitto", "Perché ci sono sempre vasi rettali superiori nel tragitto"],
+    "corrette": [0],
+    "spiegazione": "Più sfintere esterno viene sezionato, maggiore è il rischio di incontinenza, soprattutto nelle donne (sfintere anteriore corto) e in chi ha già disturbi. Le alternative sono setone, LIFT, lembo di avanzamento e altre tecniche che preservano lo sfintere.",
+    "fonte": { "testo": "Sabiston Textbook of Surgery", "riferimento": "cap. Anus – fistula-in-ano" },
+    "tag": ["fistole", "correlazione", "a-rischio"], "verificata": false
+  },
+  {
+    "id": "ano-0012", "distretto": "ano-pelvi", "argomento": "Ascesso a ferro di cavallo",
+    "interventi": ["drenaggio di ascesso perianale"], "tipo": "mcq", "livello": 3,
+    "domanda": "Attraverso quale spazio si estende di solito un ascesso a ferro di cavallo posteriore?",
+    "opzioni": ["Lo spazio postanale profondo (di Courtney), che comunica con entrambe le fosse ischioanali", "Lo spazio di Retzius", "Lo spazio sopraelevatore anteriore", "Il canale di Alcock"],
+    "corrette": [0],
+    "spiegazione": "Lo spazio postanale profondo si trova dietro il canale anale, sotto il legamento anococcigeo e sopra lo sfintere esterno. Da lì l'infezione si estende lateralmente in una o entrambe le fosse ischioanali.",
+    "perla": "Drena lo spazio postanale profondo sulla linea mediana posteriore (con controaperture laterali se servono), altrimenti l'ascesso recidiva.",
+    "fonte": { "testo": "Skandalakis' Surgical Anatomy", "riferimento": "cap. Anal Canal – perianal spaces" },
+    "tag": ["spazi"], "verificata": false
+  },
+  {
+    "id": "ano-0013", "distretto": "ano-pelvi", "argomento": "Posizione dei gavoccioli emorroidari",
+    "interventi": ["emorroidectomia"], "tipo": "mcq", "livello": 2,
+    "domanda": "In posizione litotomica, dove si trovano di solito i tre gavoccioli emorroidari principali?",
+    "opzioni": ["Laterale sinistro, anteriore destro e posteriore destro (ore 3, 7 e 11)", "Ore 12, 4 e 8", "Ore 6, 9 e 12", "Solo sulla linea mediana anteriore e posteriore"],
+    "corrette": [0],
+    "spiegazione": "I cuscinetti vascolari anali principali sono nelle posizioni laterale sinistra, anteriore destra e posteriore destra (ore 3, 7 e 11 in litotomia), in rapporto con la distribuzione dei rami dell'arteria rettale superiore.",
+    "perla": "Nell'emorroidectomia lascia ponti cutaneo-mucosi tra le ferite per prevenire la stenosi anale.",
+    "fonte": { "testo": "Sabiston Textbook of Surgery", "riferimento": "cap. Anus – hemorrhoids" },
+    "tag": ["emorroidi"], "verificata": false
+  },
+  {
+    "id": "ano-0014", "distretto": "ano-pelvi", "argomento": "Canale anale chirurgico e anatomico",
+    "interventi": ["resezione anteriore del retto (TME)", "fistulotomia / setone"], "tipo": "flash", "livello": 1,
+    "domanda": "Che differenza c'è tra canale anale 'chirurgico' e 'anatomico'?",
+    "corrette": "Chirurgico: dall'anello anorettale (margine superiore del puborettale) al margine anale, circa 4 cm. Anatomico: dalla linea dentata al margine anale, circa 2 cm.",
+    "spiegazione": "Il canale chirurgico corrisponde alla lunghezza dell'apparato sfinterico ed è quello che conta per le anastomosi basse e la chirurgia delle fistole. Le lunghezze sono indicative e variano con sesso e corporatura.",
+    "fonte": { "testo": "Skandalakis' Surgical Anatomy", "riferimento": "cap. Anal Canal" },
+    "tag": ["sfinteri"], "verificata": false
+  },
+  {
+    "id": "ano-0015", "distretto": "ano-pelvi", "argomento": "Anello anorettale",
+    "interventi": ["fistulotomia / setone"], "tipo": "mcq", "livello": 1,
+    "domanda": "Cos'è l'anello anorettale palpabile all'esplorazione rettale, e perché è importante?",
+    "opzioni": ["Il margine superiore del complesso sfinterico (puborettale, sfintere esterno profondo e interno): se sezionato causa incontinenza", "La linea dentata", "Il margine anale cutaneo", "Il promontorio sacrale"],
+    "corrette": [0],
+    "spiegazione": "L'anello anorettale si palpa come un cercine posteriore e laterale alla giunzione anorettale. Una fistola il cui tragitto passa sopra l'anello non va trattata con fistulotomia.",
+    "fonte": { "testo": "Skandalakis' Surgical Anatomy", "riferimento": "cap. Anal Canal" },
+    "tag": ["sfinteri", "a-rischio"], "verificata": false
+  },
+  {
+    "id": "ano-0016", "distretto": "ano-pelvi", "argomento": "Sfinterotomia laterale interna",
+    "interventi": ["sfinterotomia laterale interna"], "tipo": "mcq", "livello": 2,
+    "domanda": "Nella sfinterotomia laterale interna per ragade cronica, quale muscolo si seziona e fino a dove?",
+    "opzioni": ["Lo sfintere interno, dal margine distale fino al livello della linea dentata o all'apice della ragade", "Lo sfintere esterno sottocutaneo, per tutta la sua altezza", "Il puborettale, posteriormente", "Lo sfintere interno, sulla linea mediana posteriore fino all'anello anorettale"],
+    "corrette": [0],
+    "spiegazione": "Si seziona solo lo sfintere interno, lateralmente (non sulla linea mediana, per evitare la deformità a 'buco di serratura'), per una lunghezza limitata alla linea dentata o all'altezza della ragade. Un'estensione eccessiva aumenta l'incontinenza minore.",
+    "fonte": { "testo": "Sabiston Textbook of Surgery", "riferimento": "cap. Anus – anal fissure" },
+    "tag": ["sfinteri", "correlazione"], "verificata": false
+  },
+  {
+    "id": "ano-0017", "distretto": "ano-pelvi", "argomento": "Canale di Alcock",
+    "interventi": ["amputazione addomino-perineale", "drenaggio di ascesso perianale"], "tipo": "mcq", "livello": 2,
+    "domanda": "Dove si trova il canale pudendo (di Alcock) e cosa contiene?",
+    "opzioni": ["Nella fascia dell'otturatore interno, sulla parete laterale della fossa ischioanale; contiene nervo pudendo e vasi pudendi interni", "Nel mesoretto; contiene i vasi rettali superiori", "Tra sfintere interno ed esterno; contiene le ghiandole anali", "Nello spazio di Retzius; contiene la vena dorsale del pene"],
+    "corrette": [0],
+    "spiegazione": "Il canale di Alcock è uno sdoppiamento della fascia dell'otturatore interno. Da lì partono i nervi e vasi rettali inferiori che attraversano la fossa ischioanale verso lo sfintere esterno.",
+    "fonte": { "testo": "Gray's Anatomy", "riferimento": "sezione Pelvi e perineo – fossa ischioanale" },
+    "tag": ["spazi", "nervi"], "verificata": false
+  },
+  {
+    "id": "ano-0018", "distretto": "ano-pelvi", "argomento": "Perineo anteriore nella donna",
+    "interventi": ["fistulotomia / setone", "sfinteroplastica"], "tipo": "mcq", "livello": 3,
+    "domanda": "Variante di genere: perché una fistulotomia anteriore nella donna è più rischiosa per la continenza?",
+    "opzioni": ["Anteriormente lo sfintere esterno è più corto e sottile e non c'è il puborettale: sezionare anche poco muscolo pesa di più (spesso con danni ostetrici preesistenti)", "Perché il nervo pudendo decorre anteriormente", "Perché lo sfintere interno manca anteriormente", "Non c'è differenza tra i sessi"],
+    "corrette": [0],
+    "spiegazione": "Nella donna l'apparato sfinterico anteriore è più corto e il puborettale non lo rinforza anteriormente. Un danno ostetrico occulto può ridurre ulteriormente la riserva. Per questo le fistole anteriori nella donna si trattano di solito con tecniche che preservano lo sfintere.",
+    "fonte": { "testo": "Sabiston Textbook of Surgery", "riferimento": "cap. Anus – fistula-in-ano" },
+    "tag": ["variante", "a-rischio", "correlazione"], "verificata": false
+  },
+  {
+    "id": "ano-0019", "distretto": "ano-pelvi", "argomento": "Corpo perineale",
+    "interventi": ["sfinteroplastica"], "tipo": "flash", "livello": 2,
+    "domanda": "Cos'è il corpo perineale (centro tendineo del perineo)?",
+    "corrette": "Una massa fibromuscolare tra canale anale e vagina (o bulbo uretrale) in cui convergono sfintere esterno, bulbospongioso, muscoli trasversi del perineo, fibre dell'elevatore e setto retto-vaginale.",
+    "spiegazione": "È un punto d'ancoraggio del pavimento pelvico. Nelle lacerazioni ostetriche di III–IV grado viene coinvolto insieme allo sfintere; la ricostruzione (sfinteroplastica) ne ripristina la continuità.",
+    "fonte": { "testo": "Gray's Anatomy", "riferimento": "sezione Pelvi e perineo – perineo" },
+    "tag": ["pavimento-pelvico"], "verificata": false
+  },
+  {
+    "id": "ano-0020", "distretto": "ano-pelvi", "argomento": "Escissione extraelevatoria",
+    "interventi": ["amputazione addomino-perineale"], "tipo": "mcq", "livello": 3,
+    "domanda": "Qual è il razionale anatomico dell'amputazione addomino-perineale extraelevatoria (ELAPE)?",
+    "opzioni": ["Asportare gli elevatori con il pezzo per evitare il 'restringimento a clessidra' alla giunzione anorettale e ridurre perforazioni e margini positivi", "Preservare lo sfintere esterno", "Evitare la dissezione posteriore", "Conservare il coccige in ogni caso"],
+    "corrette": [0],
+    "spiegazione": "Nell'APR convenzionale la dissezione addominale segue il mesoretto fino agli elevatori e il pezzo si restringe proprio dove il tumore basso è più vicino al margine. L'escissione extraelevatoria (Holm) asporta il pavimento pelvico in blocco, con un pezzo cilindrico.",
+    "fonte": { "testo": "Holm T et al. Br J Surg 2007", "riferimento": "Extended abdominoperineal resection with gluteus maximus flap reconstruction of the pelvic floor" },
+    "tag": ["oncologia"], "verificata": false
+  },
+  {
+    "id": "ano-0021", "distretto": "ano-pelvi", "argomento": "Spazi perianali",
+    "interventi": ["drenaggio di ascesso perianale"], "tipo": "multi", "livello": 1,
+    "domanda": "Quali sono gli spazi in cui si raccolgono gli ascessi anorettali? Seleziona tutti i corretti.",
+    "opzioni": ["Perianale", "Ischioanale (ischiorettale)", "Intersfinterico", "Sopraelevatore", "Spazio di Retzius", "Spazio di Bogros"],
+    "corrette": [0, 1, 2, 3],
+    "spiegazione": "Gli ascessi anorettali si classificano in perianali, ischioanali, intersfinterici e sopraelevatori (più lo spazio postanale profondo). Retzius e Bogros sono spazi preperitoneali della pelvi anteriore e della regione inguinale.",
+    "fonte": { "testo": "Sabiston Textbook of Surgery", "riferimento": "cap. Anus – anorectal abscess" },
+    "tag": ["spazi"], "verificata": false
+  },
+  {
+    "id": "ano-0022", "distretto": "ano-pelvi", "argomento": "Nervo pudendo",
+    "interventi": ["fistulotomia / setone", "emorroidectomia"], "tipo": "mcq", "livello": 1,
+    "domanda": "Da quali radici origina il nervo pudendo?",
+    "opzioni": ["S2–S4", "L1–L2", "L4–S1", "T12–L1"],
+    "corrette": [0],
+    "spiegazione": "Il pudendo (S2–S4) esce dalla pelvi dal grande forame ischiatico, gira attorno alla spina ischiatica, rientra dal piccolo forame e percorre il canale di Alcock. Innerva lo sfintere esterno e la sensibilità del perineo.",
+    "fonte": { "testo": "Gray's Anatomy", "riferimento": "sezione Pelvi e perineo – nervo pudendo" },
+    "tag": ["nervi"], "verificata": false
+  },
+  {
+    "id": "ano-0023", "distretto": "ano-pelvi", "argomento": "Riconoscere strutture del canale anale",
+    "interventi": ["sfinterotomia laterale interna", "fistulotomia / setone"], "tipo": "immagine", "livello": 1,
+    "domanda": "Sezione coronale del canale anale. Quale struttura indica il punto evidenziato (1)?",
+    "opzioni": ["Sfintere anale interno", "Sfintere anale esterno", "Muscolo puborettale", "Mucosa rettale"],
+    "corrette": [0],
+    "immagine": { "src": "img/ano.svg", "hotspot": [{ "x": 44, "y": 62.5 }, { "x": 59.6, "y": 67.5 }, { "x": 34.5, "y": 72.5 }, { "x": 34.3, "y": 52.8 }, { "x": 20, "y": 36.4 }, { "x": 82.5, "y": 70 }, { "x": 80, "y": 17.5 }, { "x": 50, "y": 72.5 }, { "x": 75, "y": 93 }], "target": 0 },
+    "spiegazione": "Lo sfintere interno (1) è la continuazione ispessita della muscolatura circolare del retto, vicina al lume. Lateralmente c'è lo spazio intersfinterico (2), poi lo sfintere esterno (3).",
+    "fonte": { "testo": "Schema originale AnatoQuiz", "riferimento": "basato su Skandalakis' Surgical Anatomy, cap. Anal Canal" },
+    "tag": ["immagine", "sfinteri"], "verificata": false
+  },
+  {
+    "id": "ano-0024", "distretto": "ano-pelvi", "argomento": "Riconoscere strutture del canale anale",
+    "interventi": ["drenaggio di ascesso perianale", "fistulotomia / setone"], "tipo": "immagine", "livello": 2,
+    "domanda": "Nello schema, quale spazio indica il punto evidenziato (2), tra i due sfinteri?",
+    "opzioni": ["Spazio intersfinterico", "Fossa ischioanale", "Spazio sopraelevatore", "Spazio perianale"],
+    "corrette": [0],
+    "immagine": { "src": "img/ano.svg", "hotspot": [{ "x": 44, "y": 62.5 }, { "x": 59.6, "y": 67.5 }, { "x": 34.5, "y": 72.5 }, { "x": 34.3, "y": 52.8 }, { "x": 20, "y": 36.4 }, { "x": 82.5, "y": 70 }, { "x": 80, "y": 17.5 }, { "x": 50, "y": 72.5 }, { "x": 75, "y": 93 }], "target": 1 },
+    "spiegazione": "Lo spazio intersfinterico (2), tra sfintere interno ed esterno, è il punto di partenza degli ascessi criptoghiandolari: le ghiandole anali arrivano fin qui.",
+    "fonte": { "testo": "Schema originale AnatoQuiz", "riferimento": "basato su Parks AG et al. Br J Surg 1976" },
+    "tag": ["immagine", "spazi"], "verificata": false
+  },
+  {
+    "id": "ano-0025", "distretto": "ano-pelvi", "argomento": "Riconoscere strutture del canale anale",
+    "interventi": ["drenaggio di ascesso perianale"], "tipo": "immagine", "livello": 3,
+    "domanda": "Nello schema, quale spazio indica il punto evidenziato (6), sotto l'elevatore e lateralmente allo sfintere esterno?",
+    "opzioni": ["Fossa ischioanale", "Spazio sopraelevatore", "Spazio postanale profondo", "Spazio presacrale"],
+    "corrette": [0],
+    "immagine": { "src": "img/ano.svg", "hotspot": [{ "x": 44, "y": 62.5 }, { "x": 59.6, "y": 67.5 }, { "x": 34.5, "y": 72.5 }, { "x": 34.3, "y": 52.8 }, { "x": 20, "y": 36.4 }, { "x": 82.5, "y": 70 }, { "x": 80, "y": 17.5 }, { "x": 50, "y": 72.5 }, { "x": 75, "y": 93 }], "target": 5 },
+    "spiegazione": "La fossa ischioanale (6) è piena di grasso, sotto l'elevatore (5) e lateralmente allo sfintere esterno (3). Lo spazio sopraelevatore (7) è sopra l'elevatore, accanto al retto.",
+    "fonte": { "testo": "Schema originale AnatoQuiz", "riferimento": "basato su Skandalakis' Surgical Anatomy, cap. Anal Canal – perianal spaces" },
+    "tag": ["immagine", "spazi"], "verificata": false
+  }
+]

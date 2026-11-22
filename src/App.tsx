@@ -50,7 +50,7 @@ export default function App() {
   return (
     <>
       <Suspense fallback={<div className="p-6 text-muted">Caricamento…</div>}>{screen}</Suspense>
-      {p !== '/sessione' && <BottomNav path={p} />}
+      {p !== '/sessione' && !['id', 'card', 'img', 'nuova'].some((k) => route.params.has(k)) && <BottomNav path={p} />}
     </>
   );
 }

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+  <!-- Schema originale semplificato della regione inguinale destra in visione laparoscopica posteriore (TAPP), peritoneo aperto. Laterale = sinistra, linea mediana = destra. Non in scala. -->
+  <rect width="400" height="400" fill="#f1e2c6"/>
+  <path d="M300,0 C320,120 340,260 360,400 L400,400 L400,0 Z" fill="#efe7dc"/>
+  <path d="M330,0 C338,120 350,260 365,400" stroke="#d9c8b4" stroke-width="16" fill="none" stroke-linecap="round"/>
+  <path d="M250,340 C300,330 350,330 395,328" stroke="#ffffff" stroke-width="12" fill="none" stroke-linecap="round" opacity="0.95"/>
+  <path d="M20,215 L320,300" stroke="#f7f3ec" stroke-width="14" stroke-linecap="round"/>
+  <path d="M20,215 L320,300" stroke="#d8cdbd" stroke-width="2"/>
+  <g stroke-linecap="round" fill="none">
+    <path d="M207,290 L212,400" stroke="#c0392b" stroke-width="12"/>
+    <path d="M236,290 L242,400" stroke="#5b7fbf" stroke-width="14"/>
+    <path d="M224,232 C228,160 234,80 240,0" stroke="#c0392b" stroke-width="6"/>
+    <path d="M232,232 C236,160 242,80 248,0" stroke="#5b7fbf" stroke-width="6"/>
+    <path d="M320,370 L205,255" stroke="#f4f1ea" stroke-width="9"/>
+    <path d="M320,370 L205,255" stroke="#d6cfc2" stroke-width="2"/>
+    <path d="M110,390 L195,255" stroke="#5b7fbf" stroke-width="7"/>
+    <path d="M118,392 L199,258" stroke="#c0392b" stroke-width="3"/>
+    <path d="M90,280 L40,400" stroke="#e6c229" stroke-width="5"/>
+    <path d="M140,290 L120,400" stroke="#e6c229" stroke-width="3"/>
+  </g>
+  <ellipse cx="200" cy="250" rx="16" ry="12" fill="#5a3a2c" opacity="0.55"/>
+  <text x="10" y="18" font-family="sans-serif" font-size="11" fill="#8a7f75">Schema originale · non in scala</text>
+</svg>

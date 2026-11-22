@@ -1,0 +1,256 @@
+[
+  {
+    "id": "lap-0001", "distretto": "laparoscopia", "argomento": "Pliche ombelicali",
+    "interventi": ["TAPP", "accesso laparoscopico (posizionamento trocar)"], "tipo": "mcq", "livello": 1,
+    "domanda": "Guardando la parete addominale anteriore dall'interno, cosa solleva la plica ombelicale laterale?",
+    "opzioni": ["I vasi epigastrici inferiori", "L'arteria ombelicale obliterata", "L'uraco", "Il legamento rotondo del fegato"],
+    "corrette": [0],
+    "spiegazione": "Dalla linea mediana: plica ombelicale mediana (uraco), pliche mediali (arterie ombelicali obliterate), pliche laterali (vasi epigastrici inferiori). Tra queste si formano le fossette sopravescicale, inguinale mediale e inguinale laterale.",
+    "fonte": { "testo": "Gray's Anatomy", "riferimento": "sezione Addome – parete addominale posteriore della regione inguinale" },
+    "tag": ["reperi"], "verificata": false
+  },
+  {
+    "id": "lap-0002", "distretto": "laparoscopia", "argomento": "Fossette inguinali",
+    "interventi": ["TAPP", "TEP"], "tipo": "mcq", "livello": 1,
+    "domanda": "In visione laparoscopica, in quale fossetta si apre un'ernia inguinale indiretta?",
+    "opzioni": ["Fossetta inguinale laterale, lateralmente ai vasi epigastrici", "Fossetta inguinale mediale", "Fossetta sopravescicale", "Fossetta femorale, sopra il tratto ileopubico"],
+    "corrette": [0],
+    "spiegazione": "L'indiretta si apre nella fossetta laterale (anello interno), lateralmente ai vasi epigastrici. La diretta nella fossetta mediale (triangolo di Hesselbach). La femorale sotto il tratto ileopubico, medialmente alla vena iliaca esterna.",
+    "fonte": { "testo": "HerniaSurge Group. Hernia 2018", "riferimento": "International guidelines for groin hernia management – anatomia laparoscopica" },
+    "tag": ["inguine"], "verificata": false
+  },
+  {
+    "id": "lap-0003", "distretto": "laparoscopia", "argomento": "Triangolo 'of doom'",
+    "interventi": ["TAPP", "TEP"], "tipo": "mcq", "livello": 2,
+    "domanda": "Quali sono i limiti del cosiddetto triangolo 'of doom' e cosa contiene?",
+    "opzioni": ["Dotto deferente (mediale) e vasi gonadici (laterale), con apice all'anello interno; contiene i vasi iliaci esterni", "Vasi epigastrici e legamento ombelicale mediale; contiene la vescica", "Tratto ileopubico e vasi gonadici; contiene il nervo femorocutaneo laterale", "Legamento di Cooper e vena femorale; contiene l'arteria otturatoria"],
+    "corrette": [0],
+    "spiegazione": "Tra dotto deferente e vasi gonadici, sotto l'anello interno, decorrono arteria e vena iliaca esterna (con la circonflessa iliaca profonda). Clip, punti o tacker in questa zona possono causare emorragie gravi.",
+    "perla": "Nessun mezzo di fissazione tra deferente e vasi gonadici.",
+    "fonte": { "testo": "HerniaSurge Group. Hernia 2018", "riferimento": "International guidelines for groin hernia management – endoscopic repair" },
+    "tag": ["a-rischio", "inguine"], "verificata": false
+  },
+  {
+    "id": "lap-0004", "distretto": "laparoscopia", "argomento": "Triangolo 'of pain'",
+    "interventi": ["TAPP", "TEP"], "tipo": "mcq", "livello": 2,
+    "domanda": "Quali strutture si trovano nel cosiddetto triangolo 'of pain', lateralmente ai vasi gonadici e sotto il tratto ileopubico?",
+    "opzioni": ["Nervo femorocutaneo laterale, ramo femorale del genitofemorale e (più in profondità) nervo femorale", "Vasi iliaci esterni", "Dotto deferente e arteria testicolare", "Arteria otturatoria e nervo otturatorio"],
+    "corrette": [0],
+    "spiegazione": "Lateralmente ai vasi gonadici e sotto il tratto ileopubico decorrono i nervi sensitivi della coscia sul muscolo ileopsoas. La fissazione in quest'area causa nevralgie croniche.",
+    "fonte": { "testo": "HerniaSurge Group. Hernia 2018", "riferimento": "International guidelines for groin hernia management – endoscopic repair" },
+    "tag": ["a-rischio", "nervi"], "verificata": false
+  },
+  {
+    "id": "lap-0005", "distretto": "laparoscopia", "argomento": "Meralgia parestesica dopo TAPP",
+    "interventi": ["TAPP", "TEP"], "tipo": "mcq", "livello": 3,
+    "domanda": "Dopo una TAPP il paziente riferisce bruciore e ipoestesia della faccia anterolaterale della coscia. Quale nervo è stato probabilmente intrappolato e dove?",
+    "opzioni": ["Il femorocutaneo laterale, da un tacker sotto il tratto ileopubico, lateralmente", "L'ileoinguinale, nel canale inguinale", "Il nervo otturatorio, sul legamento di Cooper", "Il nervo pudendo"],
+    "corrette": [0],
+    "spiegazione": "Il femorocutaneo laterale decorre sotto il tratto ileopubico, vicino alla spina iliaca anterosuperiore, nel triangolo 'of pain'. Un mezzo di fissazione posto sotto il tratto, lateralmente, può intrappolarlo (meralgia parestesica).",
+    "perla": "Lateralmente fissa solo sopra il tratto ileopubico, palpando la punta dello strumento dall'esterno con l'altra mano.",
+    "fonte": { "testo": "HerniaSurge Group. Hernia 2018", "riferimento": "International guidelines for groin hernia management – chronic pain" },
+    "tag": ["correlazione", "a-rischio", "nervi"], "verificata": false
+  },
+  {
+    "id": "lap-0006", "distretto": "laparoscopia", "argomento": "Tratto ileopubico",
+    "interventi": ["TAPP", "TEP"], "tipo": "mcq", "livello": 2,
+    "domanda": "Perché il tratto ileopubico è un repere chiave nella riparazione laparoscopica?",
+    "opzioni": ["Perché sotto di esso, lateralmente ai vasi, non si deve fissare la rete (nervi del triangolo 'of pain')", "Perché va sempre inciso per posizionare la rete", "Perché contiene i vasi epigastrici", "Perché segna il limite superiore della dissezione"],
+    "corrette": [0],
+    "spiegazione": "Il tratto ileopubico è una banda aponeurotica della fascia trasversale, parallela e profonda al legamento inguinale, visibile dalla visione posteriore. Divide la regione in una parte superiore (sicura per la fissazione) e una inferiore (vasi e nervi).",
+    "fonte": { "testo": "Skandalakis' Surgical Anatomy", "riferimento": "cap. Abdominal Wall and Hernias – iliopubic tract" },
+    "tag": ["reperi", "a-rischio"], "verificata": false
+  },
+  {
+    "id": "lap-0007", "distretto": "laparoscopia", "argomento": "Dimensioni della rete",
+    "interventi": ["TAPP", "TEP"], "tipo": "mcq", "livello": 2,
+    "domanda": "Quali dimensioni minime della rete raccomandano le linee guida HerniaSurge per TAPP/TEP nell'adulto?",
+    "opzioni": ["Almeno 10 × 15 cm", "5 × 10 cm", "Esattamente le dimensioni del difetto", "30 × 30 cm"],
+    "corrette": [0],
+    "spiegazione": "Una rete di almeno 10 × 15 cm copre l'intero orifizio miopettineo con sovrapposizione adeguata. Reti più piccole si associano a recidive, soprattutto per i difetti diretti grandi.",
+    "fonte": { "testo": "HerniaSurge Group. Hernia 2018", "riferimento": "International guidelines for groin hernia management – mesh size" },
+    "tag": ["inguine"], "verificata": false
+  },
+  {
+    "id": "lap-0008", "distretto": "laparoscopia", "argomento": "Critical view dell'orifizio miopettineo",
+    "interventi": ["TAPP", "TEP"], "tipo": "flash", "livello": 2,
+    "domanda": "Cosa si intende per 'critical view of the myopectineal orifice' prima di posizionare la rete?",
+    "corrette": "Un controllo di sicurezza: tutto l'orifizio miopettineo è esposto (pube e Cooper, tratto ileopubico, vasi epigastrici, anello interno), gli elementi del funicolo sono parietalizzati e gli spazi di Retzius e di Bogros sono dissecati quanto basta per stendere la rete senza pieghe.",
+    "spiegazione": "Il concetto è analogo alla CVS della colecistectomia: una lista di elementi da verificare prima di un passaggio critico. Riduce recidive (rete sollevata o troppo piccola) e lesioni.",
+    "fonte": { "testo": "Daes J, Felix E. Ann Surg 2017", "riferimento": "Critical view of the myopectineal orifice" },
+    "tag": ["orifizio-miopettineo"], "verificata": false
+  },
+  {
+    "id": "lap-0009", "distretto": "laparoscopia", "argomento": "Spazi di Retzius e Bogros",
+    "interventi": ["TAPP", "TEP"], "tipo": "mcq", "livello": 2,
+    "domanda": "Cosa sono lo spazio di Retzius e lo spazio di Bogros?",
+    "opzioni": ["Retzius: spazio retropubico prevescicale (mediale); Bogros: spazio preperitoneale laterale, in continuità con Retzius", "Retzius: spazio tra retto e sacro; Bogros: spazio ischioanale", "Sono due nomi dello stesso spazio intersfinterico", "Retzius: spazio retromuscolare del retto; Bogros: guaina del retto"],
+    "corrette": [0],
+    "spiegazione": "Nella TEP/TAPP si sviluppano medialmente lo spazio di Retzius (davanti alla vescica, fino a pube e Cooper) e lateralmente lo spazio di Bogros (verso la spina iliaca). Insieme accolgono la rete preperitoneale.",
+    "fonte": { "testo": "Skandalakis' Surgical Anatomy", "riferimento": "cap. Abdominal Wall and Hernias – preperitoneal space" },
+    "tag": ["spazi"], "verificata": false
+  },
+  {
+    "id": "lap-0010", "distretto": "laparoscopia", "argomento": "TEP e TAPP",
+    "interventi": ["TAPP", "TEP"], "tipo": "multi", "livello": 2,
+    "domanda": "Quali affermazioni su TEP e TAPP sono corrette? Seleziona tutte le corrette.",
+    "opzioni": ["Nella TEP non si entra nella cavità peritoneale", "Nella TAPP il lembo peritoneale va richiuso dopo aver posizionato la rete", "In entrambe la rete è preperitoneale", "Nella TEP la rete è intraperitoneale", "Nella TAPP la rete sta sotto l'aponeurosi dell'obliquo esterno"],
+    "corrette": [0, 1, 2],
+    "spiegazione": "Entrambe posizionano la rete nello spazio preperitoneale, dietro la fascia trasversale. La TAPP passa per la cavità e richiede la chiusura del peritoneo; la TEP lavora tutta nello spazio preperitoneale.",
+    "fonte": { "testo": "HerniaSurge Group. Hernia 2018", "riferimento": "International guidelines for groin hernia management – endoscopic repair" },
+    "tag": ["inguine"], "verificata": false
+  },
+  {
+    "id": "lap-0011", "distretto": "laparoscopia", "argomento": "Origine dell'arteria epigastrica inferiore",
+    "interventi": ["TAPP", "accesso laparoscopico (posizionamento trocar)"], "tipo": "mcq", "livello": 1,
+    "domanda": "Da dove nasce l'arteria epigastrica inferiore?",
+    "opzioni": ["Dall'arteria iliaca esterna, subito sopra il legamento inguinale", "Dall'arteria toracica interna", "Dall'arteria iliaca interna", "Dall'arteria femorale profonda"],
+    "corrette": [0],
+    "spiegazione": "L'epigastrica inferiore nasce dall'iliaca esterna appena prima che diventi femorale. Sale medialmente all'anello inguinale profondo, entra nella guaina del retto e si anastomizza con l'epigastrica superiore (dalla toracica interna).",
+    "fonte": { "testo": "Gray's Anatomy", "riferimento": "sezione Addome – arteria epigastrica inferiore" },
+    "tag": ["vasi"], "verificata": false
+  },
+  {
+    "id": "lap-0012", "distretto": "laparoscopia", "argomento": "Trocar laterali e vasi epigastrici",
+    "interventi": ["accesso laparoscopico (posizionamento trocar)"], "tipo": "mcq", "livello": 2,
+    "domanda": "Come si riduce il rischio di lesionare i vasi epigastrici inferiori con i trocar laterali?",
+    "opzioni": ["Inserire i trocar sotto visione, lateralmente al margine del retto e ai vasi visibili sulla parete (plica laterale)", "Affidarsi alla transilluminazione cutanea, che mostra sempre i vasi epigastrici inferiori", "Inserire i trocar sulla linea emiclaveare in ogni paziente senza guardare", "Usare solo trocar da 12 mm"],
+    "corrette": [0],
+    "spiegazione": "Gli epigastrici inferiori decorrono dietro il retto e si vedono dall'interno come plica laterale. La transilluminazione mostra i vasi superficiali, non in modo affidabile gli inferiori, che sono profondi. Il trocar va inserito sotto visione laparoscopica, lateralmente a essi.",
+    "perla": "Se un trocar laterale sanguina dalla parete, non rimuoverlo: usalo come tampone e preparati a una sutura transfasciale.",
+    "fonte": { "testo": "Sabiston Textbook of Surgery", "riferimento": "cap. Minimally Invasive Surgery – trocar complications" },
+    "tag": ["a-rischio", "correlazione", "trocar"], "verificata": false
+  },
+  {
+    "id": "lap-0013", "distretto": "laparoscopia", "argomento": "Punto di Palmer",
+    "interventi": ["accesso laparoscopico (posizionamento trocar)"], "tipo": "mcq", "livello": 1,
+    "domanda": "Dove si trova il punto di Palmer e quando si usa?",
+    "opzioni": ["Circa 3 cm sotto l'arcata costale sinistra, sulla linea emiclaveare; nei pazienti con pregresse laparotomie mediane", "All'ombelico, per tutti i pazienti", "Nella fossa iliaca destra; nella gravidanza avanzata", "Sotto lo xifoide; per la colecistectomia"],
+    "corrette": [0],
+    "spiegazione": "Il quadrante superiore sinistro è raramente sede di aderenze dopo chirurgia mediana. Prima dell'accesso si decomprime lo stomaco con un sondino; controindicazioni relative sono splenomegalia e pregressa chirurgia di quella regione.",
+    "fonte": { "testo": "Sabiston Textbook of Surgery", "riferimento": "cap. Minimally Invasive Surgery – abdominal access" },
+    "tag": ["trocar"], "verificata": false
+  },
+  {
+    "id": "lap-0014", "distretto": "laparoscopia", "argomento": "Ago di Veress e grandi vasi",
+    "interventi": ["accesso laparoscopico (posizionamento trocar)"], "tipo": "mcq", "livello": 2,
+    "domanda": "Perché l'ingresso alla cieca all'ombelico è più rischioso nei pazienti magri?",
+    "opzioni": ["Perché la biforcazione aortica e la vena iliaca comune sinistra sono a pochi centimetri sotto l'ombelico", "Perché il fegato è più grande", "Perché la vescica arriva all'ombelico", "Perché il peritoneo è più spesso"],
+    "corrette": [0],
+    "spiegazione": "La biforcazione aortica è di solito vicino al livello dell'ombelico (circa L4), con la confluenza delle vene iliache appena sotto. Nei pazienti magri la distanza tra cute e grandi vasi è minima: l'ago va diretto verso la pelvi, non perpendicolare.",
+    "fonte": { "testo": "Sabiston Textbook of Surgery", "riferimento": "cap. Minimally Invasive Surgery – abdominal access" },
+    "tag": ["trocar", "a-rischio"], "verificata": false
+  },
+  {
+    "id": "lap-0015", "distretto": "laparoscopia", "argomento": "Tecnica open (Hasson)",
+    "interventi": ["accesso laparoscopico (posizionamento trocar)"], "tipo": "mcq", "livello": 1,
+    "domanda": "Qual è il vantaggio principale della tecnica open (Hasson) per il primo trocar?",
+    "opzioni": ["L'ingresso in cavità avviene sotto visione diretta della fascia e del peritoneo, utile soprattutto con possibili aderenze", "Non richiede incisione della fascia", "Elimina sempre la necessità di insufflare", "Permette di evitare i trocar operativi"],
+    "corrette": [0],
+    "spiegazione": "Con la tecnica open si incide la fascia e si apre il peritoneo sotto visione, poi si introduce un trocar a punta smussa. Non elimina del tutto il rischio di lesioni, ma evita la puntura alla cieca.",
+    "fonte": { "testo": "Sabiston Textbook of Surgery", "riferimento": "cap. Minimally Invasive Surgery – abdominal access" },
+    "tag": ["trocar"], "verificata": false
+  },
+  {
+    "id": "lap-0016", "distretto": "laparoscopia", "argomento": "Sequenza della TAPP",
+    "interventi": ["TAPP"], "tipo": "ordina", "livello": 2,
+    "domanda": "Ordina i passaggi principali di una TAPP.",
+    "opzioni": ["Incisione del peritoneo dalla spina iliaca anterosuperiore al legamento ombelicale mediale", "Sviluppo dello spazio di Retzius (mediale) e di Bogros (laterale)", "Riduzione del sacco e parietalizzazione degli elementi del funicolo", "Verifica della 'critical view' dell'orifizio miopettineo", "Posizionamento della rete", "Chiusura del lembo peritoneale"],
+    "corrette": [0, 1, 2, 3, 4, 5],
+    "spiegazione": "Il lembo peritoneale si apre sopra l'orifizio miopettineo. Dopo la dissezione degli spazi e la gestione del sacco si verifica che tutto l'orifizio sia esposto, si stende la rete e si richiude il peritoneo per non lasciarla a contatto con i visceri.",
+    "fonte": { "testo": "HerniaSurge Group. Hernia 2018", "riferimento": "International guidelines for groin hernia management – TAPP technique" },
+    "tag": ["sequenza"], "verificata": false
+  },
+  {
+    "id": "lap-0017", "distretto": "laparoscopia", "argomento": "Corona mortis in visione laparoscopica",
+    "interventi": ["TAPP", "TEP"], "tipo": "mcq", "livello": 3,
+    "domanda": "Variante: dissecando lo spazio di Retzius si vede un vaso che incrocia il ramo pubico superiore verso il forame otturatorio. Cosa si fa?",
+    "opzioni": ["Si riconosce come possibile corona mortis (frequenza molto variabile tra le serie, da meno del 20% a oltre il 50% includendo le forme venose) e si evita di fissare la rete o dissecare su di esso", "Lo si coagula sempre di routine", "Lo si ignora: è sempre una vena di piccolo calibro senza conseguenze", "Si converte in open"],
+    "corrette": [0],
+    "spiegazione": "La corona mortis collega i vasi otturatori agli epigastrici o iliaci esterni sopra il legamento di Cooper. In laparoscopia è ben visibile: va rispettata durante la dissezione e la fissazione mediale.",
+    "fonte": { "testo": "Skandalakis' Surgical Anatomy", "riferimento": "cap. Abdominal Wall and Hernias (obturator vessels)" },
+    "tag": ["variante", "a-rischio"], "verificata": false
+  },
+  {
+    "id": "lap-0018", "distretto": "laparoscopia", "argomento": "Primo repere nella TAPP",
+    "interventi": ["TAPP"], "tipo": "flash", "livello": 1,
+    "domanda": "Qual è il primo repere da cercare entrando in visione laparoscopica sulla regione inguinale, e perché?",
+    "corrette": "I vasi epigastrici inferiori (plica ombelicale laterale): separano la fossetta laterale (ernia indiretta) dalla mediale (ernia diretta).",
+    "spiegazione": "Prima di aprire il peritoneo si identificano anche il legamento ombelicale mediale, i vasi gonadici e il deferente in trasparenza, per pianificare l'incisione e il lembo.",
+    "fonte": { "testo": "HerniaSurge Group. Hernia 2018", "riferimento": "International guidelines for groin hernia management – endoscopic anatomy" },
+    "tag": ["reperi"], "verificata": false
+  },
+  {
+    "id": "lap-0019", "distretto": "laparoscopia", "argomento": "Triangolazione dei trocar",
+    "interventi": ["accesso laparoscopico (posizionamento trocar)", "colecistectomia VLS"], "tipo": "mcq", "livello": 1,
+    "domanda": "Cosa indica il principio del 'diamante da baseball' nel posizionamento dei trocar?",
+    "opzioni": ["Ottica dietro e in asse con il bersaglio, strumenti operativi ai due lati, in modo da lavorare con un angolo tra gli strumenti", "Tutti i trocar in linea sulla stessa orizzontale", "Ottica e strumenti tutti vicini sullo stesso lato", "Trocar il più lontano possibile dal bersaglio, senza criteri"],
+    "corrette": [0],
+    "spiegazione": "Il bersaglio sta alla 'seconda base', l'ottica a 'casa base' e gli strumenti alle basi laterali. Così si ottengono triangolazione, buona visione e strumenti che non si ostacolano.",
+    "fonte": { "testo": "Sabiston Textbook of Surgery", "riferimento": "cap. Minimally Invasive Surgery – port placement" },
+    "tag": ["trocar"], "verificata": false
+  },
+  {
+    "id": "lap-0020", "distretto": "laparoscopia", "argomento": "Vescica e spazio di Retzius",
+    "interventi": ["TEP", "TAPP"], "tipo": "mcq", "livello": 2,
+    "domanda": "Quale precauzione riduce il rischio di lesione vescicale durante la dissezione dello spazio di Retzius?",
+    "opzioni": ["Svuotare la vescica (minzione prima dell'intervento o catetere) e dissecare a contatto del pube", "Riempire la vescica per renderla visibile", "Dissecare lontano dal pube, in profondità nella pelvi", "Non serve nessuna precauzione"],
+    "corrette": [0],
+    "spiegazione": "La vescica piena occupa lo spazio prevescicale e può essere aperta. Restare a contatto del pube e del Cooper mantiene la dissezione davanti alla vescica. Nei pazienti con pregressa chirurgia pelvica o prostatica lo spazio può essere obliterato.",
+    "fonte": { "testo": "HerniaSurge Group. Hernia 2018", "riferimento": "International guidelines for groin hernia management – complications" },
+    "tag": ["correlazione", "a-rischio", "spazi"], "verificata": false
+  },
+  {
+    "id": "lap-0021", "distretto": "laparoscopia", "argomento": "Parietalizzazione",
+    "interventi": ["TAPP", "TEP"], "tipo": "mcq", "livello": 3,
+    "domanda": "Perché nella TEP/TAPP bisogna parietalizzare adeguatamente dotto deferente e vasi gonadici?",
+    "opzioni": ["Perché il bordo inferiore della rete deve poggiare sulla parete senza che il peritoneo vi scivoli sotto, causando una recidiva", "Per legare i vasi gonadici", "Per sezionare il deferente nei pazienti anziani", "Per aprire l'anello inguinale interno"],
+    "corrette": [0],
+    "spiegazione": "La parietalizzazione separa deferente e vasi gonadici dal peritoneo per un tratto sufficiente in direzione craniale-caudale. Così il margine inferiore della rete aderisce alla parete posteriore e il peritoneo non si insinua sotto la rete.",
+    "fonte": { "testo": "Daes J, Felix E. Ann Surg 2017", "riferimento": "Critical view of the myopectineal orifice" },
+    "tag": ["correlazione", "inguine"], "verificata": false
+  },
+  {
+    "id": "lap-0022", "distretto": "laparoscopia", "argomento": "Strutture visibili prima di aprire il peritoneo",
+    "interventi": ["TAPP"], "tipo": "multi", "livello": 1,
+    "domanda": "Quali strutture si vedono di solito nella regione inguinale destra prima di aprire il peritoneo, in TAPP? Seleziona tutte le corrette.",
+    "opzioni": ["Vasi epigastrici inferiori", "Legamento ombelicale mediale", "Dotto deferente (in trasparenza)", "Vasi gonadici (in trasparenza)", "Nervo femorale"],
+    "corrette": [0, 1, 2, 3],
+    "spiegazione": "Le prime quattro strutture si riconoscono attraverso il peritoneo e orientano l'incisione. Il nervo femorale decorre profondamente nel solco tra iliaco e psoas, sotto la fascia, e non si vede.",
+    "fonte": { "testo": "HerniaSurge Group. Hernia 2018", "riferimento": "International guidelines for groin hernia management – endoscopic anatomy" },
+    "tag": ["reperi"], "verificata": false
+  },
+  {
+    "id": "lap-0023", "distretto": "laparoscopia", "argomento": "Riconoscere le strutture in TAPP",
+    "interventi": ["TAPP", "TEP"], "tipo": "immagine", "livello": 1,
+    "domanda": "Regione inguinale destra in visione laparoscopica, peritoneo aperto (laterale a sinistra). Quale struttura indica il punto evidenziato (2), diretta medialmente verso la pelvi?",
+    "opzioni": ["Dotto deferente", "Vasi gonadici", "Arteria ombelicale", "Uretere"],
+    "corrette": [0],
+    "immagine": { "src": "img/tapp.svg", "hotspot": [{ "x": 58, "y": 30 }, { "x": 70, "y": 82.5 }, { "x": 37.5, "y": 81.5 }, { "x": 22.5, "y": 58.8 }, { "x": 87.5, "y": 83.3 }, { "x": 55.5, "y": 87.5 }, { "x": 16.3, "y": 85 }, { "x": 50, "y": 62.5 }, { "x": 84, "y": 30 }], "target": 1 },
+    "spiegazione": "Dall'anello interno (8) il deferente (2) va medialmente verso la pelvi, i vasi gonadici (3) lateralmente. Tra i due c'è il triangolo 'of doom' con i vasi iliaci esterni (6).",
+    "fonte": { "testo": "Schema originale AnatoQuiz", "riferimento": "basato su HerniaSurge Group. Hernia 2018" },
+    "tag": ["immagine", "inguine"], "verificata": false
+  },
+  {
+    "id": "lap-0024", "distretto": "laparoscopia", "argomento": "Riconoscere le strutture in TAPP",
+    "interventi": ["TAPP", "TEP"], "tipo": "immagine", "livello": 2,
+    "domanda": "Nello schema, cosa indica il punto evidenziato (6), tra deferente e vasi gonadici?",
+    "opzioni": ["Vasi iliaci esterni (triangolo 'of doom')", "Vasi epigastrici inferiori", "Corona mortis", "Vasi otturatori"],
+    "corrette": [0],
+    "immagine": { "src": "img/tapp.svg", "hotspot": [{ "x": 58, "y": 30 }, { "x": 70, "y": 82.5 }, { "x": 37.5, "y": 81.5 }, { "x": 22.5, "y": 58.8 }, { "x": 87.5, "y": 83.3 }, { "x": 55.5, "y": 87.5 }, { "x": 16.3, "y": 85 }, { "x": 50, "y": 62.5 }, { "x": 84, "y": 30 }], "target": 5 },
+    "spiegazione": "Nel triangolo 'of doom' decorrono arteria e vena iliaca esterna (6): nessun mezzo di fissazione in quest'area.",
+    "fonte": { "testo": "Schema originale AnatoQuiz", "riferimento": "basato su HerniaSurge Group. Hernia 2018" },
+    "tag": ["immagine", "a-rischio"], "verificata": false
+  },
+  {
+    "id": "lap-0025", "distretto": "laparoscopia", "argomento": "Riconoscere le strutture in TAPP",
+    "interventi": ["TAPP", "TEP"], "tipo": "immagine", "livello": 3,
+    "domanda": "Nello schema, quale nervo indica il punto evidenziato (7), lateralmente sotto il tratto ileopubico?",
+    "opzioni": ["Nervo femorocutaneo laterale", "Nervo ileoinguinale", "Nervo otturatorio", "Ramo genitale del genitofemorale"],
+    "corrette": [0],
+    "immagine": { "src": "img/tapp.svg", "hotspot": [{ "x": 58, "y": 30 }, { "x": 70, "y": 82.5 }, { "x": 37.5, "y": 81.5 }, { "x": 22.5, "y": 58.8 }, { "x": 87.5, "y": 83.3 }, { "x": 55.5, "y": 87.5 }, { "x": 16.3, "y": 85 }, { "x": 50, "y": 62.5 }, { "x": 84, "y": 30 }], "target": 6 },
+    "spiegazione": "Il femorocutaneo laterale (7) decorre nel triangolo 'of pain', sotto il tratto ileopubico (4), verso la spina iliaca anterosuperiore. Più medialmente decorre il ramo femorale del genitofemorale.",
+    "fonte": { "testo": "Schema originale AnatoQuiz", "riferimento": "basato su HerniaSurge Group. Hernia 2018" },
+    "tag": ["immagine", "nervi", "a-rischio"], "verificata": false
+  }
+]

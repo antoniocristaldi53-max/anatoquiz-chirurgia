@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+  <!-- Schema originale semplificato dello iato esofageo in visione laparoscopica (dopo dissezione). Non in scala. -->
+  <rect width="400" height="400" fill="#d9a796"/>
+  <!-- vena cava inferiore (forame cavale) -->
+  <ellipse cx="60" cy="60" rx="34" ry="22" fill="#6f8fc8"/>
+  <!-- pilastri -->
+  <path d="M150,40 C140,140 160,260 200,330" stroke="#a5584c" stroke-width="26" fill="none" stroke-linecap="round"/>
+  <path d="M260,40 C275,140 245,260 200,330" stroke="#a5584c" stroke-width="26" fill="none" stroke-linecap="round"/>
+  <!-- aorta -->
+  <circle cx="200" cy="364" r="24" fill="#cf5b4e" stroke="#9e3b30" stroke-width="2"/>
+  <!-- milza e vasi gastrici brevi -->
+  <ellipse cx="382" cy="120" rx="30" ry="56" fill="#8e4a5a"/>
+  <g stroke="#c0392b" stroke-width="4" stroke-linecap="round"><line x1="330" y1="212" x2="362" y2="160"/><line x1="348" y1="220" x2="376" y2="170"/></g>
+  <!-- esofago e stomaco -->
+  <path d="M170,60 H230 V250 C240,300 280,330 330,320 C380,305 385,235 340,215 C300,200 250,215 232,245 L230,250 Z" fill="#eab6a6" stroke="#b9837a" stroke-width="2"/>
+  <path d="M170,60 V260 C175,300 200,320 232,318" fill="none" stroke="#b9837a" stroke-width="2"/>
+  <!-- vago posteriore (dietro l'esofago) -->
+  <path d="M234,95 C236,150 237,200 238,255" stroke="#e6c229" stroke-width="4" fill="none" stroke-dasharray="7 5"/>
+  <!-- vago anteriore e ramo epatico -->
+  <path d="M190,70 C193,120 200,190 205,250" stroke="#e6c229" stroke-width="5" fill="none" stroke-linecap="round"/>
+  <path d="M196,150 C160,145 120,150 40,135" stroke="#e6c229" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <text x="392" y="392" font-family="sans-serif" font-size="11" fill="#5e4a44" text-anchor="end">Schema originale · non in scala</text>
+</svg>

@@ -1,0 +1,285 @@
+[
+  {
+    "id": "collo-0001", "distretto": "collo", "argomento": "Decorso dei nervi laringei ricorrenti",
+    "interventi": ["tiroidectomia totale", "lobectomia tiroidea"], "tipo": "mcq", "livello": 1,
+    "domanda": "Attorno a quale struttura risale il nervo laringeo ricorrente destro?",
+    "opzioni": ["Arteria succlavia destra", "Arco aortico", "Arteria carotide comune destra", "Tronco brachiocefalico venoso"],
+    "corrette": [0],
+    "spiegazione": "Il ricorrente destro si stacca dal vago e gira sotto l'arteria succlavia destra. Il sinistro gira sotto l'arco aortico, lateralmente al legamento arterioso. Per questo il destro sale più obliquo e più laterale, il sinistro più verticale nel solco tracheoesofageo.",
+    "perla": "A destra il nervo può comparire più laterale e più anteriore rispetto al solco tracheoesofageo: cercalo con più attenzione nel tessuto paratracheale.",
+    "fonte": { "testo": "Skandalakis' Surgical Anatomy", "riferimento": "cap. Neck – Thyroid gland" },
+    "tag": ["ricorrente", "a-rischio"], "verificata": false
+  },
+  {
+    "id": "collo-0002", "distretto": "collo", "argomento": "Nervo laringeo inferiore non ricorrente",
+    "interventi": ["tiroidectomia totale", "lobectomia tiroidea"], "tipo": "mcq", "livello": 3,
+    "domanda": "Variante: con quale frequenza si trova un nervo laringeo inferiore non ricorrente a destra, e a quale anomalia vascolare è associato?",
+    "opzioni": ["Circa 0,3–0,8%; arteria succlavia destra retroesofagea (lusoria)", "Circa 5–10%; arco aortico destro", "Circa 20%; arteria tiroidea ima", "Circa 0,3–0,8%; arteria vertebrale sinistra dall'arco"],
+    "corrette": [0],
+    "spiegazione": "A destra il nervo non ricorrente si trova in circa lo 0,3–0,8% dei casi. Si associa quasi sempre a un'arteria succlavia destra aberrante, che nasce come ultimo ramo dell'arco e passa dietro l'esofago. Il nervo esce dal vago a livello cervicale e va direttamente alla laringe, spesso insieme all'arteria tiroidea inferiore. A sinistra è eccezionale (situs inversus).",
+    "perla": "Se a destra non trovi il nervo nel solco tracheoesofageo, non sezionare strutture trasversali che vanno dal fascio carotideo alla laringe: potrebbero essere il nervo. Una TC che mostra una succlavia lusoria è un allarme preoperatorio.",
+    "fonte": { "testo": "Skandalakis' Surgical Anatomy", "riferimento": "cap. Neck – Thyroid gland (nonrecurrent inferior laryngeal nerve)" },
+    "tag": ["variante", "ricorrente", "a-rischio"], "verificata": false
+  },
+  {
+    "id": "collo-0003", "distretto": "collo", "argomento": "Ramo esterno del nervo laringeo superiore",
+    "interventi": ["tiroidectomia totale", "lobectomia tiroidea"], "tipo": "mcq", "livello": 2,
+    "domanda": "Durante la legatura dei vasi del polo superiore, quale nervo è a rischio e quale deficit causa la sua lesione?",
+    "opzioni": ["Ramo esterno del laringeo superiore: paralisi del cricotiroideo, perdita delle note acute e voce che si stanca", "Ricorrente: paralisi della corda vocale con disfonia marcata", "Ramo interno del laringeo superiore: paralisi del cricotiroideo", "Ipoglosso: deviazione della lingua"],
+    "corrette": [0],
+    "spiegazione": "Il ramo esterno del nervo laringeo superiore innerva il muscolo cricotiroideo, che tende la corda vocale. Decorre sul costrittore inferiore, spesso vicino ai vasi tiroidei superiori. La sua lesione riduce la capacità di raggiungere le note acute e causa affaticamento vocale, con laringoscopia spesso quasi normale.",
+    "perla": "Lega i rami dei vasi tiroidei superiori singolarmente, a contatto della capsula del polo superiore, e non in blocco più in alto.",
+    "fonte": { "testo": "Cernea CR et al. Head Neck 1992", "riferimento": "Surgical anatomy of the external branch of the superior laryngeal nerve" },
+    "tag": ["correlazione", "a-rischio", "laringeo-superiore"], "verificata": false
+  },
+  {
+    "id": "collo-0004", "distretto": "collo", "argomento": "Classificazione di Cernea",
+    "interventi": ["tiroidectomia totale", "lobectomia tiroidea"], "tipo": "mcq", "livello": 3,
+    "domanda": "Nella classificazione di Cernea, quale tipo di decorso del ramo esterno del laringeo superiore è più a rischio?",
+    "opzioni": ["Tipo 2b: incrocia i vasi tiroidei superiori sotto il margine del polo superiore", "Tipo 1: incrocia i vasi più di 1 cm sopra il polo superiore", "Tipo 2a: incrocia i vasi entro 1 cm sopra il polo superiore", "Il rischio è uguale in tutti i tipi"],
+    "corrette": [0],
+    "spiegazione": "Cernea classifica il nervo in base al punto in cui incrocia i vasi tiroidei superiori rispetto al margine del polo superiore: tipo 1 a più di 1 cm sopra, tipo 2a entro 1 cm sopra, tipo 2b sotto il margine. Il 2b è il più esposto alla legatura del polo, soprattutto nei gozzi voluminosi.",
+    "fonte": { "testo": "Cernea CR et al. Head Neck 1992", "riferimento": "Surgical anatomy of the external branch of the superior laryngeal nerve" },
+    "tag": ["laringeo-superiore", "a-rischio"], "verificata": false
+  },
+  {
+    "id": "collo-0005", "distretto": "collo", "argomento": "Lesione ricorrenziale bilaterale",
+    "interventi": ["tiroidectomia totale"], "tipo": "mcq", "livello": 2,
+    "domanda": "Durante una tiroidectomia totale si ledono entrambi i ricorrenti. Quale quadro è tipico dopo l'estubazione?",
+    "opzioni": ["Corde vocali in posizione paramediana: stridore e ostruzione delle vie aeree, spesso con necessità di reintubazione o tracheostomia", "Sola disfonia lieve, senza problemi respiratori", "Corde in abduzione completa con voce normale", "Disfagia isolata per i solidi"],
+    "corrette": [0],
+    "spiegazione": "Con la paralisi bilaterale le corde restano in posizione paramediana: la voce può essere quasi normale, ma la glottide è stretta e compare stridore con ostruzione respiratoria. La lesione monolaterale causa invece soprattutto disfonia e rischio di aspirazione.",
+    "perla": "Se all'IONM perdi il segnale sul primo lato, valuta di non operare il secondo lato nella stessa seduta (tiroidectomia in due tempi).",
+    "fonte": { "testo": "Sabiston Textbook of Surgery", "riferimento": "cap. Thyroid" },
+    "tag": ["correlazione", "ricorrente", "a-rischio"], "verificata": false
+  },
+  {
+    "id": "collo-0006", "distretto": "collo", "argomento": "Reperi per identificare il ricorrente",
+    "interventi": ["tiroidectomia totale", "lobectomia tiroidea"], "tipo": "multi", "livello": 2,
+    "domanda": "Quali sono reperi utili per trovare il nervo laringeo ricorrente? Seleziona tutti i corretti.",
+    "opzioni": ["Solco tracheoesofageo", "Incrocio con l'arteria tiroidea inferiore", "Tubercolo di Zuckerkandl", "Legamento di Berry, vicino al punto di ingresso in laringe", "Faccia anteriore della carotide comune", "Peduncolo vascolare tiroideo superiore"],
+    "corrette": [0, 1, 2, 3],
+    "spiegazione": "Il nervo sale nel solco tracheoesofageo, incrocia l'arteria tiroidea inferiore (davanti, dietro o tra i suoi rami) e passa di solito medialmente al tubercolo di Zuckerkandl. Entra in laringe sotto il costrittore inferiore, vicino al legamento di Berry. Non decorre sulla carotide né con i vasi tiroidei superiori.",
+    "perla": "Il rapporto con l'arteria tiroidea inferiore varia: non legare il tronco dell'arteria lateralmente prima di aver visto il nervo.",
+    "fonte": { "testo": "Skandalakis' Surgical Anatomy", "riferimento": "cap. Neck – Thyroid gland" },
+    "tag": ["ricorrente", "a-rischio"], "verificata": false
+  },
+  {
+    "id": "collo-0007", "distretto": "collo", "argomento": "Tubercolo di Zuckerkandl",
+    "interventi": ["tiroidectomia totale", "lobectomia tiroidea"], "tipo": "flash", "livello": 2,
+    "domanda": "Cos'è il tubercolo di Zuckerkandl e che rapporto ha con il ricorrente?",
+    "corrette": "Una sporgenza posterolaterale del lobo tiroideo, a livello del legamento di Berry. Il ricorrente decorre di solito medialmente e in profondità rispetto al tubercolo, che lo 'indica'.",
+    "spiegazione": "Ruotando medialmente il tubercolo si trova il nervo subito sotto. Un tubercolo voluminoso può spostare il nervo e farlo decorrere più vicino alla superficie del lobo.",
+    "perla": "Non sezionare il tessuto mediale al tubercolo senza aver visto il nervo: lì il ricorrente è più vicino che in qualsiasi altro punto.",
+    "fonte": { "testo": "Skandalakis' Surgical Anatomy", "riferimento": "cap. Neck – Thyroid gland" },
+    "tag": ["ricorrente"], "verificata": false
+  },
+  {
+    "id": "collo-0008", "distretto": "collo", "argomento": "Embriologia delle paratiroidi",
+    "interventi": ["tiroidectomia totale", "paratiroidectomia"], "tipo": "mcq", "livello": 1,
+    "domanda": "Perché le paratiroidi inferiori hanno una posizione più variabile delle superiori?",
+    "opzioni": ["Derivano dalla III tasca faringea e migrano con il timo", "Derivano dalla IV tasca e migrano con la tiroide", "Derivano dal dotto tireoglosso", "Non migrano e restano nel mediastino posteriore"],
+    "corrette": [0],
+    "spiegazione": "Le paratiroidi inferiori derivano dalla III tasca faringea insieme al timo e scendono più lontano: possono trovarsi dalla regione sottomandibolare al mediastino anteriore (lingua timica, timo). Le superiori derivano dalla IV tasca, migrano poco e hanno una posizione più costante.",
+    "perla": "Se manca una paratiroide inferiore, cerca nella lingua timica e nel legamento tireotimico prima di esplorare altrove.",
+    "fonte": { "testo": "Sabiston Textbook of Surgery", "riferimento": "cap. The Parathyroid Glands" },
+    "tag": ["paratiroidi"], "verificata": false
+  },
+  {
+    "id": "collo-0009", "distretto": "collo", "argomento": "Paratiroidi e piano del ricorrente",
+    "interventi": ["tiroidectomia totale", "paratiroidectomia"], "tipo": "mcq", "livello": 2,
+    "domanda": "Che rapporto hanno di solito le paratiroidi con il piano del nervo ricorrente?",
+    "opzioni": ["Superiori dorsali (posteriori) al piano del nervo, inferiori ventrali (anteriori)", "Superiori ventrali, inferiori dorsali", "Entrambe dorsali", "Entrambe nello spessore del legamento di Berry"],
+    "corrette": [0],
+    "spiegazione": "La paratiroide superiore si trova di solito dorsalmente al piano coronale del ricorrente, circa 1 cm sopra l'incrocio tra nervo e arteria tiroidea inferiore, vicino alla giunzione cricotiroidea. L'inferiore si trova di solito ventralmente al nervo, vicino al polo inferiore.",
+    "perla": "Seziona il tessuto vicino alla capsula tiroidea ('capsular dissection') per lasciare paratiroidi e vascolarizzazione sul lato del collo.",
+    "fonte": { "testo": "Skandalakis' Surgical Anatomy", "riferimento": "cap. Neck – Parathyroid glands" },
+    "tag": ["paratiroidi", "a-rischio"], "verificata": false
+  },
+  {
+    "id": "collo-0010", "distretto": "collo", "argomento": "Vascolarizzazione delle paratiroidi",
+    "interventi": ["tiroidectomia totale"], "tipo": "mcq", "livello": 2,
+    "domanda": "Quale arteria vascolarizza nella maggior parte dei casi sia le paratiroidi superiori sia le inferiori?",
+    "opzioni": ["Arteria tiroidea inferiore", "Arteria tiroidea superiore", "Arteria tiroidea ima", "Arteria toracica interna"],
+    "corrette": [0],
+    "spiegazione": "Nella maggioranza dei casi entrambe le paratiroidi ricevono rami dall'arteria tiroidea inferiore. Anastomosi con la tiroidea superiore possono contribuire, soprattutto per la superiore.",
+    "perla": "Lega i rami terminali dell'arteria tiroidea inferiore sulla capsula, non il tronco: preservi l'irrorazione delle paratiroidi e riduci l'ipocalcemia postoperatoria.",
+    "fonte": { "testo": "Sabiston Textbook of Surgery", "riferimento": "cap. The Parathyroid Glands" },
+    "tag": ["paratiroidi", "correlazione", "a-rischio"], "verificata": false
+  },
+  {
+    "id": "collo-0011", "distretto": "collo", "argomento": "Livelli linfonodali cervicali",
+    "interventi": ["svuotamento laterocervicale", "tiroidectomia totale"], "tipo": "ordina", "livello": 1,
+    "domanda": "Ordina questi livelli linfonodali dal più craniale al più caudale.",
+    "opzioni": ["Livello II", "Livello III", "Livello IV", "Livello VII"],
+    "corrette": [0, 1, 2, 3],
+    "spiegazione": "Lungo la catena giugulare: II dalla base cranica all'osso ioide, III dallo ioide al margine inferiore della cricoide, IV dalla cricoide alla clavicola. Il VII si trova nel mediastino superiore, sotto il giugulo sternale.",
+    "fonte": { "testo": "Robbins KT et al. Arch Otolaryngol Head Neck Surg 2002", "riferimento": "Neck dissection classification update" },
+    "tag": ["linfonodi"], "verificata": false
+  },
+  {
+    "id": "collo-0012", "distretto": "collo", "argomento": "Livello VI (compartimento centrale)",
+    "interventi": ["svuotamento del compartimento centrale", "tiroidectomia totale"], "tipo": "flash", "livello": 1,
+    "domanda": "Quali sono i limiti del livello VI (compartimento centrale) e quali gruppi linfonodali comprende?",
+    "corrette": "Limiti: osso ioide in alto, giugulo sternale in basso, carotidi comuni lateralmente. Comprende i linfonodi prelaringei (delfici), pretracheali, paratracheali e peritiroidei.",
+    "spiegazione": "È il primo drenaggio del carcinoma tiroideo differenziato. Lo svuotamento centrale espone a rischio ricorrente e paratiroidi (soprattutto inferiori), che si trovano proprio in questo compartimento.",
+    "perla": "Nello svuotamento centrale identifica e segui il ricorrente per tutto il tratto cervicale prima di asportare il tessuto paratracheale.",
+    "fonte": { "testo": "Robbins KT et al. Arch Otolaryngol Head Neck Surg 2002", "riferimento": "Neck dissection classification update" },
+    "tag": ["linfonodi", "a-rischio"], "verificata": false
+  },
+  {
+    "id": "collo-0013", "distretto": "collo", "argomento": "Sottolivelli IIa e IIb",
+    "interventi": ["svuotamento laterocervicale"], "tipo": "mcq", "livello": 2,
+    "domanda": "Quale struttura divide il livello II nei sottolivelli IIa e IIb?",
+    "opzioni": ["Nervo accessorio spinale", "Nervo ipoglosso", "Ventre posteriore del digastrico", "Vena giugulare esterna"],
+    "corrette": [0],
+    "spiegazione": "Il nervo accessorio spinale divide il livello II: IIa anteriore (mediale) al nervo, IIb posteriore (laterale) al nervo, nel triangolo sopra di esso.",
+    "perla": "Svuotare il IIb richiede di mobilizzare e trazionare il nervo accessorio: è uno dei momenti più a rischio di lesione da stiramento.",
+    "fonte": { "testo": "Robbins KT et al. Arch Otolaryngol Head Neck Surg 2002", "riferimento": "Neck dissection classification update" },
+    "tag": ["linfonodi", "a-rischio"], "verificata": false
+  },
+  {
+    "id": "collo-0014", "distretto": "collo", "argomento": "Nervo accessorio spinale",
+    "interventi": ["svuotamento laterocervicale"], "tipo": "mcq", "livello": 2,
+    "domanda": "Durante uno svuotamento del livello V, quale nervo è a rischio e quale deficit causa la sua lesione?",
+    "opzioni": ["Nervo accessorio spinale: debolezza del trapezio, spalla cadente e dolore", "Nervo toracico lungo: scapola alata", "Nervo frenico: paralisi del diaframma", "Nervo grande auricolare: deficit motorio del deltoide"],
+    "corrette": [0],
+    "spiegazione": "Nel triangolo posteriore il nervo accessorio spinale decorre superficialmente, nel tetto fasciale, verso il trapezio. La sua lesione causa debolezza del trapezio, abduzione limitata oltre 90°, spalla cadente e dolore cronico ('sindrome della spalla').",
+    "perla": "Nel triangolo posteriore il nervo è subito sotto la fascia: non usare l'elettrobisturi in profondità sul pavimento del triangolo prima di averlo identificato.",
+    "fonte": { "testo": "Skandalakis' Surgical Anatomy", "riferimento": "cap. Neck – Posterior cervical triangle" },
+    "tag": ["correlazione", "a-rischio"], "verificata": false
+  },
+  {
+    "id": "collo-0015", "distretto": "collo", "argomento": "Strutture a rischio nello svuotamento laterocervicale",
+    "interventi": ["svuotamento laterocervicale"], "tipo": "multi", "livello": 3,
+    "domanda": "Quali strutture sono a rischio durante uno svuotamento laterocervicale (livelli II–V)? Seleziona tutte le corrette.",
+    "opzioni": ["Nervo accessorio spinale", "Nervo frenico, sul muscolo scaleno anteriore", "Dotto toracico (a sinistra, livello IV)", "Nervo ipoglosso (livello II alto)", "Nervo toracodorsale"],
+    "corrette": [0, 1, 2, 3],
+    "spiegazione": "Il frenico scende sullo scaleno anteriore sotto la fascia prevertebrale, che va rispettata. Il dotto toracico sbocca alla confluenza giugulo-succlavia sinistra: una sua lesione causa una fistola chilosa. L'ipoglosso incrocia le carotidi in alto, nel livello II. Il toracodorsale è un nervo dell'ascella, non del collo.",
+    "perla": "Fistola chilosa dopo uno svuotamento sinistro: drenaggio lattescente che aumenta con l'alimentazione. Previeni legando con cura i tessuti alla base del livello IV.",
+    "fonte": { "testo": "Skandalakis' Surgical Anatomy", "riferimento": "cap. Neck" },
+    "tag": ["correlazione", "a-rischio", "linfonodi"], "verificata": false
+  },
+  {
+    "id": "collo-0016", "distretto": "collo", "argomento": "Linfonodo delfico",
+    "interventi": ["tiroidectomia totale", "svuotamento del compartimento centrale"], "tipo": "flash", "livello": 2,
+    "domanda": "Cos'è il linfonodo delfico e dove si trova?",
+    "corrette": "Un linfonodo prelaringeo del livello VI, sopra la membrana cricotiroidea, vicino al lobo piramidale e all'istmo.",
+    "spiegazione": "Drena l'istmo e la laringe. Il suo coinvolgimento nel carcinoma tiroideo o laringeo è considerato un segno di malattia più aggressiva.",
+    "fonte": { "testo": "Robbins KT et al. Arch Otolaryngol Head Neck Surg 2002", "riferimento": "Neck dissection classification update (livello VI)" },
+    "tag": ["linfonodi"], "verificata": false
+  },
+  {
+    "id": "collo-0017", "distretto": "collo", "argomento": "Arteria tiroidea inferiore",
+    "interventi": ["tiroidectomia totale", "lobectomia tiroidea"], "tipo": "mcq", "livello": 1,
+    "domanda": "Da dove origina di solito l'arteria tiroidea inferiore?",
+    "opzioni": ["Tronco tireocervicale dell'arteria succlavia", "Arteria carotide esterna", "Arteria carotide comune", "Arco aortico"],
+    "corrette": [0],
+    "spiegazione": "La tiroidea inferiore nasce dal tronco tireocervicale (succlavia). Sale dietro la guaina carotidea e poi piega medialmente verso il polo inferiore, incrociando il ricorrente. La tiroidea superiore è invece il primo ramo della carotide esterna.",
+    "fonte": { "testo": "Gray's Anatomy", "riferimento": "sezione Collo – vasi della tiroide" },
+    "tag": ["vasi"], "verificata": false
+  },
+  {
+    "id": "collo-0018", "distretto": "collo", "argomento": "Arteria tiroidea ima",
+    "interventi": ["tiroidectomia totale", "tracheostomia"], "tipo": "flash", "livello": 3,
+    "domanda": "Variante: cos'è l'arteria tiroidea ima e perché è importante?",
+    "corrette": "Un'arteria incostante (variante poco frequente) che sale davanti alla trachea fino all'istmo. Nasce di solito dal tronco brachiocefalico, più raramente dall'arco aortico o dalla carotide comune.",
+    "spiegazione": "Decorre sulla linea mediana, nella regione pretracheale bassa. Va cercata e legata durante la sezione dell'istmo e nella tracheostomia, per evitare sanguinamenti difficili da controllare sotto il giugulo.",
+    "perla": "Nella tracheostomia chirurgica un vaso pulsante sulla linea mediana sotto l'istmo va legato, non coagulato alla cieca.",
+    "fonte": { "testo": "Skandalakis' Surgical Anatomy", "riferimento": "cap. Neck – Thyroid gland (vascular supply)" },
+    "tag": ["variante", "vasi"], "verificata": false
+  },
+  {
+    "id": "collo-0019", "distretto": "collo", "argomento": "Passaggi della lobectomia tiroidea",
+    "interventi": ["lobectomia tiroidea", "tiroidectomia totale"], "tipo": "ordina", "livello": 2,
+    "domanda": "Ordina i passaggi principali di una lobectomia tiroidea.",
+    "opzioni": ["Lembi sottoplatismali e apertura della linea mediana tra i muscoli pretiroidei", "Legatura della vena tiroidea media", "Legatura dei vasi del polo superiore a contatto della capsula", "Identificazione di ricorrente e paratiroidi", "Sezione del legamento di Berry", "Sezione dell'istmo"],
+    "corrette": [0, 1, 2, 3, 4, 5],
+    "spiegazione": "Dopo l'accesso tra i muscoli pretiroidei, legare la vena tiroidea media permette di ruotare il lobo medialmente. Si scolla il polo superiore proteggendo il laringeo superiore, poi si identificano ricorrente e paratiroidi prima di sezionare il legamento di Berry e infine l'istmo. La sequenza può variare: per esempio l'istmo può essere diviso per primo.",
+    "fonte": { "testo": "Chassin's Operative Strategy in General Surgery", "riferimento": "cap. Thyroidectomy" },
+    "tag": ["sequenza"], "verificata": false
+  },
+  {
+    "id": "collo-0020", "distretto": "collo", "argomento": "Innervazione dei muscoli pretiroidei",
+    "interventi": ["tiroidectomia totale"], "tipo": "mcq", "livello": 2,
+    "domanda": "Se bisogna sezionare i muscoli pretiroidei per un gozzo voluminoso, a che altezza conviene farlo e perché?",
+    "opzioni": ["In alto, perché l'ansa cervicale li innerva entrando dalla parte inferiore", "In basso, perché il nervo entra dall'alto", "Al centro: l'innervazione è segmentaria", "L'altezza è indifferente: sono innervati dal ricorrente"],
+    "corrette": [0],
+    "spiegazione": "I muscoli sternoioideo, sternotiroideo e omoioideo sono innervati dall'ansa cervicale (C1–C3), i cui rami entrano soprattutto nella parte inferiore dei muscoli. Sezionarli in alto ne preserva l'innervazione.",
+    "fonte": { "testo": "Skandalakis' Surgical Anatomy", "riferimento": "cap. Neck – Strap muscles" },
+    "tag": ["correlazione"], "verificata": false
+  },
+  {
+    "id": "collo-0021", "distretto": "collo", "argomento": "Legamento di Berry",
+    "interventi": ["tiroidectomia totale", "lobectomia tiroidea"], "tipo": "mcq", "livello": 2,
+    "domanda": "Perché il legamento di Berry è il punto a più alto rischio per il ricorrente?",
+    "opzioni": ["Il nervo vi passa molto vicino, appena prima di entrare in laringe, ed è fisso", "Il legamento contiene l'arteria tiroidea superiore", "È il punto in cui il nervo si divide sempre in tre rami", "Il nervo vi passa davanti alla trachea"],
+    "corrette": [0],
+    "spiegazione": "Il legamento di Berry (sospensorio posteriore) fissa il lobo alla cricoide e ai primi anelli tracheali. Il ricorrente passa a pochi millimetri, vicino al punto di ingresso in laringe, dove è fisso e non si sposta con la trazione. Qui piccoli vasi sanguinano e invitano a coagulare.",
+    "perla": "Al Berry niente energia a contatto del nervo e niente trazione eccessiva del lobo: lo stiramento è una causa frequente di neuroaprassia.",
+    "fonte": { "testo": "Skandalakis' Surgical Anatomy", "riferimento": "cap. Neck – Thyroid gland" },
+    "tag": ["ricorrente", "a-rischio", "correlazione"], "verificata": false
+  },
+  {
+    "id": "collo-0022", "distretto": "collo", "argomento": "Neuromonitoraggio intraoperatorio (IONM)",
+    "interventi": ["tiroidectomia totale"], "tipo": "flash", "livello": 3,
+    "domanda": "Cosa fare se durante una tiroidectomia totale si perde il segnale (loss of signal) dopo il primo lato?",
+    "corrette": "Dopo aver escluso problemi tecnici (posizione del tubo, elettrodi, test sul vago controlaterale), considerare di rimandare il secondo lato (tiroidectomia in due tempi) per evitare una paralisi bilaterale.",
+    "spiegazione": "Le raccomandazioni dell'International Neural Monitoring Study Group descrivono la verifica del segnale vagale e ricorrenziale e un algoritmo per la perdita di segnale. Il loss of signal confermato ha un buon valore predittivo di paralisi postoperatoria.",
+    "fonte": { "testo": "Randolph GW et al. Laryngoscope 2011", "riferimento": "Electrophysiologic recurrent laryngeal nerve monitoring during thyroid and parathyroid surgery (INMSG)" },
+    "tag": ["ricorrente", "a-rischio"], "verificata": false
+  },
+  {
+    "id": "collo-0023", "distretto": "collo", "argomento": "Vena tiroidea media",
+    "interventi": ["tiroidectomia totale", "lobectomia tiroidea"], "tipo": "mcq", "livello": 1,
+    "domanda": "Dove drena la vena tiroidea media e perché si lega presto nella lobectomia?",
+    "opzioni": ["Nella giugulare interna; legarla permette di ruotare il lobo medialmente ed esporre il solco tracheoesofageo", "Nel tronco brachiocefalico; si lega per ridurre il sanguinamento dell'istmo", "Nella giugulare esterna; si lega per ultima", "Nella vena succlavia; non si lega di routine"],
+    "corrette": [0],
+    "spiegazione": "La vena tiroidea media, spesso breve e senza arteria satellite, va dalla faccia laterale del lobo alla giugulare interna. Legarla libera il margine laterale e permette di ruotare il lobo verso la linea mediana.",
+    "fonte": { "testo": "Chassin's Operative Strategy in General Surgery", "riferimento": "cap. Thyroidectomy" },
+    "tag": ["vasi"], "verificata": false
+  },
+  {
+    "id": "collo-0024", "distretto": "collo", "argomento": "Guaina carotidea",
+    "interventi": ["svuotamento laterocervicale", "tiroidectomia totale"], "tipo": "multi", "livello": 1,
+    "domanda": "Quali strutture contiene la guaina carotidea? Seleziona tutte le corrette.",
+    "opzioni": ["Arteria carotide comune", "Vena giugulare interna", "Nervo vago", "Nervo frenico", "Nervo laringeo ricorrente"],
+    "corrette": [0, 1, 2],
+    "spiegazione": "La guaina carotidea contiene carotide (mediale), giugulare interna (laterale) e vago (posteriormente, tra i due vasi). Il frenico decorre sullo scaleno anteriore, sotto la fascia prevertebrale. Il ricorrente è nel solco tracheoesofageo.",
+    "fonte": { "testo": "Gray's Anatomy", "riferimento": "sezione Collo – fasce cervicali" },
+    "tag": ["vasi"], "verificata": false
+  },
+  {
+    "id": "collo-0025", "distretto": "collo", "argomento": "Riconoscere le strutture: lobo tiroideo retratto",
+    "interventi": ["tiroidectomia totale", "lobectomia tiroidea"], "tipo": "immagine", "livello": 1,
+    "domanda": "Lobo tiroideo retratto medialmente (vista chirurgica). Quale struttura indica il punto evidenziato (1)?",
+    "opzioni": ["Nervo laringeo ricorrente", "Arteria tiroidea inferiore", "Ramo esterno del laringeo superiore", "Nervo vago"],
+    "corrette": [0],
+    "immagine": { "src": "img/collo-ricorrente.svg", "hotspot": [{ "x": 49.5, "y": 72.8 }, { "x": 41.3, "y": 63.3 }, { "x": 56.3, "y": 43.8 }, { "x": 59, "y": 79.5 }, { "x": 50.8, "y": 16.8 }, { "x": 65.3, "y": 16.2 }, { "x": 22.5, "y": 50 }, { "x": 77.5, "y": 53.8 }], "target": 0 },
+    "spiegazione": "Il ricorrente (1) sale obliquamente nel solco tracheoesofageo, incrocia l'arteria tiroidea inferiore (2) ed entra in laringe vicino al legamento di Berry.",
+    "fonte": { "testo": "Schema originale AnatoQuiz", "riferimento": "basato su Skandalakis' Surgical Anatomy, cap. Neck – Thyroid gland" },
+    "tag": ["immagine", "ricorrente", "a-rischio"], "verificata": false
+  },
+  {
+    "id": "collo-0026", "distretto": "collo", "argomento": "Riconoscere le strutture: lobo tiroideo retratto",
+    "interventi": ["tiroidectomia totale", "paratiroidectomia"], "tipo": "immagine", "livello": 2,
+    "domanda": "Nello stesso schema, cosa indica il punto evidenziato (3), sopra l'incrocio tra ricorrente e arteria tiroidea inferiore?",
+    "opzioni": ["Paratiroide superiore", "Paratiroide inferiore", "Linfonodo delfico", "Tubercolo di Zuckerkandl"],
+    "corrette": [0],
+    "immagine": { "src": "img/collo-ricorrente.svg", "hotspot": [{ "x": 49.5, "y": 72.8 }, { "x": 41.3, "y": 63.3 }, { "x": 56.3, "y": 43.8 }, { "x": 59, "y": 79.5 }, { "x": 50.8, "y": 16.8 }, { "x": 65.3, "y": 16.2 }, { "x": 22.5, "y": 50 }, { "x": 77.5, "y": 53.8 }], "target": 2 },
+    "spiegazione": "La paratiroide superiore (3) si trova sopra l'incrocio tra ricorrente e arteria tiroidea inferiore, dorsalmente al piano del nervo. L'inferiore (4) è vicino al polo inferiore, ventrale al nervo.",
+    "fonte": { "testo": "Schema originale AnatoQuiz", "riferimento": "basato su Skandalakis' Surgical Anatomy, cap. Neck – Parathyroid glands" },
+    "tag": ["immagine", "paratiroidi"], "verificata": false
+  },
+  {
+    "id": "collo-0027", "distretto": "collo", "argomento": "Riconoscere le strutture: lobo tiroideo retratto",
+    "interventi": ["tiroidectomia totale", "lobectomia tiroidea"], "tipo": "immagine", "livello": 3,
+    "domanda": "Nello schema, quale struttura indica il punto evidenziato (6), vicino al peduncolo del polo superiore?",
+    "opzioni": ["Ramo esterno del nervo laringeo superiore", "Arteria tiroidea superiore", "Nervo ipoglosso", "Ramo interno del laringeo superiore"],
+    "corrette": [0],
+    "immagine": { "src": "img/collo-ricorrente.svg", "hotspot": [{ "x": 49.5, "y": 72.8 }, { "x": 41.3, "y": 63.3 }, { "x": 56.3, "y": 43.8 }, { "x": 59, "y": 79.5 }, { "x": 50.8, "y": 16.8 }, { "x": 65.3, "y": 16.2 }, { "x": 22.5, "y": 50 }, { "x": 77.5, "y": 53.8 }], "target": 5 },
+    "spiegazione": "Il ramo esterno del laringeo superiore (6) scende sul costrittore inferiore verso il cricotiroideo, accanto ai vasi tiroidei superiori (5): per questo i vasi vanno legati a contatto della capsula.",
+    "fonte": { "testo": "Schema originale AnatoQuiz", "riferimento": "basato su Cernea CR et al. Head Neck 1992" },
+    "tag": ["immagine", "laringeo-superiore", "a-rischio"], "verificata": false
+  }
+]

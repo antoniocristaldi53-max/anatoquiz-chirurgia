@@ -1,0 +1,270 @@
+[
+  {
+    "id": "eso-0001", "distretto": "esofago", "argomento": "Restringimenti dell'esofago",
+    "interventi": ["esofagectomia"], "tipo": "mcq", "livello": 1,
+    "domanda": "A che distanza circa dagli incisivi si trova la giunzione esofago-gastrica nell'adulto?",
+    "opzioni": ["Circa 40 cm", "Circa 15 cm", "Circa 25 cm", "Circa 55 cm"],
+    "corrette": [0],
+    "spiegazione": "L'esofago ha tre restringimenti fisiologici: cricofaringeo (circa 15 cm dagli incisivi), incrocio con arco aortico e bronco principale sinistro (circa 22–25 cm) e iato diaframmatico/cardias (circa 40 cm). Sono i punti dove si fermano i corpi estranei e dove le perforazioni strumentali sono più frequenti.",
+    "fonte": { "testo": "Gray's Anatomy", "riferimento": "sezione Torace – esofago" },
+    "tag": ["esofago"], "verificata": false
+  },
+  {
+    "id": "eso-0002", "distretto": "esofago", "argomento": "Pilastri dello iato",
+    "interventi": ["plastica iatale", "fundoplicatio VLS (Nissen/Toupet)"], "tipo": "mcq", "livello": 1,
+    "domanda": "Quale struttura forma, nella configurazione più comune, entrambi i margini dello iato esofageo?",
+    "opzioni": ["Il pilastro destro del diaframma", "Il pilastro sinistro", "Il legamento arcuato mediano", "Il centro tendineo"],
+    "corrette": [0],
+    "spiegazione": "Nella configurazione classica le fibre del pilastro destro si dividono e circondano l'esofago, formando entrambi i margini dello iato. Il contributo del pilastro sinistro è variabile.",
+    "perla": "Nella cruroplastica i punti vanno sulle due 'braccia' del pilastro (con il loro rivestimento fasciale), non sul solo peritoneo.",
+    "fonte": { "testo": "Skandalakis' Surgical Anatomy", "riferimento": "cap. Diaphragm" },
+    "tag": ["iato"], "verificata": false
+  },
+  {
+    "id": "eso-0003", "distretto": "esofago", "argomento": "Vaghi alla giunzione esofago-gastrica",
+    "interventi": ["fundoplicatio VLS (Nissen/Toupet)", "plastica iatale", "miotomia di Heller"], "tipo": "mcq", "livello": 1,
+    "domanda": "Alla giunzione esofago-gastrica, quale vago decorre sulla faccia anteriore dell'esofago?",
+    "opzioni": ["Il vago sinistro", "Il vago destro", "Entrambi, uniti in un unico tronco anteriore", "Nessuno: i vaghi sono entrambi posteriori"],
+    "corrette": [0],
+    "spiegazione": "Con la rotazione dello stomaco durante lo sviluppo, il vago sinistro diventa anteriore e il destro posteriore (mnemonico 'LARP': Left Anterior, Right Posterior). Il posteriore decorre spesso un po' staccato dall'esofago, nel tessuto tra esofago e aorta.",
+    "perla": "Creando la finestra retroesofagea, lascia il vago posteriore attaccato all'esofago (dentro la valvola) o separalo deliberatamente: non intrappolarlo per caso nei punti.",
+    "fonte": { "testo": "Skandalakis' Surgical Anatomy", "riferimento": "cap. Esophagus – vagus nerves" },
+    "tag": ["vago", "a-rischio"], "verificata": false
+  },
+  {
+    "id": "eso-0004", "distretto": "esofago", "argomento": "Arteria epatica sinistra dalla gastrica sinistra",
+    "interventi": ["fundoplicatio VLS (Nissen/Toupet)", "plastica iatale", "gastrectomia totale"], "tipo": "mcq", "livello": 3,
+    "domanda": "Variante: aprendo la pars flaccida del piccolo omento, quale arteria si può trovare e con quale frequenza?",
+    "opzioni": ["Arteria epatica sinistra (sostitutiva o accessoria) dalla gastrica sinistra, circa 10–20%", "Arteria epatica destra dall'AMS, circa 50%", "Arteria splenica, sempre", "Arteria gastroepiploica destra, circa 5%"],
+    "corrette": [0],
+    "spiegazione": "Michels riporta un'epatica sinistra sostitutiva dalla gastrica sinistra in circa il 10% e accessoria in circa l'8%. Decorre nella pars flaccida, insieme al ramo epatico del vago anteriore.",
+    "perla": "Prima di sezionare la pars flaccida guarda se c'è un vaso pulsante. Se è un'epatica sinistra sostitutiva, preservala: la legatura può compromettere l'irrorazione del lobo sinistro.",
+    "fonte": { "testo": "Michels NA. Am J Surg 1966", "riferimento": "Newer anatomy of the liver and its variant blood supply and collateral circulation" },
+    "tag": ["variante", "a-rischio", "correlazione"], "verificata": false
+  },
+  {
+    "id": "eso-0005", "distretto": "esofago", "argomento": "Nervo criminale di Grassi",
+    "interventi": ["vagotomia"], "tipo": "mcq", "livello": 3,
+    "domanda": "Cos'è il 'nervo criminale di Grassi'?",
+    "opzioni": ["Un ramo alto del vago posteriore per il fondo gastrico, che se non sezionato nella vagotomia può causare recidiva ulcerosa", "Il ramo epatico del vago anteriore", "Il nervo di Latarjet anteriore", "Un ramo del frenico sinistro per il cardias"],
+    "corrette": [0],
+    "spiegazione": "È descritto come il primo ramo del vago posteriore (destro), diretto al fondo gastrico. Nella vagotomia superselettiva, se non riconosciuto e sezionato, lascia innervata una parte delle cellule parietali con possibile recidiva dell'ulcera.",
+    "fonte": { "testo": "Skandalakis' Surgical Anatomy", "riferimento": "cap. Stomach – vagal innervation" },
+    "tag": ["vago"], "verificata": false
+  },
+  {
+    "id": "eso-0006", "distretto": "esofago", "argomento": "Strutture a rischio nella fundoplicatio",
+    "interventi": ["fundoplicatio VLS (Nissen/Toupet)", "plastica iatale"], "tipo": "multi", "livello": 2,
+    "domanda": "Durante una fundoplicatio VLS, quali strutture sono a rischio? Seleziona tutte le corrette.",
+    "opzioni": ["Tronchi vagali anteriore e posteriore", "Pleura (pneumotorace nella dissezione mediastinica alta)", "Ramo epatico del vago anteriore nella pars flaccida", "Nervo frenico sinistro sul pilastro sinistro", "Arteria mesenterica superiore"],
+    "corrette": [0, 1, 2],
+    "spiegazione": "I vaghi possono essere lesi o intrappolati nella valvola. La pleura, soprattutto a sinistra, può essere aperta nella mobilizzazione mediastinica (capnotorace). Il ramo epatico decorre nella pars flaccida. Il frenico decorre sulla faccia toracica del diaframma, lontano dal campo; l'AMS è molto più in basso.",
+    "perla": "Capnotorace in corso di dissezione: avvisa l'anestesista, riduci la pressione dello pneumoperitoneo; spesso si risolve senza drenaggio.",
+    "fonte": { "testo": "Sabiston Textbook of Surgery", "riferimento": "cap. Hiatal Hernia and Gastroesophageal Reflux Disease" },
+    "tag": ["a-rischio", "correlazione"], "verificata": false
+  },
+  {
+    "id": "eso-0007", "distretto": "esofago", "argomento": "Legamento frenoesofageo",
+    "interventi": ["plastica iatale", "fundoplicatio VLS (Nissen/Toupet)"], "tipo": "flash", "livello": 1,
+    "domanda": "Cos'è il legamento (membrana) frenoesofageo e che ruolo ha nell'ernia iatale?",
+    "corrette": "Una lamina fibroelastica che deriva dalla fascia endoaddominale (trasversale) sotto il diaframma e si inserisce sull'esofago distale, ancorando la giunzione esofago-gastrica allo iato.",
+    "spiegazione": "Con l'età e l'aumento della pressione addominale il legamento si allunga e si assottiglia: la giunzione risale nel torace (ernia da scivolamento). Nella plastica iatale va sezionato e il sacco va rimosso dal mediastino.",
+    "fonte": { "testo": "Skandalakis' Surgical Anatomy", "riferimento": "cap. Esophagus – phrenoesophageal ligament" },
+    "tag": ["iato"], "verificata": false
+  },
+  {
+    "id": "eso-0008", "distretto": "esofago", "argomento": "Classificazione delle ernie iatali",
+    "interventi": ["plastica iatale"], "tipo": "mcq", "livello": 1,
+    "domanda": "Cosa caratterizza un'ernia iatale di tipo II?",
+    "opzioni": ["Giunzione esofago-gastrica in sede; il fondo ernia accanto all'esofago (paraesofagea pura)", "Giunzione esofago-gastrica risalita nel torace (da scivolamento)", "Giunzione risalita e fondo erniato (mista)", "Presenza di altri organi oltre allo stomaco, come colon o milza"],
+    "corrette": [0],
+    "spiegazione": "Tipo I: da scivolamento (giunzione sopra lo iato). Tipo II: paraesofagea pura, con giunzione in sede. Tipo III: mista. Tipo IV: con altri visceri (colon, milza, omento, intestino tenue).",
+    "fonte": { "testo": "Kohn GP et al. Surg Endosc 2013", "riferimento": "SAGES Guidelines for the management of hiatal hernia" },
+    "tag": ["iato"], "verificata": false
+  },
+  {
+    "id": "eso-0009", "distretto": "esofago", "argomento": "Strati della parete esofagea",
+    "interventi": ["esofagectomia", "miotomia di Heller"], "tipo": "ordina", "livello": 1,
+    "domanda": "Ordina gli strati della parete dell'esofago toracico dall'interno all'esterno.",
+    "opzioni": ["Mucosa", "Sottomucosa", "Muscolare circolare interna", "Muscolare longitudinale esterna", "Avventizia"],
+    "corrette": [0, 1, 2, 3, 4],
+    "spiegazione": "L'esofago toracico non ha sierosa: all'esterno della tonaca muscolare c'è solo l'avventizia. Solo il breve tratto addominale è in parte rivestito da peritoneo.",
+    "perla": "Nella miotomia di Heller si sezionano entrambi gli strati muscolari fino alla sottomucosa, che deve protrudere libera senza essere perforata.",
+    "fonte": { "testo": "Gray's Anatomy", "riferimento": "sezione Torace – esofago (struttura)" },
+    "tag": ["esofago"], "verificata": false
+  },
+  {
+    "id": "eso-0010", "distretto": "esofago", "argomento": "Assenza di sierosa",
+    "interventi": ["esofagectomia"], "tipo": "mcq", "livello": 2,
+    "domanda": "Quale conseguenza chirurgica ha l'assenza di sierosa sull'esofago toracico?",
+    "opzioni": ["Le anastomosi tengono meno (manca lo strato più resistente) e i tumori si estendono più facilmente nel mediastino", "Le anastomosi esofagee guariscono più in fretta", "Il rischio di fistola è identico a quello del colon", "Non ha conseguenze: la muscolare sostituisce la sierosa"],
+    "corrette": [0],
+    "spiegazione": "Senza sierosa la parete ha meno tessuto resistente in cui ancorare i punti e manca una barriera alla diffusione dei tumori. Per questo nelle anastomosi esofagee la sottomucosa, lo strato più resistente, va inclusa con cura.",
+    "fonte": { "testo": "Sabiston Textbook of Surgery", "riferimento": "cap. Esophagus" },
+    "tag": ["esofago", "correlazione"], "verificata": false
+  },
+  {
+    "id": "eso-0011", "distretto": "esofago", "argomento": "Estensione della miotomia di Heller",
+    "interventi": ["miotomia di Heller"], "tipo": "mcq", "livello": 2,
+    "domanda": "Nella miotomia di Heller per acalasia, perché la miotomia deve estendersi sullo stomaco oltre la giunzione?",
+    "opzioni": ["Per sezionare completamente le fibre dello sfintere esofageo inferiore, che si estendono sul cardias (di solito per circa 2–3 cm)", "Per denervare il fondo gastrico", "Per creare spazio per la valvola di Nissen", "Non serve: la miotomia termina esattamente alla giunzione"],
+    "corrette": [0],
+    "spiegazione": "Le fibre dello sfintere inferiore (fibre a fionda e a fermaglio) proseguono sul versante gastrico. Una miotomia troppo corta sul lato gastrico è una causa riconosciuta di disfagia persistente. Si associa di solito una fundoplicatio parziale (Dor o Toupet).",
+    "fonte": { "testo": "Sabiston Textbook of Surgery", "riferimento": "cap. Esophagus – Achalasia" },
+    "tag": ["correlazione"], "verificata": false
+  },
+  {
+    "id": "eso-0012", "distretto": "esofago", "argomento": "Angolo di His",
+    "interventi": ["fundoplicatio VLS (Nissen/Toupet)"], "tipo": "mcq", "livello": 1,
+    "domanda": "Cos'è l'angolo di His?",
+    "opzioni": ["L'angolo acuto tra il margine sinistro dell'esofago addominale e il fondo gastrico", "L'angolo tra duodeno e digiuno al legamento di Treitz", "L'angolo tra piccola curva e antro", "L'angolo tra pilastro destro e sinistro"],
+    "corrette": [0],
+    "spiegazione": "L'angolo di His, acuto, contribuisce alla barriera antireflusso con un effetto valvola. Si apre con l'ernia da scivolamento. La fundoplicatio ricrea un meccanismo valvolare.",
+    "fonte": { "testo": "Skandalakis' Surgical Anatomy", "riferimento": "cap. Esophagus – gastroesophageal junction" },
+    "tag": ["giunzione"], "verificata": false
+  },
+  {
+    "id": "eso-0013", "distretto": "esofago", "argomento": "Barriera antireflusso",
+    "interventi": ["fundoplicatio VLS (Nissen/Toupet)", "plastica iatale"], "tipo": "multi", "livello": 1,
+    "domanda": "Quali elementi contribuiscono alla barriera antireflusso alla giunzione esofago-gastrica? Seleziona tutti i corretti.",
+    "opzioni": ["Sfintere esofageo inferiore", "Pilastri diaframmatici (sfintere 'estrinseco')", "Angolo di His", "Segmento di esofago intra-addominale", "Piloro"],
+    "corrette": [0, 1, 2, 3],
+    "spiegazione": "La barriera dipende da sfintere intrinseco, compressione da parte dei pilastri, angolo di His e lunghezza dell'esofago addominale, esposto alla pressione positiva dell'addome. Il piloro non ha un ruolo diretto nella barriera esofagea.",
+    "fonte": { "testo": "Sabiston Textbook of Surgery", "riferimento": "cap. Hiatal Hernia and Gastroesophageal Reflux Disease" },
+    "tag": ["giunzione"], "verificata": false
+  },
+  {
+    "id": "eso-0014", "distretto": "esofago", "argomento": "Esofago corto e gastroplastica di Collis",
+    "interventi": ["plastica iatale", "fundoplicatio VLS (Nissen/Toupet)"], "tipo": "flash", "livello": 3,
+    "domanda": "Quando si considera una gastroplastica di Collis nella chirurgia iatale?",
+    "corrette": "Quando, dopo un'ampia mobilizzazione mediastinica, non si ottiene un tratto di esofago intra-addominale senza tensione di circa 2–3 cm (esofago corto).",
+    "spiegazione": "La tensione sull'esofago è una causa importante di recidiva dell'ernia. La Collis crea un neo-esofago dal versante della piccola curva gastrica, sul quale si confeziona la plastica antireflusso.",
+    "perla": "Prima della Collis prova sempre una mobilizzazione mediastinica estesa: nella maggior parte dei casi basta.",
+    "fonte": { "testo": "Kohn GP et al. Surg Endosc 2013", "riferimento": "SAGES Guidelines for the management of hiatal hernia" },
+    "tag": ["iato"], "verificata": false
+  },
+  {
+    "id": "eso-0015", "distretto": "esofago", "argomento": "Vascolarizzazione dell'esofago addominale",
+    "interventi": ["esofagectomia", "gastrectomia totale"], "tipo": "mcq", "livello": 2,
+    "domanda": "Da quali arterie riceve sangue soprattutto l'esofago addominale?",
+    "opzioni": ["Rami esofagei della gastrica sinistra e della freniche inferiori", "Arterie tiroidee inferiori", "Rami esofagei diretti dell'aorta toracica", "Arteria gastroepiploica destra"],
+    "corrette": [0],
+    "spiegazione": "Esofago cervicale: arterie tiroidee inferiori. Esofago toracico: rami esofagei dell'aorta e arterie bronchiali. Esofago addominale: gastrica sinistra e freniche inferiori. L'irrorazione è segmentaria con una rete sottomucosa.",
+    "fonte": { "testo": "Gray's Anatomy", "riferimento": "sezione Torace – esofago (vascolarizzazione)" },
+    "tag": ["vasi"], "verificata": false
+  },
+  {
+    "id": "eso-0016", "distretto": "esofago", "argomento": "Varici esofagee",
+    "interventi": ["esofagectomia"], "tipo": "mcq", "livello": 2,
+    "domanda": "Attraverso quale vena si sviluppano soprattutto le varici esofagee nell'ipertensione portale?",
+    "opzioni": ["Vena gastrica sinistra (coronaria stomacica), anastomizzata con le vene esofagee tributarie dell'azygos", "Vena mesenterica inferiore", "Vena gastroepiploica destra", "Vena renale sinistra"],
+    "corrette": [0],
+    "spiegazione": "Alla giunzione esofago-gastrica il sistema portale (gastrica sinistra e gastriche brevi) si anastomizza con il sistema cavale (vene esofagee, azygos ed emiazygos). Nell'ipertensione portale queste anastomosi si dilatano e formano le varici.",
+    "fonte": { "testo": "Gray's Anatomy", "riferimento": "sezione Addome – anastomosi portosistemiche" },
+    "tag": ["vasi"], "verificata": false
+  },
+  {
+    "id": "eso-0017", "distretto": "esofago", "argomento": "Dotto toracico",
+    "interventi": ["esofagectomia"], "tipo": "mcq", "livello": 3,
+    "domanda": "Durante un'esofagectomia, dove decorre il dotto toracico e cosa causa la sua lesione?",
+    "opzioni": ["Sale a destra della linea mediana tra aorta e azygos e passa a sinistra intorno a T4–T6; la lesione causa chilotorace", "Decorre davanti alla trachea; la lesione causa pneumotorace", "Sale a sinistra dell'aorta per tutto il torace; la lesione causa ascite chilosa", "Passa nello iato insieme all'esofago; la lesione causa emoperitoneo"],
+    "corrette": [0],
+    "spiegazione": "Il dotto entra nel torace dallo iato aortico, sale dietro l'esofago tra aorta e azygos a destra e, intorno a T4–T6, passa a sinistra per sboccare alla confluenza giugulo-succlavia sinistra. La lesione causa chilotorace, più spesso a destra se la lesione è bassa.",
+    "perla": "Molti centri legano il dotto in blocco sopra lo iato durante l'esofagectomia transtoracica per prevenire il chilotorace.",
+    "fonte": { "testo": "Skandalakis' Surgical Anatomy", "riferimento": "cap. Esophagus – thoracic duct" },
+    "tag": ["correlazione", "a-rischio"], "verificata": false
+  },
+  {
+    "id": "eso-0018", "distretto": "esofago", "argomento": "Anastomosi cervicale",
+    "interventi": ["esofagectomia"], "tipo": "mcq", "livello": 2,
+    "domanda": "Nell'esofagectomia con anastomosi cervicale (McKeown), quale nervo è a rischio nel collo e quale deficit causa?",
+    "opzioni": ["Laringeo ricorrente (di solito sinistro): disfonia e aspirazione", "Accessorio spinale: debolezza del trapezio", "Frenico: paralisi del diaframma", "Ipoglosso: disartria"],
+    "corrette": [0],
+    "spiegazione": "L'accesso cervicale sinistro lungo il margine dello sternocleidomastoideo porta al solco tracheoesofageo, dove decorre il ricorrente. La lesione causa disfonia, tosse inefficace e aspirazione: complicanze respiratorie importanti dopo un'esofagectomia.",
+    "perla": "Non usare divaricatori metallici nel solco tracheoesofageo: preferisci una retrazione delicata con le dita.",
+    "fonte": { "testo": "Sabiston Textbook of Surgery", "riferimento": "cap. Esophagus – esophagectomy" },
+    "tag": ["correlazione", "a-rischio"], "verificata": false
+  },
+  {
+    "id": "eso-0019", "distretto": "esofago", "argomento": "Arco della vena azygos",
+    "interventi": ["esofagectomia"], "tipo": "mcq", "livello": 2,
+    "domanda": "Quale vena si seziona di routine nell'esofagectomia per via toracica destra (Ivor Lewis) per esporre l'esofago medio?",
+    "opzioni": ["Arco della vena azygos", "Vena emiazygos", "Vena brachiocefalica sinistra", "Vena polmonare inferiore destra"],
+    "corrette": [0],
+    "spiegazione": "L'azygos sale a destra dell'esofago e, a livello di T4, forma un arco sopra il bronco principale destro per sboccare nella vena cava superiore. Sezionarlo apre il mediastino posteriore.",
+    "fonte": { "testo": "Gray's Anatomy", "riferimento": "sezione Torace – sistema azygos" },
+    "tag": ["vasi"], "verificata": false
+  },
+  {
+    "id": "eso-0020", "distretto": "esofago", "argomento": "Giunzione esofago-gastrica",
+    "interventi": ["fundoplicatio VLS (Nissen/Toupet)", "miotomia di Heller", "gastrectomia totale"], "tipo": "flash", "livello": 2,
+    "domanda": "Quali reperi identificano la giunzione esofago-gastrica in endoscopia e in chirurgia?",
+    "corrette": "In endoscopia: l'estremità prossimale delle pliche gastriche (la linea Z, cioè la giunzione squamo-colonnare, coincide solo in assenza di Barrett). In chirurgia: il cuscinetto adiposo della giunzione (fat pad) e l'angolo di His.",
+    "spiegazione": "Nell'esofago di Barrett la linea Z risale e non coincide più con la giunzione anatomica: per questo si usa come riferimento la fine delle pliche gastriche.",
+    "fonte": { "testo": "Sabiston Textbook of Surgery", "riferimento": "cap. Esophagus" },
+    "tag": ["giunzione"], "verificata": false
+  },
+  {
+    "id": "eso-0021", "distretto": "esofago", "argomento": "Arteria succlavia destra aberrante",
+    "interventi": ["esofagectomia", "tiroidectomia totale"], "tipo": "mcq", "livello": 3,
+    "domanda": "Variante: con quale frequenza si trova un'arteria succlavia destra aberrante (lusoria) e quale rapporto ha con l'esofago?",
+    "opzioni": ["Circa 0,5–2%; nasce come ultimo ramo dell'arco e passa dietro l'esofago", "Circa 10–15%; passa davanti alla trachea", "Circa 30%; decorre a sinistra dell'aorta discendente", "Meno dello 0,01%; passa tra trachea ed esofago"],
+    "corrette": [0],
+    "spiegazione": "La succlavia destra aberrante è la più comune anomalia dell'arco (circa 0,5–2%). Nasce dopo la succlavia sinistra e incrocia dietro l'esofago. Può causare disfagia ('dysphagia lusoria') e si associa al nervo laringeo inferiore destro non ricorrente.",
+    "fonte": { "testo": "Skandalakis' Surgical Anatomy", "riferimento": "cap. Esophagus – vascular anomalies" },
+    "tag": ["variante"], "verificata": false
+  },
+  {
+    "id": "eso-0022", "distretto": "esofago", "argomento": "Aperture del diaframma",
+    "interventi": ["plastica iatale"], "tipo": "mcq", "livello": 1,
+    "domanda": "A che livello vertebrale si trova lo iato esofageo?",
+    "opzioni": ["T10", "T8", "T12", "L1"],
+    "corrette": [0],
+    "spiegazione": "Forame della vena cava inferiore: T8, nel centro tendineo. Iato esofageo: T10, nel pilastro destro (con i vaghi). Iato aortico: T12, dietro il legamento arcuato mediano (con dotto toracico e vena azygos).",
+    "fonte": { "testo": "Gray's Anatomy", "riferimento": "sezione Addome – diaframma" },
+    "tag": ["iato"], "verificata": false
+  },
+  {
+    "id": "eso-0023", "distretto": "esofago", "argomento": "Sequenza della fundoplicatio secondo Nissen",
+    "interventi": ["fundoplicatio VLS (Nissen/Toupet)"], "tipo": "ordina", "livello": 2,
+    "domanda": "Ordina i passaggi di una fundoplicatio VLS secondo Nissen.",
+    "opzioni": ["Apertura della pars flaccida e identificazione del pilastro destro", "Dissezione dei pilastri e mobilizzazione mediastinica dell'esofago", "Finestra retroesofagea con identificazione del vago posteriore", "Sezione dei vasi gastrici brevi per mobilizzare il fondo", "Cruroplastica posteriore", "Valvola di 360°, corta e lassa ('short floppy')"],
+    "corrette": [0, 1, 2, 3, 4, 5],
+    "spiegazione": "Si espone il pilastro destro dalla pars flaccida, si mobilizza l'esofago fino ad avere un tratto intra-addominale adeguato, si crea la finestra posteriore e si libera il fondo sezionando i gastrici brevi. Si chiude lo iato e si confeziona una valvola di 360° corta e lassa. L'ordine dei gastrici brevi può variare secondo la scuola.",
+    "fonte": { "testo": "Chassin's Operative Strategy in General Surgery", "riferimento": "cap. Laparoscopic Nissen Fundoplication" },
+    "tag": ["sequenza"], "verificata": false
+  },
+  {
+    "id": "eso-0024", "distretto": "esofago", "argomento": "Riconoscere le strutture dello iato",
+    "interventi": ["fundoplicatio VLS (Nissen/Toupet)", "plastica iatale"], "tipo": "immagine", "livello": 1,
+    "domanda": "Iato esofageo in visione laparoscopica. Quale struttura indica il punto evidenziato (2)?",
+    "opzioni": ["Vago anteriore", "Vago posteriore", "Ramo epatico del vago", "Arteria gastrica sinistra"],
+    "corrette": [0],
+    "immagine": { "src": "img/iato.svg", "hotspot": [{ "x": 45.5, "y": 57.5 }, { "x": 48.5, "y": 30 }, { "x": 59.5, "y": 50 }, { "x": 38, "y": 41.3 }, { "x": 50, "y": 91 }, { "x": 23.8, "y": 36.3 }, { "x": 87, "y": 47.5 }, { "x": 15, "y": 15 }], "target": 1 },
+    "spiegazione": "Il vago anteriore (2) decorre sulla faccia anteriore dell'esofago e dà il ramo epatico (6), che va verso il fegato nella pars flaccida. Il posteriore (3) è dietro l'esofago, spesso staccato da esso.",
+    "fonte": { "testo": "Schema originale AnatoQuiz", "riferimento": "basato su Skandalakis' Surgical Anatomy, cap. Esophagus" },
+    "tag": ["immagine", "vago"], "verificata": false
+  },
+  {
+    "id": "eso-0025", "distretto": "esofago", "argomento": "Riconoscere le strutture dello iato",
+    "interventi": ["plastica iatale"], "tipo": "immagine", "livello": 2,
+    "domanda": "Nello schema, quale struttura indica il punto evidenziato (4)?",
+    "opzioni": ["Pilastro diaframmatico", "Aorta", "Lobo caudato", "Legamento gastrosplenico"],
+    "corrette": [0],
+    "immagine": { "src": "img/iato.svg", "hotspot": [{ "x": 45.5, "y": 57.5 }, { "x": 48.5, "y": 30 }, { "x": 59.5, "y": 50 }, { "x": 38, "y": 41.3 }, { "x": 50, "y": 91 }, { "x": 23.8, "y": 36.3 }, { "x": 87, "y": 47.5 }, { "x": 15, "y": 15 }], "target": 3 },
+    "spiegazione": "I pilastri (4) circondano l'esofago e si uniscono dietro di esso, davanti all'aorta (5). Nella cruroplastica posteriore si avvicinano dietro l'esofago.",
+    "fonte": { "testo": "Schema originale AnatoQuiz", "riferimento": "basato su Skandalakis' Surgical Anatomy, cap. Diaphragm" },
+    "tag": ["immagine", "iato"], "verificata": false
+  },
+  {
+    "id": "eso-0026", "distretto": "esofago", "argomento": "Riconoscere le strutture dello iato",
+    "interventi": ["fundoplicatio VLS (Nissen/Toupet)", "plastica iatale"], "tipo": "immagine", "livello": 3,
+    "domanda": "Nello schema, quale struttura indica il punto evidenziato (6), che attraversa la pars flaccida verso il fegato?",
+    "opzioni": ["Ramo epatico del vago anteriore", "Arteria epatica sinistra", "Nervo frenico destro", "Legamento rotondo"],
+    "corrette": [0],
+    "immagine": { "src": "img/iato.svg", "hotspot": [{ "x": 45.5, "y": 57.5 }, { "x": 48.5, "y": 30 }, { "x": 59.5, "y": 50 }, { "x": 38, "y": 41.3 }, { "x": 50, "y": 91 }, { "x": 23.8, "y": 36.3 }, { "x": 87, "y": 47.5 }, { "x": 15, "y": 15 }], "target": 5 },
+    "spiegazione": "Il ramo epatico del vago anteriore (6) decorre nella pars flaccida del piccolo omento. Aprendo la pars flaccida conviene preservarlo, insieme a un'eventuale epatica sinistra variante.",
+    "fonte": { "testo": "Schema originale AnatoQuiz", "riferimento": "basato su Skandalakis' Surgical Anatomy, cap. Esophagus – vagus nerves" },
+    "tag": ["immagine", "vago", "a-rischio"], "verificata": false
+  }
+]

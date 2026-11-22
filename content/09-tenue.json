@@ -1,0 +1,255 @@
+[
+  {
+    "id": "tenue-0001", "distretto": "tenue", "argomento": "Digiuno e ileo",
+    "interventi": ["resezione intestinale"], "tipo": "mcq", "livello": 1,
+    "domanda": "Quale caratteristica vascolare è tipica del digiuno rispetto all'ileo?",
+    "opzioni": ["Poche arcate e vasi retti lunghi", "Molte arcate sovrapposte e vasi retti corti", "Assenza di vasi retti", "Vascolarizzazione dall'arteria mesenterica inferiore"],
+    "corrette": [0],
+    "spiegazione": "Il digiuno ha una o due file di arcate e vasi retti lunghi, poco grasso nel mesentere, parete più spessa e lume più ampio. L'ileo ha più file di arcate, vasi retti corti e un mesentere più ricco di grasso.",
+    "fonte": { "testo": "Gray's Anatomy", "riferimento": "sezione Addome – intestino tenue" },
+    "tag": ["tenue"], "verificata": false
+  },
+  {
+    "id": "tenue-0002", "distretto": "tenue", "argomento": "Caratteristiche dell'ileo",
+    "interventi": ["resezione intestinale", "resezione ileocecale"], "tipo": "multi", "livello": 1,
+    "domanda": "Quali caratteristiche sono tipiche dell'ileo? Seleziona tutte le corrette.",
+    "opzioni": ["Più file di arcate vascolari", "Mesentere più ricco di grasso", "Placche di Peyer", "Parete più spessa e lume più ampio del digiuno", "Pliche circolari più alte e fitte"],
+    "corrette": [0, 1, 2],
+    "spiegazione": "L'ileo ha più arcate, vasi retti corti, più grasso mesenterico e aggregati linfoidi (placche di Peyer). Parete spessa, lume ampio e pliche circolari prominenti caratterizzano invece il digiuno.",
+    "fonte": { "testo": "Gray's Anatomy", "riferimento": "sezione Addome – intestino tenue" },
+    "tag": ["tenue"], "verificata": false
+  },
+  {
+    "id": "tenue-0003", "distretto": "tenue", "argomento": "Diverticolo di Meckel",
+    "interventi": ["resezione intestinale", "appendicectomia VLS"], "tipo": "mcq", "livello": 1,
+    "domanda": "Variante: dove si trova il diverticolo di Meckel e con quale frequenza?",
+    "opzioni": ["Sul bordo antimesenterico dell'ileo, circa 60 cm dalla valvola ileocecale; circa 2% della popolazione (1–4% nelle serie)", "Sul bordo mesenterico del digiuno prossimale; circa 20%", "Sul cieco, vicino all'appendice; circa 10%", "Sul duodeno, vicino alla papilla; meno dello 0,1%"],
+    "corrette": [0],
+    "spiegazione": "È un residuo del dotto onfalomesenterico (vitellino): un diverticolo vero sul bordo antimesenterico dell'ileo. La 'regola del 2' è un'approssimazione didattica (circa 2%, circa 2 piedi dalla valvola, circa 2 pollici, 2 tipi di mucosa ectopica).",
+    "perla": "Se in un'appendicectomia l'appendice è normale, esplora l'ileo terminale per un tratto adeguato alla ricerca di un Meckel infiammato.",
+    "fonte": { "testo": "Sabiston Textbook of Surgery", "riferimento": "cap. Small Intestine – Meckel diverticulum" },
+    "tag": ["variante"], "verificata": false
+  },
+  {
+    "id": "tenue-0004", "distretto": "tenue", "argomento": "Mucosa ectopica nel Meckel",
+    "interventi": ["resezione intestinale"], "tipo": "mcq", "livello": 2,
+    "domanda": "Quale tessuto ectopico nel diverticolo di Meckel spiega il sanguinamento, soprattutto nei bambini?",
+    "opzioni": ["Mucosa gastrica, che secerne acido e causa un'ulcera nell'ileo adiacente", "Mucosa colica", "Tessuto splenico", "Mucosa esofagea"],
+    "corrette": [0],
+    "spiegazione": "I tessuti ectopici più frequenti sono la mucosa gastrica e il pancreas. La mucosa gastrica produce acido e ulcera la mucosa ileale vicina: sanguinamento indolore. La scintigrafia con pertecnetato evidenzia la mucosa gastrica ectopica.",
+    "perla": "L'ulcera è spesso sull'ileo adiacente, non nel diverticolo: per un Meckel sanguinante preferisci una resezione segmentaria a una semplice diverticulectomia.",
+    "fonte": { "testo": "Sabiston Textbook of Surgery", "riferimento": "cap. Small Intestine – Meckel diverticulum" },
+    "tag": ["correlazione"], "verificata": false
+  },
+  {
+    "id": "tenue-0005", "distretto": "tenue", "argomento": "Radice del mesentere",
+    "interventi": ["resezione intestinale", "emicolectomia destra"], "tipo": "mcq", "livello": 1,
+    "domanda": "Quali strutture incrocia la radice del mesentere del tenue, dalla flessura duodenodigiunale all'articolazione sacroiliaca destra?",
+    "opzioni": ["Terza porzione del duodeno, aorta, vena cava inferiore, uretere destro e vasi gonadici destri", "Rene sinistro e surrene sinistro", "Pancreas, milza e flessura splenica", "Vescica e retto"],
+    "corrette": [0],
+    "spiegazione": "La radice del mesentere, lunga circa 15 cm, va obliquamente dalla flessura duodenodigiunale (a sinistra di L2) alla regione ileocecale. Incrocia la terza porzione duodenale, l'aorta, la cava, l'uretere destro e i vasi gonadici destri. Contiene AMS e VMS.",
+    "fonte": { "testo": "Gray's Anatomy", "riferimento": "sezione Addome – mesentere" },
+    "tag": ["mesentere"], "verificata": false
+  },
+  {
+    "id": "tenue-0006", "distretto": "tenue", "argomento": "Embolia dell'AMS",
+    "interventi": ["resezione intestinale", "embolectomia mesenterica"], "tipo": "mcq", "livello": 2,
+    "domanda": "Perché nell'embolia dell'AMS il digiuno prossimale è spesso risparmiato, a differenza della trombosi?",
+    "opzioni": ["L'embolo si ferma di solito a valle dell'origine della colica media, mentre la trombosi occlude l'ostio", "Il digiuno è vascolarizzato dal tronco celiaco", "Il digiuno prossimale riceve sangue dalla mesenterica inferiore", "L'embolo si ferma sempre nell'ileocolica"],
+    "corrette": [0],
+    "spiegazione": "L'embolo tende a fermarsi dove il calibro si riduce, dopo le prime branche (pancreaticoduodenale inferiore, prime digiunali, colica media): il digiuno prossimale e il colon trasverso restano perfusi. La trombosi su placca ostiale causa un'ischemia più estesa, dal Treitz al trasverso.",
+    "perla": "Il quadro intraoperatorio aiuta la diagnosi: digiuno prossimale vitale = più probabile un embolo.",
+    "fonte": { "testo": "Sabiston Textbook of Surgery", "riferimento": "cap. Mesenteric Vascular Disease" },
+    "tag": ["correlazione", "vasi"], "verificata": false
+  },
+  {
+    "id": "tenue-0007", "distretto": "tenue", "argomento": "Rami dell'AMS",
+    "interventi": ["emicolectomia destra", "duodenocefalopancreasectomia"], "tipo": "ordina", "livello": 2,
+    "domanda": "Ordina questi rami dell'AMS dal più prossimale (vicino all'origine) al più distale lungo il lato destro del tronco.",
+    "opzioni": ["Pancreaticoduodenale inferiore", "Colica media", "Colica destra (quando presente)", "Ileocolica"],
+    "corrette": [0, 1, 2, 3],
+    "spiegazione": "Dalla sua origine l'AMS dà la pancreaticoduodenale inferiore, poi la colica media; lungo il lato destro la colica destra (incostante come ramo indipendente) e l'ileocolica. Dal lato sinistro nascono le arterie digiunali e ileali.",
+    "fonte": { "testo": "Gray's Anatomy", "riferimento": "sezione Addome – arteria mesenterica superiore" },
+    "tag": ["vasi"], "verificata": false
+  },
+  {
+    "id": "tenue-0008", "distretto": "tenue", "argomento": "Il mesentere come organo continuo",
+    "interventi": ["resezione intestinale", "emicolectomia destra"], "tipo": "flash", "livello": 2,
+    "domanda": "Cosa ha cambiato nella visione del mesentere il lavoro di Coffey e colleghi (2016)?",
+    "corrette": "Il mesentere è descritto come una struttura continua, dalla flessura duodenodigiunale fino al mesoretto, fissata al retroperitoneo da fasce di fusione (come la fascia di Toldt), invece che come una serie di 'mesi' separati.",
+    "spiegazione": "Questa visione è alla base della chirurgia per piani embriologici (escissione completa del mesocolon e TME): si disseca tra il mesentere e la fascia di fusione, preservando il retroperitoneo.",
+    "fonte": { "testo": "Coffey JC, O'Leary DP. Lancet Gastroenterol Hepatol 2016", "riferimento": "The mesentery: structure, function, and role in disease" },
+    "tag": ["mesentere"], "verificata": false
+  },
+  {
+    "id": "tenue-0009", "distretto": "tenue", "argomento": "Ernia paraduodenale sinistra",
+    "interventi": ["riduzione di ernia interna"], "tipo": "mcq", "livello": 3,
+    "domanda": "Nella riduzione di un'ernia paraduodenale sinistra (fossetta di Landzert), quale struttura decorre nel margine anteriore del colletto e non va sezionata?",
+    "opzioni": ["La vena mesenterica inferiore (con l'arteria colica sinistra)", "L'arteria mesenterica superiore", "L'uretere sinistro", "La vena renale sinistra"],
+    "corrette": [0],
+    "spiegazione": "Nell'ernia paraduodenale sinistra le anse entrano nella fossetta a sinistra della flessura duodenodigiunale, sotto il mesocolon discendente. Il margine libero del colletto contiene la VMI e spesso l'arteria colica sinistra: per allargarlo si incide in un'altra direzione, non sul margine vascolare.",
+    "fonte": { "testo": "Skandalakis' Surgical Anatomy", "riferimento": "cap. Peritoneum, Omenta and Internal Hernias" },
+    "tag": ["correlazione", "a-rischio"], "verificata": false
+  },
+  {
+    "id": "tenue-0010", "distretto": "tenue", "argomento": "Spazio di Petersen",
+    "interventi": ["bypass gastrico", "riduzione di ernia interna"], "tipo": "mcq", "livello": 2,
+    "domanda": "Dopo un bypass gastrico secondo Roux, dove si trova lo spazio di Petersen?",
+    "opzioni": ["Tra il mesentere dell'ansa alimentare (Roux) e il mesocolon trasverso", "Tra fegato e diaframma", "Nel forame epiploico", "Tra le due foglie del legamento falciforme"],
+    "corrette": [0],
+    "spiegazione": "Lo spazio di Petersen si forma dietro l'ansa alimentare, tra il suo mesentere e il mesocolon trasverso. È una sede tipica di ernie interne dopo un calo ponderale; chiudere lo spazio e la breccia mesenterica al piede d'ansa ne riduce l'incidenza.",
+    "fonte": { "testo": "Sabiston Textbook of Surgery", "riferimento": "cap. Morbid Obesity – complications of gastric bypass" },
+    "tag": ["mesentere", "correlazione"], "verificata": false
+  },
+  {
+    "id": "tenue-0011", "distretto": "tenue", "argomento": "Sindrome dell'intestino corto",
+    "interventi": ["resezione intestinale"], "tipo": "mcq", "livello": 2,
+    "domanda": "Sotto quale lunghezza residua di tenue, nell'adulto, si parla in genere di rischio di sindrome dell'intestino corto?",
+    "opzioni": ["Circa 200 cm", "Circa 400 cm", "Circa 50 cm in ogni caso", "La lunghezza non conta, conta solo il colon"],
+    "corrette": [0],
+    "spiegazione": "Una lunghezza residua inferiore a circa 200 cm è la soglia comunemente usata. La prognosi dipende anche dalla presenza del colon e della valvola ileocecale e dal tratto resecato (l'ileo ha maggiore capacità adattativa del digiuno).",
+    "perla": "In un'ischemia estesa misura e scrivi nel referto la lunghezza del tenue residuo: guida la gestione nutrizionale.",
+    "fonte": { "testo": "Sabiston Textbook of Surgery", "riferimento": "cap. Small Intestine – short bowel syndrome" },
+    "tag": ["correlazione"], "verificata": false
+  },
+  {
+    "id": "tenue-0012", "distretto": "tenue", "argomento": "Ileo terminale",
+    "interventi": ["resezione ileocecale", "emicolectomia destra"], "tipo": "mcq", "livello": 2,
+    "domanda": "Quale conseguenza metabolica ha la resezione di un lungo tratto di ileo terminale?",
+    "opzioni": ["Malassorbimento di vitamina B12 e di sali biliari (con diarrea e calcolosi)", "Malassorbimento di ferro", "Ipercalcemia", "Deficit di vitamina C"],
+    "corrette": [0],
+    "spiegazione": "L'ileo terminale assorbe il complesso B12-fattore intrinseco e i sali biliari (circolo enteroepatico). Le resezioni estese causano carenza di B12, diarrea da sali biliari e aumentato rischio di calcolosi biliare e renale (ossalati).",
+    "fonte": { "testo": "Sabiston Textbook of Surgery", "riferimento": "cap. Small Intestine" },
+    "tag": ["correlazione"], "verificata": false
+  },
+  {
+    "id": "tenue-0013", "distretto": "tenue", "argomento": "Vasi retti",
+    "interventi": ["resezione intestinale"], "tipo": "flash", "livello": 1,
+    "domanda": "Perché il bordo antimesenterico del tenue è il più vulnerabile all'ischemia?",
+    "corrette": "Perché i vasi retti sono arterie terminali che raggiungono la parete dal bordo mesenterico: il bordo antimesenterico è il punto più lontano dalla fonte ematica.",
+    "spiegazione": "Per questo le anastomosi si valutano soprattutto sul versante antimesenterico, e il mesentere va preparato senza scheletrizzare la parete oltre il necessario.",
+    "fonte": { "testo": "Gray's Anatomy", "riferimento": "sezione Addome – vascolarizzazione del tenue" },
+    "tag": ["vasi"], "verificata": false
+  },
+  {
+    "id": "tenue-0014", "distretto": "tenue", "argomento": "Malrotazione e bande di Ladd",
+    "interventi": ["procedura di Ladd"], "tipo": "mcq", "livello": 2,
+    "domanda": "Nella malrotazione intestinale, perché il rischio di volvolo è alto?",
+    "opzioni": ["Il mesentere ha una base d'impianto molto stretta (il cieco non è fissato in fossa iliaca destra)", "Il mesentere è troppo lungo e largo", "L'AMS nasce dal tronco celiaco", "Il duodeno è intraperitoneale"],
+    "corrette": [0],
+    "spiegazione": "Senza la normale rotazione e fissazione, flessura duodenodigiunale e cieco restano vicini: la radice del mesentere è corta e stretta e l'intero intestino può ruotare attorno all'AMS. Le bande di Ladd, dal cieco al retroperitoneo destro, incrociano e comprimono il duodeno.",
+    "fonte": { "testo": "Skandalakis' Surgical Anatomy", "riferimento": "cap. Small Intestine – malrotation" },
+    "tag": ["correlazione"], "verificata": false
+  },
+  {
+    "id": "tenue-0015", "distretto": "tenue", "argomento": "Esplorazione del tenue",
+    "interventi": ["resezione intestinale", "laparotomia esplorativa"], "tipo": "mcq", "livello": 1,
+    "domanda": "Da quali reperi fissi si parte per esplorare ('srotolare') tutto l'intestino tenue?",
+    "opzioni": ["Legamento di Treitz o valvola ileocecale", "Ombelico", "Legamento falciforme", "Flessura epatica"],
+    "corrette": [0],
+    "spiegazione": "I due estremi fissi del tenue sono la flessura duodenodigiunale (Treitz) e la valvola ileocecale. Si percorre l'intestino ansa per ansa da uno all'altro, controllando parete e mesentere.",
+    "fonte": { "testo": "Chassin's Operative Strategy in General Surgery", "riferimento": "cap. Small Bowel Resection" },
+    "tag": ["reperi"], "verificata": false
+  },
+  {
+    "id": "tenue-0016", "distretto": "tenue", "argomento": "Segmenti dell'intestino",
+    "interventi": ["resezione intestinale"], "tipo": "ordina", "livello": 1,
+    "domanda": "Ordina questi tratti dal più prossimale al più distale.",
+    "opzioni": ["Duodeno", "Digiuno", "Ileo", "Valvola ileocecale", "Cieco"],
+    "corrette": [0, 1, 2, 3, 4],
+    "spiegazione": "Il tenue mesenteriale (digiuno, circa i 2/5 prossimali, e ileo, i 3/5 distali) va dal Treitz alla valvola ileocecale, che si apre nel cieco.",
+    "fonte": { "testo": "Gray's Anatomy", "riferimento": "sezione Addome – intestino" },
+    "tag": ["tenue"], "verificata": false
+  },
+  {
+    "id": "tenue-0017", "distretto": "tenue", "argomento": "Sezione del mesentere",
+    "interventi": ["resezione intestinale"], "tipo": "mcq", "livello": 2,
+    "domanda": "In una resezione segmentaria benigna del tenue, come si seziona di solito il mesentere?",
+    "opzioni": ["A 'V' verso la radice, preservando le arcate che irrorano i monconi", "Parallelo al bordo mesenterico, a contatto della parete per tutta la lunghezza", "Alla radice, legando l'AMS", "Non si seziona: si chiude ad 'ombrello'"],
+    "corrette": [0],
+    "spiegazione": "La sezione a 'V' asporta il mesentere del segmento resecato e lascia integre le arcate che irrorano i due monconi. Nella malattia benigna non serve una sezione vicina alla radice; nell'oncologia si estende per la linfoadenectomia.",
+    "fonte": { "testo": "Chassin's Operative Strategy in General Surgery", "riferimento": "cap. Small Bowel Resection" },
+    "tag": ["mesentere"], "verificata": false
+  },
+  {
+    "id": "tenue-0018", "distretto": "tenue", "argomento": "Territorio dell'intestino medio",
+    "interventi": ["resezione intestinale", "emicolectomia destra"], "tipo": "multi", "livello": 2,
+    "domanda": "Quali segmenti derivano dall'intestino medio e sono irrorati dall'AMS? Seleziona tutti i corretti.",
+    "opzioni": ["Duodeno distale alla papilla maggiore", "Digiuno e ileo", "Colon destro e parte prossimale del trasverso", "Colon discendente", "Stomaco"],
+    "corrette": [0, 1, 2],
+    "spiegazione": "L'intestino medio va dal duodeno distale alla papilla fino ai due terzi prossimali del trasverso ed è irrorato dall'AMS. L'intestino posteriore (terzo distale del trasverso fino al retto superiore) dipende dall'AMI; l'anteriore dal tronco celiaco.",
+    "fonte": { "testo": "Skandalakis' Surgical Anatomy", "riferimento": "cap. Small Intestine – embryology" },
+    "tag": ["vasi"], "verificata": false
+  },
+  {
+    "id": "tenue-0019", "distretto": "tenue", "argomento": "Plica esangue di Treves",
+    "interventi": ["appendicectomia VLS", "resezione ileocecale"], "tipo": "flash", "livello": 3,
+    "domanda": "Cos'è la plica esangue di Treves?",
+    "corrette": "La plica ileocecale: una piega peritoneale avascolare tra il bordo antimesenterico dell'ileo terminale e il cieco/base appendicolare.",
+    "spiegazione": "È l'unica piega della regione senza vasi visibili, da cui il nome. Seguendola si arriva alla base dell'appendice: è un repere quando l'appendice è difficile da trovare.",
+    "fonte": { "testo": "Skandalakis' Surgical Anatomy", "riferimento": "cap. Appendix – peritoneal folds" },
+    "tag": ["reperi"], "verificata": false
+  },
+  {
+    "id": "tenue-0020", "distretto": "tenue", "argomento": "Base dell'appendice",
+    "interventi": ["appendicectomia VLS"], "tipo": "mcq", "livello": 1,
+    "domanda": "Qual è il repere più affidabile per trovare la base dell'appendice?",
+    "opzioni": ["La convergenza delle tre tenie coliche sul cieco", "Il punto di McBurney sulla cute", "La valvola ileocecale", "L'arteria epigastrica inferiore"],
+    "corrette": [0],
+    "spiegazione": "La punta dell'appendice può avere qualsiasi posizione (retrocecale, pelvica, sottocecale…), ma la base è costante: dove convergono le tenie del cieco.",
+    "fonte": { "testo": "Gray's Anatomy", "riferimento": "sezione Addome – appendice vermiforme" },
+    "tag": ["reperi"], "verificata": false
+  },
+  {
+    "id": "tenue-0021", "distretto": "tenue", "argomento": "Arteria appendicolare",
+    "interventi": ["appendicectomia VLS"], "tipo": "mcq", "livello": 2,
+    "domanda": "Da quale arteria nasce l'arteria appendicolare e dove decorre?",
+    "opzioni": ["Dall'ileocolica (o da un suo ramo), nel margine libero del mesoappendice", "Dalla colica destra, dietro il cieco", "Dalla mesenterica inferiore", "Dall'epigastrica inferiore"],
+    "corrette": [0],
+    "spiegazione": "L'arteria appendicolare è un ramo dell'ileocolica (spesso del ramo ileale o cecale posteriore), passa dietro l'ileo terminale e decorre nel mesoappendice. È un'arteria terminale: la sua trombosi nell'appendicite favorisce la gangrena.",
+    "fonte": { "testo": "Gray's Anatomy", "riferimento": "sezione Addome – appendice vermiforme" },
+    "tag": ["vasi"], "verificata": false
+  },
+  {
+    "id": "tenue-0022", "distretto": "tenue", "argomento": "Rapporto tra ileocolica e VMS",
+    "interventi": ["emicolectomia destra"], "tipo": "flash", "livello": 3,
+    "domanda": "Perché nella legatura centrale dell'arteria ileocolica bisogna chiarire il suo rapporto con la vena mesenterica superiore?",
+    "corrette": "Perché l'arteria può incrociare la VMS passando davanti o dietro (variante frequente): la legatura all'origine dall'AMS richiede di esporre la vena e di seguire l'arteria fino al suo tronco, senza lesionare la VMS.",
+    "spiegazione": "Nella CME la legatura vascolare centrale si fa a livello dell'AMS/VMS. Una TC preoperatoria e la dissezione sul versante anteriore della VMS riducono il rischio di lesione venosa.",
+    "fonte": { "testo": "Hohenberger W et al. Colorectal Dis 2009", "riferimento": "Standardized surgery for colonic cancer: complete mesocolic excision and central ligation" },
+    "tag": ["variante", "a-rischio"], "verificata": false
+  },
+  {
+    "id": "tenue-0023", "distretto": "tenue", "argomento": "Riconoscere i vasi mesenterici",
+    "interventi": ["resezione intestinale"], "tipo": "immagine", "livello": 1,
+    "domanda": "Vascolarizzazione mesenterica (vista anteriore). Quale vaso indica il punto evidenziato (4), dal lato sinistro dell'AMS?",
+    "opzioni": ["Arteria digiunale", "Arteria colica destra", "Arteria colica sinistra", "Arteria ileocolica"],
+    "corrette": [0],
+    "immagine": { "src": "img/mesenterica.svg", "hotspot": [{ "x": 48.8, "y": 27.8 }, { "x": 35, "y": 45.8 }, { "x": 31.3, "y": 68.8 }, { "x": 62.5, "y": 39.8 }, { "x": 60, "y": 60.8 }, { "x": 72.5, "y": 56.3 }, { "x": 72.5, "y": 75 }, { "x": 61.3, "y": 85 }, { "x": 80, "y": 35 }], "target": 3 },
+    "spiegazione": "Le arterie digiunali e ileali (4) nascono dal lato sinistro dell'AMS. I rami colici (1–3) nascono dal lato destro.",
+    "fonte": { "testo": "Schema originale AnatoQuiz", "riferimento": "basato su Gray's Anatomy, sezione Addome – arteria mesenterica superiore" },
+    "tag": ["immagine", "vasi"], "verificata": false
+  },
+  {
+    "id": "tenue-0024", "distretto": "tenue", "argomento": "Riconoscere i vasi mesenterici",
+    "interventi": ["resezione ileocecale", "emicolectomia destra", "appendicectomia VLS"], "tipo": "immagine", "livello": 2,
+    "domanda": "Nello schema, quale arteria indica il punto evidenziato (3), diretta alla regione ileocecale?",
+    "opzioni": ["Arteria ileocolica", "Arteria colica destra", "Arteria appendicolare", "Arteria colica media"],
+    "corrette": [0],
+    "immagine": { "src": "img/mesenterica.svg", "hotspot": [{ "x": 48.8, "y": 27.8 }, { "x": 35, "y": 45.8 }, { "x": 31.3, "y": 68.8 }, { "x": 62.5, "y": 39.8 }, { "x": 60, "y": 60.8 }, { "x": 72.5, "y": 56.3 }, { "x": 72.5, "y": 75 }, { "x": 61.3, "y": 85 }, { "x": 80, "y": 35 }], "target": 2 },
+    "spiegazione": "L'ileocolica (3) è il ramo terminale costante dell'AMS verso destra: irrora ileo terminale, cieco e appendice (attraverso l'arteria appendicolare).",
+    "fonte": { "testo": "Schema originale AnatoQuiz", "riferimento": "basato su Gray's Anatomy, sezione Addome – arteria mesenterica superiore" },
+    "tag": ["immagine", "vasi"], "verificata": false
+  },
+  {
+    "id": "tenue-0025", "distretto": "tenue", "argomento": "Riconoscere i vasi mesenterici",
+    "interventi": ["emicolectomia destra", "resezione intestinale"], "tipo": "immagine", "livello": 3,
+    "domanda": "Nello schema, quale arteria indica il punto evidenziato (1), il primo ramo colico dell'AMS diretto al trasverso?",
+    "opzioni": ["Arteria colica media", "Arteria colica destra", "Arteria gastroepiploica destra", "Arcata di Riolan"],
+    "corrette": [0],
+    "immagine": { "src": "img/mesenterica.svg", "hotspot": [{ "x": 48.8, "y": 27.8 }, { "x": 35, "y": 45.8 }, { "x": 31.3, "y": 68.8 }, { "x": 62.5, "y": 39.8 }, { "x": 60, "y": 60.8 }, { "x": 72.5, "y": 56.3 }, { "x": 72.5, "y": 75 }, { "x": 61.3, "y": 85 }, { "x": 80, "y": 35 }], "target": 0 },
+    "spiegazione": "La colica media (1) nasce dall'AMS al margine inferiore del pancreas, sale nel mesocolon trasverso e si divide in un ramo destro e uno sinistro.",
+    "fonte": { "testo": "Schema originale AnatoQuiz", "riferimento": "basato su Gray's Anatomy, sezione Addome – arteria mesenterica superiore" },
+    "tag": ["immagine", "vasi"], "verificata": false
+  }
+]
