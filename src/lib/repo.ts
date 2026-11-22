@@ -1,4 +1,4 @@
-import { db as defaultDb, getSettings, type AnatoDB, type ModeId, type StateRow } from './db';
+import { db as defaultDb, getSettings, reviveState, type AnatoDB, type ModeId, type StateRow } from './db';
 import { applyRating, makeScheduler, type Voto } from './fsrs';
 import type { CardT } from './schema';
 
@@ -9,7 +9,7 @@ export async function loadAll(d: AnatoDB = defaultDb) {
     d.reviews.toArray(),
     getSettings(d),
   ]);
-  return { cards, states: new Map(states.map((s) => [s.cardId, s])), reviews, settings };
+  return { cards, states: new Map(states.map((s) => [s.cardId, reviveState(s)])), reviews, settings };
 }
 
 export interface RecordArgs {
@@ -37,7 +37,8 @@ export async function recordReview(a: RecordArgs, d: AnatoDB = defaultDb): Promi
       mode: a.mode,
     });
     if (!a.schedula) return undefined;
-    const prev = await d.states.get(a.card.id);
+    const stored = await d.states.get(a.card.id);
+    const prev = stored && reviveState(stored);
     const next = applyRating(makeScheduler({ retention: a.retention }), a.card.id, prev, a.voto, now);
     await d.states.put(next);
     return next;

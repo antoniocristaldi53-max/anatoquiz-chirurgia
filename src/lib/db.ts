@@ -74,6 +74,13 @@ export class AnatoDB extends Dexie {
 
 export const db = new AnatoDB();
 
+/** Ricostruisce le date di uno stato letto dal DB (robusto a valori serializzati o di altri realm). */
+export function reviveState(s: StateRow): StateRow {
+  const out: StateRow = { ...s, due: new Date(+new Date(s.due as unknown as string)) };
+  if (s.last_review) out.last_review = new Date(+new Date(s.last_review as unknown as string));
+  return out;
+}
+
 export async function getMeta<T>(key: string, fallback: T, d: AnatoDB = db): Promise<T> {
   const row = await d.meta.get(key);
   return row === undefined ? fallback : (row.value as T);
