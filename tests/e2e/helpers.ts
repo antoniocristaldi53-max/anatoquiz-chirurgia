@@ -23,6 +23,8 @@ export async function answerCurrent(page: Page, voto: 1 | 3 = 3): Promise<string
   if (await avanti.isVisible()) await avanti.click();
   else if (voto === 3 && (await page.getByTestId('voto-3').isVisible())) await page.getByTestId('voto-3').click();
   else await page.getByTestId('voto-1').click();
+  // attende che la risposta sia salvata e compaia la card successiva (o il riepilogo)
+  await expect(page.getByTestId('feedback')).toHaveCount(0);
   return id;
 }
 

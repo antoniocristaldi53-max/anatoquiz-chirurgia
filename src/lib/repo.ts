@@ -1,4 +1,4 @@
-import { db as defaultDb, getSettings, reviveState, type AnatoDB, type ModeId, type StateRow } from './db';
+import { db as defaultDb, getSettings, reviveState, toStored, type AnatoDB, type ModeId, type StateRow } from './db';
 import { applyRating, makeScheduler, type Voto } from './fsrs';
 import type { CardT } from './schema';
 
@@ -40,7 +40,7 @@ export async function recordReview(a: RecordArgs, d: AnatoDB = defaultDb): Promi
     const stored = await d.states.get(a.card.id);
     const prev = stored && reviveState(stored);
     const next = applyRating(makeScheduler({ retention: a.retention }), a.card.id, prev, a.voto, now);
-    await d.states.put(next);
+    await d.states.put(toStored(next));
     return next;
   });
 }

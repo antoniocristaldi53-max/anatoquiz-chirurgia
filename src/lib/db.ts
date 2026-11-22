@@ -9,6 +9,12 @@ export interface StateRow extends FsrsCard {
   firstReview: number;
 }
 
+/** Stato come salvato in IndexedDB: le date sono timestamp numerici (ms). */
+export interface StoredState extends Omit<StateRow, 'due' | 'last_review'> {
+  due: number;
+  last_review?: number;
+}
+
 export type ModeId = 'giorno' | 'flash' | 'presala' | 'esplora' | 'deboli';
 
 export interface ReviewRow {
@@ -55,7 +61,7 @@ export const DEFAULT_SETTINGS: Settings = {
 
 export class AnatoDB extends Dexie {
   cards!: Table<CardT, string>;
-  states!: Table<StateRow, string>;
+  states!: Table<StoredState, string>;
   reviews!: Table<ReviewRow, number>;
   images!: Table<ImageRow, string>;
   meta!: Table<MetaRow, string>;
@@ -69,15 +75,38 @@ export class AnatoDB extends Dexie {
       images: 'id',
       meta: 'key',
     });
+    // v2: le date degli stati FSRS diventano timestamp numerici
+    this.version(2)
+      .stores({})
+      .upgrade((tx) =>
+        tx
+          .table('states')
+          .toCollection()
+          .modify((row: Record<string, unknown>) => {
+            row.due = toMs(row.due);
+            if (row.last_review != null) row.last_review = toMs(row.last_review);
+          }),
+      );
   }
 }
 
 export const db = new AnatoDB();
 
-/** Ricostruisce le date di uno stato letto dal DB (robusto a valori serializzati o di altri realm). */
-export function reviveState(s: StateRow): StateRow {
-  const out: StateRow = { ...s, due: new Date(+new Date(s.due as unknown as string)) };
-  if (s.last_review) out.last_review = new Date(+new Date(s.last_review as unknown as string));
+const toMs = (v: unknown): number => (typeof v === 'number' ? v : new Date(v as string | Date).getTime());
+
+/** Converte uno stato FSRS in formato da salvare (date → ms). */
+export function toStored(s: StateRow): StoredState {
+  const { due, last_review, ...rest } = s;
+  const out: StoredState = { ...rest, due: toMs(due) };
+  if (last_review) out.last_review = toMs(last_review);
+  return out;
+}
+
+/** Ricostruisce uno stato FSRS letto dal DB (ms → Date). */
+export function reviveState(s: StoredState): StateRow {
+  const { due, last_review, ...rest } = s;
+  const out: StateRow = { ...rest, due: new Date(due) };
+  if (last_review != null) out.last_review = new Date(last_review);
   return out;
 }
 

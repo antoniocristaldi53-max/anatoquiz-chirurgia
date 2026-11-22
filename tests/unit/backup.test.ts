@@ -41,7 +41,7 @@ describe('backup', () => {
 
     const after = await snapshot(d);
     expect(after).toEqual(before);
-    expect(after.states[0].due).toBeInstanceOf(Date);
+    expect(typeof after.states[0].due).toBe('number');
   });
 
   it('rifiuta un backup con card non valide senza toccare i dati', async () => {

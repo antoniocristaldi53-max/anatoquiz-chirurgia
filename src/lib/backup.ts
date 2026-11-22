@@ -1,10 +1,10 @@
-import { db as defaultDb, type AnatoDB, type ImageRow, type MetaRow, type ReviewRow, type StateRow } from './db';
+import { db as defaultDb, type AnatoDB, type ImageRow, type MetaRow, type ReviewRow, type StoredState } from './db';
 import { validateCard, type CardT } from './schema';
 
 export const BACKUP_APP = 'anatoquiz-chirurgia';
 export const BACKUP_SCHEMA = 1;
 
-type SerializedState = Omit<StateRow, 'due' | 'last_review'> & { due: string; last_review?: string };
+type SerializedState = Omit<StoredState, 'due' | 'last_review'> & { due: string; last_review?: string };
 
 export interface Backup {
   app: typeof BACKUP_APP;
@@ -36,8 +36,8 @@ export async function exportBackup(d: AnatoDB = defaultDb): Promise<Backup> {
     cards,
     states: states.map((s) => ({
       ...s,
-      due: s.due.toISOString(),
-      last_review: s.last_review ? s.last_review.toISOString() : undefined,
+      due: new Date(s.due).toISOString(),
+      last_review: s.last_review != null ? new Date(s.last_review).toISOString() : undefined,
     })),
     reviews,
     images,
@@ -45,10 +45,10 @@ export async function exportBackup(d: AnatoDB = defaultDb): Promise<Backup> {
   };
 }
 
-const reviveState = (s: SerializedState): StateRow => {
-  const out = { ...s, due: new Date(s.due) } as StateRow;
-  if (s.last_review) out.last_review = new Date(s.last_review);
-  else delete out.last_review;
+const reviveState = (s: SerializedState): StoredState => {
+  const { last_review, ...rest } = s;
+  const out: StoredState = { ...rest, due: Date.parse(s.due) };
+  if (last_review) out.last_review = Date.parse(last_review);
   return out;
 };
 

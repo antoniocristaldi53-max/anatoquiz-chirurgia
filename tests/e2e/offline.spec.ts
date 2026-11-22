@@ -17,7 +17,6 @@ test('modalità aereo: l\'app si apre offline e completa una sessione flash da 5
   await page.getByTestId('termina').click();
   await page.getByRole('button', { name: 'Torna a Oggi' }).click();
 
-  page.on('pageerror', (e) => console.log('PAGEERROR', e.stack?.slice(0, 600)));
   await context.setOffline(true);
   await page.clock.install();
   await page.reload();
@@ -30,5 +29,5 @@ test('modalità aereo: l\'app si apre offline e completa una sessione flash da 5
   await expect(page.getByTestId('timer')).toHaveText('0:00');
   await answerCurrent(page, 3);
   await expect(page.getByTestId('riepilogo')).toBeVisible();
-  await expect(page.getByTestId('riepilogo')).toContainText('2');
+  await expect(page.getByTestId('riepilogo')).toContainText('2 risposte');
 });

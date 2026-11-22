@@ -72,6 +72,8 @@ test('import di 10 card con 1 malformata: entrano 9, la malformata è segnalata'
 });
 
 test('backup: export, cancellazione, reimport → card e progressi identici', async ({ page }) => {
+  // su iPhone l'export usa il foglio di condivisione; nel test forziamo il download classico
+  await page.addInitScript(() => Object.defineProperty(Navigator.prototype, 'canShare', { value: undefined, configurable: true }));
   await freshStart(page);
   await page.getByTestId('mode-esplora').click();
   await page.getByTestId('distretto-collo').click();
