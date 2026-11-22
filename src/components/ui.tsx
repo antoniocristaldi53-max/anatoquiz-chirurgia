@@ -120,6 +120,9 @@ export function Empty({ children }: { children: ReactNode }) {
   return <div className="rounded-2xl border border-dashed border-line p-6 text-center text-muted">{children}</div>;
 }
 
+/** "1 risposta" / "N risposte" */
+export const nRisposte = (n: number) => `${n} ${n === 1 ? 'risposta' : 'risposte'}`;
+
 export function pct(x: number | null | undefined, digits = 0) {
   return x === null || x === undefined ? '—' : `${(x * 100).toFixed(digits)}%`;
 }

@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { Button, downloadFile, Field, inputCls, Panel, Pill, Screen } from '../components/ui';
+import { Button, downloadFile, Field, inputCls, nRisposte, Panel, Pill, Screen } from '../components/ui';
 import { backupFilename, exportBackup, restoreBackup, wipeAll } from '../lib/backup';
 import { saveSettings } from '../lib/db';
 import { importCards, parseImportText, type ImportReport } from '../lib/importer';
@@ -59,10 +59,10 @@ export default function Impostazioni({ data }: { data: AppData }) {
     setMsg('');
     const parsed = parseImportText(text, name);
     if (parsed.kind === 'backup') {
-      if (!confirm(`"${name}" è un backup completo (${parsed.backup.cards.length} card, ${parsed.backup.reviews.length} risposte). Sostituisce TUTTI i dati attuali. Continuare?`)) return;
+      if (!confirm(`"${name}" è un backup completo (${parsed.backup.cards.length} card, ${nRisposte(parsed.backup.reviews.length)}). Sostituisce TUTTI i dati attuali. Continuare?`)) return;
       try {
         const r = await restoreBackup(parsed.backup);
-        setMsg(`Backup ripristinato: ${r.cards} card, ${r.reviews} risposte.`);
+        setMsg(`Backup ripristinato: ${r.cards} card, ${nRisposte(r.reviews)}.`);
       } catch (e) {
         setMsg(`Ripristino non riuscito: ${(e as Error).message}`);
       }
@@ -203,7 +203,7 @@ export default function Impostazioni({ data }: { data: AppData }) {
             <li>Tocca Condividi → «Aggiungi alla schermata Home».</li>
             <li>Apri AnatoQuiz dall'icona: funziona anche offline e in modalità aereo.</li>
           </ol>
-          <p className="text-sm text-muted">Stato: {isStandalone() ? 'installata ✓' : 'aperta nel browser'} · {data.cards.length} card · {data.reviews.length} risposte registrate</p>
+          <p className="text-sm text-muted">Stato: {isStandalone() ? 'installata ✓' : 'aperta nel browser'} · {data.cards.length} card · {nRisposte(data.reviews.length)} registrate</p>
         </Panel>
 
         <Panel className="space-y-3">

@@ -164,7 +164,7 @@ export default function Session({ params }: { params: URLSearchParams }) {
       <Screen title="Sessione completata" nav={false}>
         <Panel className="space-y-2" >
           <div data-testid="riepilogo" className="text-lg">
-            <b>{e.answered}</b> risposte · <b>{pct(e.answered ? e.correct / e.answered : null)}</b> corrette
+            <b>{e.answered}</b> {e.answered === 1 ? 'risposta' : 'risposte'} · <b>{pct(e.answered ? e.correct / e.answered : null)}</b> corrette
           </div>
           <div className="text-muted">Durata: {mins < 1 ? 'meno di 1 minuto' : `${mins} min`}</div>
           {e.remaining > 0 && <div className="text-muted">{e.remaining} card rimaste in coda per la prossima volta.</div>}

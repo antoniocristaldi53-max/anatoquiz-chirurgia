@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import type { DayPoint, HeatCell, Mastery } from '../lib/stats';
 import { breveDistretto } from '../lib/schema';
-import { heatColor, heatInk, pct } from './ui';
+import { heatColor, heatInk, nRisposte, pct } from './ui';
 
 export function MasteryGrid({ mastery, compact }: { mastery: Mastery[]; compact?: boolean }) {
   return (
@@ -59,7 +59,7 @@ export function RecallHeatmap({ rows, weeks }: { rows: { distretto: string; cell
               {[...r.cells, r.totale].map((c, i) => (
                 <td
                   key={i}
-                  title={c.n ? `${pct(c.pct)} corrette su ${c.n} risposte` : 'nessuna risposta'}
+                  title={c.n ? `${pct(c.pct)} corrette su ${nRisposte(c.n)}` : 'nessuna risposta'}
                   className={`h-8 rounded text-center font-semibold ${i === r.cells.length ? 'border border-line' : ''}`}
                   style={{ background: heatColor(c.pct), color: heatInk(c.pct) }}
                 >
@@ -91,7 +91,7 @@ export function TrendChart({ days }: { days: DayPoint[] }) {
       <div className="mb-1 h-5 text-sm text-muted">
         {h ? (
           <span>
-            <b className="text-fg">{fmt(h.date)}</b>: {h.n} risposte{h.n ? `, ${pct(h.correct / h.n)} corrette` : ''}
+            <b className="text-fg">{fmt(h.date)}</b>: {nRisposte(h.n)}{h.n ? `, ${pct(h.correct / h.n)} corrette` : ''}
           </span>
         ) : (
           'Tocca una barra per i dettagli'

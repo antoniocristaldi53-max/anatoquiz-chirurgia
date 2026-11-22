@@ -1,6 +1,6 @@
 import { useMemo } from 'react';
 import { MasteryGrid, RecallHeatmap, SeqLegend, TrendChart } from '../components/Charts';
-import { Panel, Screen, pct } from '../components/ui';
+import { nRisposte, Panel, Screen, pct } from '../components/ui';
 import { makeScheduler } from '../lib/fsrs';
 import { dueCards } from '../lib/queue';
 import { avgSeconds, lastNDays, masteryMap, recallHeatmap, streak } from '../lib/stats';
@@ -34,7 +34,7 @@ export default function Statistiche({ data }: { data: AppData }) {
       <div className="mb-4 grid grid-cols-2 gap-2">
         <Kpi label="In scadenza oggi" value={due} testid="stat-scadenza" />
         <Kpi label="Serie" value={`${streak(data.reviews, now)} gg`} sub="giorni consecutivi" />
-        <Kpi label="Richiamo 30 gg" value={pct(tot30 ? ok30 / tot30 : null)} sub={`${tot30} risposte`} />
+        <Kpi label="Richiamo 30 gg" value={pct(tot30 ? ok30 / tot30 : null)} sub={nRisposte(tot30)} />
         <Kpi label="Tempo medio" value={avg === null ? '—' : `${avg.toFixed(1).replace('.', ',')} s`} sub="per risposta" />
       </div>
 
