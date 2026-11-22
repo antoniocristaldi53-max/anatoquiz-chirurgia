@@ -25,12 +25,16 @@ export function ImageWithHotspots({
   hotspot = [],
   target,
   onTap,
+  onMarkerTap,
+  selected,
   className,
 }: {
   src: string;
   hotspot?: { x: number; y: number }[];
   target?: number;
   onTap?: (x: number, y: number) => void;
+  onMarkerTap?: (i: number) => void;
+  selected?: number | null;
   className?: string;
 }) {
   const ref = useRef<HTMLDivElement>(null);
@@ -51,9 +55,18 @@ export function ImageWithHotspots({
           <span
             key={i}
             data-testid={`hotspot-${i + 1}`}
+            onClick={
+              onMarkerTap
+                ? (e) => {
+                    e.stopPropagation();
+                    onMarkerTap(i);
+                  }
+                : undefined
+            }
             className={cx(
               'absolute grid size-8 -translate-x-1/2 -translate-y-1/2 place-items-center rounded-full border-2 text-sm font-bold shadow',
               isT ? 'hotspot-pulse border-white bg-accent text-accent-fg' : 'border-white/80 bg-black/55 text-white',
+              selected === i && 'ring-4 ring-warn',
             )}
             style={{ left: `${h.x}%`, top: `${h.y}%` }}
           >
