@@ -13,7 +13,7 @@
     "test:e2e": "playwright test",
     "validate:content": "vitest run tests/unit/content.test.ts",
     "icons": "node scripts/make-icons.mjs",
-    "deploy:gh": "VITE_BASE=/anatoquiz/ npm run build && node scripts/deploy-gh-pages.mjs"
+    "deploy:gh": "node scripts/deploy-gh-pages.mjs"
   },
   "dependencies": {
     "dexie": "^4.4.7",

@@ -1,0 +1,8 @@
+# Cloudflare Pages: il service worker e il manifest non vanno messi in cache a lungo,
+# così gli aggiornamenti dell'app arrivano subito.
+/sw.js
+  Cache-Control: no-cache
+/manifest.webmanifest
+  Cache-Control: no-cache
+/index.html
+  Cache-Control: no-cache
