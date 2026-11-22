@@ -42,25 +42,25 @@ export function SeqLegend() {
 export function RecallHeatmap({ rows, weeks }: { rows: { distretto: string; cells: HeatCell[]; totale: HeatCell }[]; weeks: number }) {
   return (
     <div className="overflow-x-auto" data-testid="heatmap">
-      <table className="w-full border-separate border-spacing-[2px] text-xs">
+      <table className="w-full table-fixed border-separate border-spacing-[2px] text-[11px]">
         <thead>
           <tr className="text-muted">
-            <th className="text-left font-medium">Distretto</th>
+            <th className="w-[30%] text-left font-medium">Distretto</th>
             {Array.from({ length: weeks }, (_, i) => (
-              <th key={i} className="font-medium">{i === weeks - 1 ? 'Sett. corr.' : `−${weeks - 1 - i}`}</th>
+              <th key={i} className="font-medium" title={i === weeks - 1 ? 'Settimana corrente' : `${weeks - 1 - i} settimane fa`}>{i === weeks - 1 ? 'Ora' : `−${weeks - 1 - i}`}</th>
             ))}
-            <th className="font-medium">Tot.</th>
+            <th className="font-medium">Tot</th>
           </tr>
         </thead>
         <tbody>
           {rows.map((r) => (
             <tr key={r.distretto}>
-              <td className="pr-1 whitespace-nowrap">{breveDistretto(r.distretto)}</td>
+              <td className="truncate pr-1">{breveDistretto(r.distretto)}</td>
               {[...r.cells, r.totale].map((c, i) => (
                 <td
                   key={i}
                   title={c.n ? `${pct(c.pct)} corrette su ${c.n} risposte` : 'nessuna risposta'}
-                  className={`h-8 min-w-10 rounded text-center font-semibold ${i === r.cells.length ? 'border border-line' : ''}`}
+                  className={`h-8 rounded text-center font-semibold ${i === r.cells.length ? 'border border-line' : ''}`}
                   style={{ background: heatColor(c.pct), color: heatInk(c.pct) }}
                 >
                   {c.n ? pct(c.pct) : ''}
