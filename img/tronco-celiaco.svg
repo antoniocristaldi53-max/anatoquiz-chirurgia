@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+  <!-- Schema originale semplificato del tronco celiaco e dei suoi rami (vista anteriore, stomaco rimosso). Non in scala. -->
+  <rect width="400" height="400" fill="#fbf8f4"/>
+  <path d="M150,70 C200,55 240,80 300,95 C350,110 360,200 330,260 C300,330 220,350 150,320 C110,300 100,250 130,220" fill="#f0dcd6" stroke="#e0c3bb" stroke-width="2" stroke-dasharray="6 6"/>
+  <rect x="185" y="0" width="30" height="400" rx="10" fill="#d1675b"/>
+  <ellipse cx="388" cy="150" rx="26" ry="60" fill="#8e4a5a"/>
+  <g stroke="#b8322a" fill="none" stroke-linecap="round">
+    <path d="M200,160 L215,160" stroke-width="12"/>
+    <path d="M215,160 L170,60" stroke-width="6"/>
+    <path d="M215,160 C260,140 280,180 310,160 C330,148 350,160 370,150" stroke-width="7"/>
+    <path d="M215,160 L120,180" stroke-width="7"/>
+    <path d="M120,180 L125,300" stroke-width="6"/>
+    <path d="M120,180 L100,80" stroke-width="6"/>
+    <path d="M106,110 L170,95" stroke-width="4"/>
+    <path d="M125,300 C150,330 200,340 240,330" stroke-width="4"/>
+    <path d="M350,158 C340,230 300,300 250,330" stroke-width="4"/>
+    <path d="M355,152 L330,95" stroke-width="3"/>
+    <path d="M366,150 L350,88" stroke-width="3"/>
+  </g>
+  <circle cx="215" cy="160" r="7" fill="#8f241d"/>
+  <text x="392" y="392" font-family="sans-serif" font-size="11" fill="#8a7f75" text-anchor="end">Schema originale · non in scala</text>
+</svg>

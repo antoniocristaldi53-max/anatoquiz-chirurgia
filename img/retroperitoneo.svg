@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+  <!-- Schema originale semplificato del retroperitoneo (vista anteriore; il destro del paziente è a sinistra). Non in scala. -->
+  <rect width="400" height="400" fill="#fbf8f4"/>
+  <ellipse cx="95" cy="170" rx="38" ry="62" fill="#b7685e"/>
+  <ellipse cx="310" cy="160" rx="38" ry="62" fill="#b7685e"/>
+  <path d="M72,108 L100,82 L126,112 Z" fill="#e0b25a" stroke="#b48a45" stroke-width="2"/>
+  <path d="M272,118 C275,95 290,82 305,86 C300,100 292,112 286,124 Z" fill="#e0b25a" stroke="#b48a45" stroke-width="2"/>
+  <g stroke="#c0392b" stroke-linecap="round" fill="none">
+    <path d="M222,30 V280" stroke-width="22"/>
+    <path d="M222,280 L160,350 L130,400 M160,350 L185,400" stroke-width="10"/>
+    <path d="M222,280 L282,350 L310,400 M282,350 L258,400" stroke-width="10"/>
+    <path d="M234,150 L285,155" stroke-width="5"/>
+    <path d="M210,150 L120,168" stroke-width="5" stroke-dasharray="7 5"/>
+  </g>
+  <g stroke="#5b7fbf" stroke-linecap="round" fill="none">
+    <path d="M172,15 V290" stroke-width="24"/>
+    <path d="M172,290 L140,360 L118,400 M200,300 L250,360" stroke-width="11"/>
+    <path d="M285,166 C250,166 220,170 184,172" stroke-width="10"/>
+    <path d="M122,178 L160,178" stroke-width="9"/>
+    <path d="M120,100 L160,104" stroke-width="5"/>
+    <path d="M280,115 L275,165" stroke-width="5"/>
+    <path d="M120,360 L162,255" stroke-width="4"/>
+    <path d="M285,360 L270,170" stroke-width="4"/>
+  </g>
+  <g stroke="#e8d34a" stroke-width="6" fill="none" stroke-linecap="round">
+    <path d="M110,215 L140,330 L175,395"/>
+    <path d="M300,210 L290,330 L250,395"/>
+  </g>
+  <text x="392" y="392" font-family="sans-serif" font-size="11" fill="#8a7f75" text-anchor="end">Schema originale · non in scala</text>
+</svg>

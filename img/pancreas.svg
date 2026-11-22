@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+  <!-- Schema originale semplificato: pancreas, duodeno e rapporti vascolari (vista anteriore; il destro del paziente è a sinistra). Non in scala. -->
+  <rect width="400" height="400" fill="#fbf8f4"/>
+  <path d="M150,92 H95 C62,92 50,122 50,160 V262 C50,300 80,322 120,322 H250 C268,322 275,305 272,285" fill="none" stroke="#e9b8a8" stroke-width="34" stroke-linecap="round"/>
+  <!-- vene dietro il pancreas (tratteggiate) -->
+  <g fill="none" stroke-linecap="round">
+    <path d="M205,170 L190,40" stroke="#5b7fbf" stroke-width="16"/>
+    <path d="M215,400 L208,175" stroke="#5b7fbf" stroke-width="14"/>
+    <path d="M298,400 C300,330 296,240 292,162" stroke="#7d97cc" stroke-width="8"/>
+  </g>
+  <path d="M95,120 C140,105 175,125 200,135 C250,150 320,120 375,110 C388,130 372,160 330,170 C280,180 240,190 212,200 C200,240 185,292 150,302 C110,307 88,282 88,242 Z" fill="#f0c88a" stroke="#c99a52" stroke-width="2" opacity="0.93"/>
+  <path d="M208,168 C260,160 320,150 362,138" stroke="#5b7fbf" stroke-width="10" fill="none" stroke-dasharray="10 7" stroke-linecap="round"/>
+  <path d="M208,250 L208,175" stroke="#5b7fbf" stroke-width="14" fill="none" stroke-dasharray="10 7"/>
+  <!-- AMS -->
+  <path d="M245,195 L245,400" stroke="#c0392b" stroke-width="9" fill="none" stroke-linecap="round"/>
+  <!-- arteria gastroduodenale -->
+  <path d="M155,55 L165,150" stroke="#c0392b" stroke-width="6" fill="none" stroke-linecap="round"/>
+  <path d="M155,55 L235,60" stroke="#c0392b" stroke-width="6" fill="none" stroke-linecap="round"/>
+  <!-- coledoco -->
+  <path d="M120,40 C115,100 108,150 92,180" stroke="#3f8a3a" stroke-width="9" fill="none" stroke-linecap="round"/>
+  <path d="M92,180 C85,195 80,205 72,215" stroke="#3f8a3a" stroke-width="8" fill="none" stroke-dasharray="8 6"/>
+  <text x="392" y="392" font-family="sans-serif" font-size="11" fill="#8a7f75" text-anchor="end">Schema originale · non in scala</text>
+</svg>
